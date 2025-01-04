@@ -1,0 +1,14 @@
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\bin\Debug\net8.0\170. Simplified List (Delete).exe
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\bin\Debug\net8.0\170. Simplified List (Delete).deps.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\bin\Debug\net8.0\170. Simplified List (Delete).runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\bin\Debug\net8.0\170. Simplified List (Delete).dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\bin\Debug\net8.0\170. Simplified List (Delete).pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\obj\Debug\net8.0\170. Simplified List (Delete).GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\obj\Debug\net8.0\170. Simplified List (Delete).AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\obj\Debug\net8.0\170. Simplified List (Delete).AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\obj\Debug\net8.0\170. Simplified List (Delete).csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\obj\Debug\net8.0\170. Simplified List (Delete).dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\obj\Debug\net8.0\refint\170. Simplified List (Delete).dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\obj\Debug\net8.0\170. Simplified List (Delete).pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\obj\Debug\net8.0\170. Simplified List (Delete).genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\170. Simplified List (Delete)\obj\Debug\net8.0\ref\170. Simplified List (Delete).dll

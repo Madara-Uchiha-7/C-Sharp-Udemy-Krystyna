@@ -1,0 +1,14 @@
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\bin\Debug\net8.0\140. Handling exceptions. Try-catch-finally.exe
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\bin\Debug\net8.0\140. Handling exceptions. Try-catch-finally.deps.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\bin\Debug\net8.0\140. Handling exceptions. Try-catch-finally.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\bin\Debug\net8.0\140. Handling exceptions. Try-catch-finally.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\bin\Debug\net8.0\140. Handling exceptions. Try-catch-finally.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\obj\Debug\net8.0\140. Handling exceptions. Try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\obj\Debug\net8.0\140. Handling exceptions. Try-catch-finally.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\obj\Debug\net8.0\140. Handling exceptions. Try-catch-finally.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\obj\Debug\net8.0\140. Handling exceptions. Try-catch-finally.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\obj\Debug\net8.0\140. Handling exceptions. Try-catch-finally.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\obj\Debug\net8.0\refint\140. Handling exceptions. Try-catch-finally.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\obj\Debug\net8.0\140. Handling exceptions. Try-catch-finally.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\obj\Debug\net8.0\140. Handling exceptions. Try-catch-finally.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\140. Handling exceptions. Try-catch-finally\obj\Debug\net8.0\ref\140. Handling exceptions. Try-catch-finally.dll

@@ -1,0 +1,14 @@
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\bin\Debug\net8.0\105. A deeper inheritance hierarchy.exe
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\bin\Debug\net8.0\105. A deeper inheritance hierarchy.deps.json
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\bin\Debug\net8.0\105. A deeper inheritance hierarchy.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\bin\Debug\net8.0\105. A deeper inheritance hierarchy.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\bin\Debug\net8.0\105. A deeper inheritance hierarchy.pdb
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\obj\Debug\net8.0\105. A deeper inheritance hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\obj\Debug\net8.0\105. A deeper inheritance hierarchy.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\obj\Debug\net8.0\105. A deeper inheritance hierarchy.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\obj\Debug\net8.0\105. A deeper inheritance hierarchy.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\obj\Debug\net8.0\105. A deeper inheritance hierarchy.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\obj\Debug\net8.0\refint\105. A deeper inheritance hierarchy.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\obj\Debug\net8.0\105. A deeper inheritance hierarchy.pdb
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\obj\Debug\net8.0\105. A deeper inheritance hierarchy.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\105. A deeper inheritance hierarchy\obj\Debug\net8.0\ref\105. A deeper inheritance hierarchy.dll

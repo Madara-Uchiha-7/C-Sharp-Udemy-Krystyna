@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D97F352-EC5F-42A7-A067-807E70A18926}|84. Type constraints - summary. Multiple type constraints\\84. Type constraints - summary. Multiple type constraints.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\84. type constraints - summary. multiple type constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D97F352-EC5F-42A7-A067-807E70A18926}|84. Type constraints - summary. Multiple type constraints\\84. Type constraints - summary. Multiple type constraints.csproj|solutionrelative:84. type constraints - summary. multiple type constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30DD8F-42B8-4B41-B72F-4D6C19113FE3}|182. Constraint on implemented interface\\182. Constraint on implemented interface.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\182. constraint on implemented interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD30DD8F-42B8-4B41-B72F-4D6C19113FE3}|182. Constraint on implemented interface\\182. Constraint on implemented interface.csproj|solutionrelative:182. constraint on implemented interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C2CDFC-7FE9-4786-B542-E84B47D89AA1}|182_1. Exercise\\182_1. Exercise.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\182_1. exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C2CDFC-7FE9-4786-B542-E84B47D89AA1}|182_1. Exercise\\182_1. Exercise.csproj|solutionrelative:182_1. exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E11FC4B-7200-4350-97AE-5CBD22B266C5}|183. Type constraints - numeric types. Generic math\\183. Type constraints - numeric types. Generic math.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\183. type constraints - numeric types. generic math\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E11FC4B-7200-4350-97AE-5CBD22B266C5}|183. Type constraints - numeric types. Generic math\\183. Type constraints - numeric types. Generic math.csproj|solutionrelative:183. type constraints - numeric types. generic math\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B17FAB9-36B2-48C2-A7F7-BE15A71AD3B5}|167. Introduction to generic types\\167. Introduction to generic types.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\167. introduction to generic types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B17FAB9-36B2-48C2-A7F7-BE15A71AD3B5}|167. Introduction to generic types\\167. Introduction to generic types.csproj|solutionrelative:167. introduction to generic types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85E812F-1ACF-40C0-9AA5-5FE8E2B2DAEF}|181. IComparable interface. Ordering objects\\181. IComparable interface. Ordering objects.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\181. icomparable interface. ordering objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85E812F-1ACF-40C0-9AA5-5FE8E2B2DAEF}|181. IComparable interface. Ordering objects\\181. IComparable interface. Ordering objects.csproj|solutionrelative:181. icomparable interface. ordering objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F270F512-A19B-42FF-AC29-36FB0097FA27}|180. The constraint on the base type\\180. The constraint on the base type.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\180. the constraint on the base type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F270F512-A19B-42FF-AC29-36FB0097FA27}|180. The constraint on the base type\\180. The constraint on the base type.csproj|solutionrelative:180. the constraint on the base type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C95449-E1D9-4587-B4BC-4B7BE74265A8}|179. Improving the performance of the List\\179. Improving the performance of the List.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\179. improving the performance of the list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C95449-E1D9-4587-B4BC-4B7BE74265A8}|179. Improving the performance of the List\\179. Improving the performance of the List.csproj|solutionrelative:179. improving the performance of the list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1624262-E36F-43F8-8AE1-E30B76A8243D}|178. A need for type constraints\\178. A need for type constraints.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\178. a need for type constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1624262-E36F-43F8-8AE1-E30B76A8243D}|178. A need for type constraints\\178. A need for type constraints.csproj|solutionrelative:178. a need for type constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47CD0494-DA55-4D44-89F1-C80F675EABB7}|177. Convert.ChangeType(), \u0027typeof\u0027, Type object\\177. Convert.ChangeType(), \u0027typeof\u0027, Type object.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\177. convert.changetype(), \u0027typeof\u0027, type object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CD0494-DA55-4D44-89F1-C80F675EABB7}|177. Convert.ChangeType(), \u0027typeof\u0027, Type object\\177. Convert.ChangeType(), \u0027typeof\u0027, Type object.csproj|solutionrelative:177. convert.changetype(), \u0027typeof\u0027, type object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F62C7C-25D6-4919-87D4-00271E561C1A}|176. Generic methods with multiple type parameters\\176. Generic methods with multiple type parameters.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\176. generic methods with multiple type parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F62C7C-25D6-4919-87D4-00271E561C1A}|176. Generic methods with multiple type parameters\\176. Generic methods with multiple type parameters.csproj|solutionrelative:176. generic methods with multiple type parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA18C5E4-FFF3-4B74-89D7-8D9A4F51526D}|176_1. Exercise\\176_1. Exercise.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\176_1. exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA18C5E4-FFF3-4B74-89D7-8D9A4F51526D}|176_1. Exercise\\176_1. Exercise.csproj|solutionrelative:176_1. exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A4CF8B-975A-4798-B853-6A69BDF4D575}|175. Generic methods\\175. Generic methods.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\175. generic methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A4CF8B-975A-4798-B853-6A69BDF4D575}|175. Generic methods\\175. Generic methods.csproj|solutionrelative:175. generic methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3D8CDA-B858-46B4-8932-69152987841D}|174. C# without generics. ArrayList\\174. C# without generics. ArrayList.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\174. c# without generics. arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3D8CDA-B858-46B4-8932-69152987841D}|174. C# without generics. ArrayList\\174. C# without generics. ArrayList.csproj|solutionrelative:174. c# without generics. arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCC7C17-758B-4C46-863F-632ECE902C88}|173. Tuples\\173. Tuples.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\173. tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCC7C17-758B-4C46-863F-632ECE902C88}|173. Tuples\\173. Tuples.csproj|solutionrelative:173. tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F98985-B64E-4F8F-8BFC-76DBE105E4A3}|172. A need for tuples\\172. A need for tuples.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\172. a need for tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F98985-B64E-4F8F-8BFC-76DBE105E4A3}|172. A need for tuples\\172. A need for tuples.csproj|solutionrelative:172. a need for tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0D99C-D543-4F55-AF3B-E864A3469C79}|171_1 Exercise\\171_1 Exercise.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\171_1 exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0D99C-D543-4F55-AF3B-E864A3469C79}|171_1 Exercise\\171_1 Exercise.csproj|solutionrelative:171_1 exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372A7886-0579-41B0-99B6-55CA1F018BF7}|171. Implementing a generic type\\171. Implementing a generic type.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\171. implementing a generic type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372A7886-0579-41B0-99B6-55CA1F018BF7}|171. Implementing a generic type\\171. Implementing a generic type.csproj|solutionrelative:171. implementing a generic type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874B2AF4-8499-42E5-80A1-DEEFB2FF0203}|170. Simplified List (Delete)\\170. Simplified List (Delete).csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\170. simplified list (delete)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874B2AF4-8499-42E5-80A1-DEEFB2FF0203}|170. Simplified List (Delete)\\170. Simplified List (Delete).csproj|solutionrelative:170. simplified list (delete)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA1401D-33AD-4C28-B593-53FB66CC10C5}|169. Simplified List (Add)\\169. Simplified List (Add).csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\169. simplified list (add)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA1401D-33AD-4C28-B593-53FB66CC10C5}|169. Simplified List (Add)\\169. Simplified List (Add).csproj|solutionrelative:169. simplified list (add)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FCA75C-5222-4FB8-88DB-2774DD7B0D27}|168. Understanding how List works under the hood\\168. Understanding how List works under the hood.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\168. understanding how list works under the hood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FCA75C-5222-4FB8-88DB-2774DD7B0D27}|168. Understanding how List works under the hood\\168. Understanding how List works under the hood.csproj|solutionrelative:168. understanding how list works under the hood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\84. Type constraints - summary. Multiple type constraints\\Program.cs",
+              "RelativeDocumentMoniker": "84. Type constraints - summary. Multiple type constraints\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\84. Type constraints - summary. Multiple type constraints\\Program.cs",
+              "RelativeToolTip": "84. Type constraints - summary. Multiple type constraints\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:44:40.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\183. Type constraints - numeric types. Generic math\\Program.cs",
+              "RelativeDocumentMoniker": "183. Type constraints - numeric types. Generic math\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\183. Type constraints - numeric types. Generic math\\Program.cs",
+              "RelativeToolTip": "183. Type constraints - numeric types. Generic math\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:29:23.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\182_1. Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "182_1. Exercise\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\182_1. Exercise\\Program.cs",
+              "RelativeToolTip": "182_1. Exercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:51:42.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\182. Constraint on implemented interface\\Program.cs",
+              "RelativeDocumentMoniker": "182. Constraint on implemented interface\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\182. Constraint on implemented interface\\Program.cs",
+              "RelativeToolTip": "182. Constraint on implemented interface\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T08:36:27.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\181. IComparable interface. Ordering objects\\Program.cs",
+              "RelativeDocumentMoniker": "181. IComparable interface. Ordering objects\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\181. IComparable interface. Ordering objects\\Program.cs",
+              "RelativeToolTip": "181. IComparable interface. Ordering objects\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAUwEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:53:34.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\180. The constraint on the base type\\Program.cs",
+              "RelativeDocumentMoniker": "180. The constraint on the base type\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\180. The constraint on the base type\\Program.cs",
+              "RelativeToolTip": "180. The constraint on the base type\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:34:07.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\179. Improving the performance of the List\\Program.cs",
+              "RelativeDocumentMoniker": "179. Improving the performance of the List\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\179. Improving the performance of the List\\Program.cs",
+              "RelativeToolTip": "179. Improving the performance of the List\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:19:44.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\178. A need for type constraints\\Program.cs",
+              "RelativeDocumentMoniker": "178. A need for type constraints\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\178. A need for type constraints\\Program.cs",
+              "RelativeToolTip": "178. A need for type constraints\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T16:23:01.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\177. Convert.ChangeType(), \u0027typeof\u0027, Type object\\Program.cs",
+              "RelativeDocumentMoniker": "177. Convert.ChangeType(), \u0027typeof\u0027, Type object\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\177. Convert.ChangeType(), \u0027typeof\u0027, Type object\\Program.cs",
+              "RelativeToolTip": "177. Convert.ChangeType(), \u0027typeof\u0027, Type object\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:59:50.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\176_1. Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "176_1. Exercise\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\176_1. Exercise\\Program.cs",
+              "RelativeToolTip": "176_1. Exercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:54:36.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\176. Generic methods with multiple type parameters\\Program.cs",
+              "RelativeDocumentMoniker": "176. Generic methods with multiple type parameters\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\176. Generic methods with multiple type parameters\\Program.cs",
+              "RelativeToolTip": "176. Generic methods with multiple type parameters\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:08:14.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\175. Generic methods\\Program.cs",
+              "RelativeDocumentMoniker": "175. Generic methods\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\175. Generic methods\\Program.cs",
+              "RelativeToolTip": "175. Generic methods\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:20:12.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\174. C# without generics. ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "174. C# without generics. ArrayList\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\174. C# without generics. ArrayList\\Program.cs",
+              "RelativeToolTip": "174. C# without generics. ArrayList\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAEBVwDQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:40:12.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\173. Tuples\\Program.cs",
+              "RelativeDocumentMoniker": "173. Tuples\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\173. Tuples\\Program.cs",
+              "RelativeToolTip": "173. Tuples\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAwEgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:09:05.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\172. A need for tuples\\Program.cs",
+              "RelativeDocumentMoniker": "172. A need for tuples\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\172. A need for tuples\\Program.cs",
+              "RelativeToolTip": "172. A need for tuples\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:24:50.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\171_1 Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "171_1 Exercise\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\171_1 Exercise\\Program.cs",
+              "RelativeToolTip": "171_1 Exercise\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:19:33.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\171. Implementing a generic type\\Program.cs",
+              "RelativeDocumentMoniker": "171. Implementing a generic type\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\171. Implementing a generic type\\Program.cs",
+              "RelativeToolTip": "171. Implementing a generic type\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T05:44:09.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\170. Simplified List (Delete)\\Program.cs",
+              "RelativeDocumentMoniker": "170. Simplified List (Delete)\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\170. Simplified List (Delete)\\Program.cs",
+              "RelativeToolTip": "170. Simplified List (Delete)\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwFwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:41:49.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\169. Simplified List (Add)\\Program.cs",
+              "RelativeDocumentMoniker": "169. Simplified List (Add)\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\169. Simplified List (Add)\\Program.cs",
+              "RelativeToolTip": "169. Simplified List (Add)\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:16:45.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\168. Understanding how List works under the hood\\Program.cs",
+              "RelativeDocumentMoniker": "168. Understanding how List works under the hood\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\168. Understanding how List works under the hood\\Program.cs",
+              "RelativeToolTip": "168. Understanding how List works under the hood\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:04:36.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\167. Introduction to generic types\\Program.cs",
+              "RelativeDocumentMoniker": "167. Introduction to generic types\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\167. Introduction to generic types\\Program.cs",
+              "RelativeToolTip": "167. Introduction to generic types\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:53:54.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

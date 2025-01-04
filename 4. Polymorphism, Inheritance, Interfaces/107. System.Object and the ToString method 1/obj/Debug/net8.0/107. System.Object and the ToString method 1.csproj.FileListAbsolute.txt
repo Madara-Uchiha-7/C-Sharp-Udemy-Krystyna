@@ -1,0 +1,14 @@
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\bin\Debug\net8.0\107. System.Object and the ToString method 1.exe
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\bin\Debug\net8.0\107. System.Object and the ToString method 1.deps.json
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\bin\Debug\net8.0\107. System.Object and the ToString method 1.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\bin\Debug\net8.0\107. System.Object and the ToString method 1.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\bin\Debug\net8.0\107. System.Object and the ToString method 1.pdb
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\obj\Debug\net8.0\107. System.Object and the ToString method 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\obj\Debug\net8.0\107. System.Object and the ToString method 1.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\obj\Debug\net8.0\107. System.Object and the ToString method 1.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\obj\Debug\net8.0\107. System.Object and the ToString method 1.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\obj\Debug\net8.0\107. System.Object and the ToString method 1.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\obj\Debug\net8.0\refint\107. System.Object and the ToString method 1.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\obj\Debug\net8.0\107. System.Object and the ToString method 1.pdb
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\obj\Debug\net8.0\107. System.Object and the ToString method 1.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\107. System.Object and the ToString method 1\obj\Debug\net8.0\ref\107. System.Object and the ToString method 1.dll

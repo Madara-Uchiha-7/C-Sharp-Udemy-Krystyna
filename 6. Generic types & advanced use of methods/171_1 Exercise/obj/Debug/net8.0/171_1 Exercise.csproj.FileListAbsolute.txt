@@ -1,0 +1,4 @@
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\171_1 Exercise\obj\Debug\net8.0\171_1 Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\171_1 Exercise\obj\Debug\net8.0\171_1 Exercise.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\171_1 Exercise\obj\Debug\net8.0\171_1 Exercise.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\171_1 Exercise\obj\Debug\net8.0\171_1 Exercise.csproj.CoreCompileInputs.cache

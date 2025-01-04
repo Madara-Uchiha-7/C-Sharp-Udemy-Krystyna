@@ -1,0 +1,14 @@
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\bin\Debug\net8.0\173. Tuples.exe
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\bin\Debug\net8.0\173. Tuples.deps.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\bin\Debug\net8.0\173. Tuples.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\bin\Debug\net8.0\173. Tuples.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\bin\Debug\net8.0\173. Tuples.pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\obj\Debug\net8.0\173. Tuples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\obj\Debug\net8.0\173. Tuples.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\obj\Debug\net8.0\173. Tuples.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\obj\Debug\net8.0\173. Tuples.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\obj\Debug\net8.0\173. Tuples.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\obj\Debug\net8.0\refint\173. Tuples.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\obj\Debug\net8.0\173. Tuples.pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\obj\Debug\net8.0\173. Tuples.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\173. Tuples\obj\Debug\net8.0\ref\173. Tuples.dll

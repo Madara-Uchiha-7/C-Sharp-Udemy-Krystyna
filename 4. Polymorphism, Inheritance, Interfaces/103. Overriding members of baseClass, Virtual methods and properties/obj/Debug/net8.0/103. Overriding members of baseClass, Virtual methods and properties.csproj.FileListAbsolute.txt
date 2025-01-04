@@ -1,0 +1,1 @@
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\103. Overriding members of baseClass, Virtual methods and properties\obj\Debug\net8.0\103. Overriding members of baseClass, Virtual methods and properties.GeneratedMSBuildEditorConfig.editorconfig

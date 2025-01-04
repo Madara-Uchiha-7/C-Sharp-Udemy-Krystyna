@@ -1,0 +1,4 @@
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\167. Introduction to generic types\obj\Debug\net8.0\167. Introduction to generic types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\167. Introduction to generic types\obj\Debug\net8.0\167. Introduction to generic types.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\167. Introduction to generic types\obj\Debug\net8.0\167. Introduction to generic types.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\167. Introduction to generic types\obj\Debug\net8.0\167. Introduction to generic types.csproj.CoreCompileInputs.cache

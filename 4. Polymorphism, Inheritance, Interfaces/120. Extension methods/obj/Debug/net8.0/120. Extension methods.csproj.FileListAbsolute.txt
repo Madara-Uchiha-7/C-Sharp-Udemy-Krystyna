@@ -1,0 +1,14 @@
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\bin\Debug\net8.0\120. Extension methods.exe
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\bin\Debug\net8.0\120. Extension methods.deps.json
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\bin\Debug\net8.0\120. Extension methods.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\bin\Debug\net8.0\120. Extension methods.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\bin\Debug\net8.0\120. Extension methods.pdb
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\obj\Debug\net8.0\120. Extension methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\obj\Debug\net8.0\120. Extension methods.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\obj\Debug\net8.0\120. Extension methods.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\obj\Debug\net8.0\120. Extension methods.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\obj\Debug\net8.0\120. Extension methods.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\obj\Debug\net8.0\refint\120. Extension methods.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\obj\Debug\net8.0\120. Extension methods.pdb
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\obj\Debug\net8.0\120. Extension methods.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\120. Extension methods\obj\Debug\net8.0\ref\120. Extension methods.dll

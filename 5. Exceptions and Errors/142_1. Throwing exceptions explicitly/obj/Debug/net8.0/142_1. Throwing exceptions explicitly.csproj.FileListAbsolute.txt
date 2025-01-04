@@ -1,0 +1,14 @@
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\bin\Debug\net8.0\142_1. Throwing exceptions explicitly.exe
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\bin\Debug\net8.0\142_1. Throwing exceptions explicitly.deps.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\bin\Debug\net8.0\142_1. Throwing exceptions explicitly.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\bin\Debug\net8.0\142_1. Throwing exceptions explicitly.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\bin\Debug\net8.0\142_1. Throwing exceptions explicitly.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\obj\Debug\net8.0\142_1. Throwing exceptions explicitly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\obj\Debug\net8.0\142_1. Throwing exceptions explicitly.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\obj\Debug\net8.0\142_1. Throwing exceptions explicitly.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\obj\Debug\net8.0\142_1. Throwing exceptions explicitly.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\obj\Debug\net8.0\142_1. Throwing exceptions explicitly.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\obj\Debug\net8.0\refint\142_1. Throwing exceptions explicitly.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\obj\Debug\net8.0\142_1. Throwing exceptions explicitly.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\obj\Debug\net8.0\142_1. Throwing exceptions explicitly.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\142_1. Throwing exceptions explicitly\obj\Debug\net8.0\ref\142_1. Throwing exceptions explicitly.dll

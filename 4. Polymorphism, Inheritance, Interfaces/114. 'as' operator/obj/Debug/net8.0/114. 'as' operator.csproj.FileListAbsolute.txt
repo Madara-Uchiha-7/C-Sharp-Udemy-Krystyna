@@ -1,0 +1,4 @@
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\114. 'as' operator\obj\Debug\net8.0\114. 'as' operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\114. 'as' operator\obj\Debug\net8.0\114. 'as' operator.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\114. 'as' operator\obj\Debug\net8.0\114. 'as' operator.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\114. 'as' operator\obj\Debug\net8.0\114. 'as' operator.csproj.CoreCompileInputs.cache

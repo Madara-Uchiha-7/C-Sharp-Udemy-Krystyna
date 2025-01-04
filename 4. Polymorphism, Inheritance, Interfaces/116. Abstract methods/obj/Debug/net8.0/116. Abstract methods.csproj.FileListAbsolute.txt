@@ -1,0 +1,4 @@
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\116. Abstract methods\obj\Debug\net8.0\116. Abstract methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\116. Abstract methods\obj\Debug\net8.0\116. Abstract methods.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\116. Abstract methods\obj\Debug\net8.0\116. Abstract methods.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\116. Abstract methods\obj\Debug\net8.0\116. Abstract methods.csproj.CoreCompileInputs.cache

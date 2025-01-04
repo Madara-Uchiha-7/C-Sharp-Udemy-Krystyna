@@ -1,0 +1,14 @@
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\bin\Debug\net8.0\124. JSON.exe
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\bin\Debug\net8.0\124. JSON.deps.json
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\bin\Debug\net8.0\124. JSON.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\bin\Debug\net8.0\124. JSON.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\bin\Debug\net8.0\124. JSON.pdb
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\obj\Debug\net8.0\124. JSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\obj\Debug\net8.0\124. JSON.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\obj\Debug\net8.0\124. JSON.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\obj\Debug\net8.0\124. JSON.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\obj\Debug\net8.0\124. JSON.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\obj\Debug\net8.0\refint\124. JSON.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\obj\Debug\net8.0\124. JSON.pdb
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\obj\Debug\net8.0\124. JSON.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\124. JSON\obj\Debug\net8.0\ref\124. JSON.dll
