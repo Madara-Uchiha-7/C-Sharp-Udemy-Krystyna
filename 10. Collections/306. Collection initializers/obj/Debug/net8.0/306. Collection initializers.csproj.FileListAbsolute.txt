@@ -1,0 +1,14 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\bin\Debug\net8.0\306. Collection initializers.exe
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\bin\Debug\net8.0\306. Collection initializers.deps.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\bin\Debug\net8.0\306. Collection initializers.runtimeconfig.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\bin\Debug\net8.0\306. Collection initializers.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\bin\Debug\net8.0\306. Collection initializers.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\obj\Debug\net8.0\306. Collection initializers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\obj\Debug\net8.0\306. Collection initializers.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\obj\Debug\net8.0\306. Collection initializers.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\obj\Debug\net8.0\306. Collection initializers.csproj.CoreCompileInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\obj\Debug\net8.0\306. Collection initializers.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\obj\Debug\net8.0\refint\306. Collection initializers.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\obj\Debug\net8.0\306. Collection initializers.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\obj\Debug\net8.0\306. Collection initializers.genruntimeconfig.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\306. Collection initializers\obj\Debug\net8.0\ref\306. Collection initializers.dll

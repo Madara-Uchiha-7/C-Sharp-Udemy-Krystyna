@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "310. The benefits of readonly collections/1.0.0": {
+        "runtime": {
+          "310. The benefits of readonly collections.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "310. The benefits of readonly collections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

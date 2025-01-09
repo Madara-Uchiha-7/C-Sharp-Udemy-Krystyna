@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "312. Big O Notation/1.0.0": {
+        "runtime": {
+          "312. Big O Notation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "312. Big O Notation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

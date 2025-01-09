@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "314. Binary search algorithm - implementation/1.0.0": {
+        "runtime": {
+          "314. Binary search algorithm - implementation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "314. Binary search algorithm - implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

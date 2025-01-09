@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "308. Breaking the Interface Segregation Principle/1.0.0": {
+        "runtime": {
+          "308. Breaking the Interface Segregation Principle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "308. Breaking the Interface Segregation Principle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

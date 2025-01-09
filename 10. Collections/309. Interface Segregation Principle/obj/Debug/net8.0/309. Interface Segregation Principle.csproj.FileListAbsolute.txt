@@ -1,0 +1,4 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\309. Interface Segregation Principle\obj\Debug\net8.0\309. Interface Segregation Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\309. Interface Segregation Principle\obj\Debug\net8.0\309. Interface Segregation Principle.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\309. Interface Segregation Principle\obj\Debug\net8.0\309. Interface Segregation Principle.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\309. Interface Segregation Principle\obj\Debug\net8.0\309. Interface Segregation Principle.csproj.CoreCompileInputs.cache

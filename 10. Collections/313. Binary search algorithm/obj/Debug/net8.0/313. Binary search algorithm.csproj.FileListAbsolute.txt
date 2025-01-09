@@ -1,0 +1,4 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\313. Binary search algorithm\obj\Debug\net8.0\313. Binary search algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\313. Binary search algorithm\obj\Debug\net8.0\313. Binary search algorithm.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\313. Binary search algorithm\obj\Debug\net8.0\313. Binary search algorithm.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\313. Binary search algorithm\obj\Debug\net8.0\313. Binary search algorithm.csproj.CoreCompileInputs.cache

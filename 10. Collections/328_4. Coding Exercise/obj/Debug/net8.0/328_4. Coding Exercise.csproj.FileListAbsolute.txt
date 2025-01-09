@@ -1,0 +1,14 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\bin\Debug\net8.0\328_4. Coding Exercise.exe
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\bin\Debug\net8.0\328_4. Coding Exercise.deps.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\bin\Debug\net8.0\328_4. Coding Exercise.runtimeconfig.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\bin\Debug\net8.0\328_4. Coding Exercise.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\bin\Debug\net8.0\328_4. Coding Exercise.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\obj\Debug\net8.0\328_4. Coding Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\obj\Debug\net8.0\328_4. Coding Exercise.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\obj\Debug\net8.0\328_4. Coding Exercise.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\obj\Debug\net8.0\328_4. Coding Exercise.csproj.CoreCompileInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\obj\Debug\net8.0\328_4. Coding Exercise.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\obj\Debug\net8.0\refint\328_4. Coding Exercise.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\obj\Debug\net8.0\328_4. Coding Exercise.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\obj\Debug\net8.0\328_4. Coding Exercise.genruntimeconfig.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\328_4. Coding Exercise\obj\Debug\net8.0\ref\328_4. Coding Exercise.dll

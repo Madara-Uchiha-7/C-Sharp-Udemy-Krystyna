@@ -1,0 +1,14 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\bin\Debug\net8.0\304. Implementing IEnumerable T.exe
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\bin\Debug\net8.0\304. Implementing IEnumerable T.deps.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\bin\Debug\net8.0\304. Implementing IEnumerable T.runtimeconfig.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\bin\Debug\net8.0\304. Implementing IEnumerable T.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\bin\Debug\net8.0\304. Implementing IEnumerable T.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\obj\Debug\net8.0\304. Implementing IEnumerable T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\obj\Debug\net8.0\304. Implementing IEnumerable T.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\obj\Debug\net8.0\304. Implementing IEnumerable T.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\obj\Debug\net8.0\304. Implementing IEnumerable T.csproj.CoreCompileInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\obj\Debug\net8.0\304. Implementing IEnumerable T.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\obj\Debug\net8.0\refint\304. Implementing IEnumerable T.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\obj\Debug\net8.0\304. Implementing IEnumerable T.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\obj\Debug\net8.0\304. Implementing IEnumerable T.genruntimeconfig.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\304. Implementing IEnumerable T\obj\Debug\net8.0\ref\304. Implementing IEnumerable T.dll

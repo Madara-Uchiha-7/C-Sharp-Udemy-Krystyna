@@ -1,0 +1,14 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\bin\Debug\net8.0\305. Indexers.exe
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\bin\Debug\net8.0\305. Indexers.deps.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\bin\Debug\net8.0\305. Indexers.runtimeconfig.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\bin\Debug\net8.0\305. Indexers.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\bin\Debug\net8.0\305. Indexers.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\obj\Debug\net8.0\305. Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\obj\Debug\net8.0\305. Indexers.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\obj\Debug\net8.0\305. Indexers.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\obj\Debug\net8.0\305. Indexers.csproj.CoreCompileInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\obj\Debug\net8.0\305. Indexers.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\obj\Debug\net8.0\refint\305. Indexers.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\obj\Debug\net8.0\305. Indexers.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\obj\Debug\net8.0\305. Indexers.genruntimeconfig.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\305. Indexers\obj\Debug\net8.0\ref\305. Indexers.dll

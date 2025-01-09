@@ -1,0 +1,4 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\Coding Exercise 50 - ValueTuples & Custom indexer - PairOfArrays\obj\Debug\net8.0\305_1 - ValueTuples & Custom indexer - PairOfArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\Coding Exercise 50 - ValueTuples & Custom indexer - PairOfArrays\obj\Debug\net8.0\305_1 - ValueTuples & Custom indexer - PairOfArrays.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\Coding Exercise 50 - ValueTuples & Custom indexer - PairOfArrays\obj\Debug\net8.0\305_1 - ValueTuples & Custom indexer - PairOfArrays.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\Coding Exercise 50 - ValueTuples & Custom indexer - PairOfArrays\obj\Debug\net8.0\305_1 - ValueTuples & Custom indexer - PairOfArrays.csproj.CoreCompileInputs.cache

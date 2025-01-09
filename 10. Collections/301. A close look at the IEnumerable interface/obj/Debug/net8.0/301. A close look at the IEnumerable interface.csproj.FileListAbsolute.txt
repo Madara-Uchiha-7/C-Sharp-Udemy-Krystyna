@@ -1,0 +1,14 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\bin\Debug\net8.0\301. A close look at the IEnumerable interface.exe
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\bin\Debug\net8.0\301. A close look at the IEnumerable interface.deps.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\bin\Debug\net8.0\301. A close look at the IEnumerable interface.runtimeconfig.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\bin\Debug\net8.0\301. A close look at the IEnumerable interface.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\bin\Debug\net8.0\301. A close look at the IEnumerable interface.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\obj\Debug\net8.0\301. A close look at the IEnumerable interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\obj\Debug\net8.0\301. A close look at the IEnumerable interface.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\obj\Debug\net8.0\301. A close look at the IEnumerable interface.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\obj\Debug\net8.0\301. A close look at the IEnumerable interface.csproj.CoreCompileInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\obj\Debug\net8.0\301. A close look at the IEnumerable interface.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\obj\Debug\net8.0\refint\301. A close look at the IEnumerable interface.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\obj\Debug\net8.0\301. A close look at the IEnumerable interface.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\obj\Debug\net8.0\301. A close look at the IEnumerable interface.genruntimeconfig.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\301. A close look at the IEnumerable interface\obj\Debug\net8.0\ref\301. A close look at the IEnumerable interface.dll

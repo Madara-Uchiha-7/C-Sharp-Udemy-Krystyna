@@ -1,0 +1,14 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\bin\Debug\net8.0\307. ICollection and IList interfaces.exe
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\bin\Debug\net8.0\307. ICollection and IList interfaces.deps.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\bin\Debug\net8.0\307. ICollection and IList interfaces.runtimeconfig.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\bin\Debug\net8.0\307. ICollection and IList interfaces.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\bin\Debug\net8.0\307. ICollection and IList interfaces.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\obj\Debug\net8.0\307. ICollection and IList interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\obj\Debug\net8.0\307. ICollection and IList interfaces.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\obj\Debug\net8.0\307. ICollection and IList interfaces.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\obj\Debug\net8.0\307. ICollection and IList interfaces.csproj.CoreCompileInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\obj\Debug\net8.0\307. ICollection and IList interfaces.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\obj\Debug\net8.0\refint\307. ICollection and IList interfaces.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\obj\Debug\net8.0\307. ICollection and IList interfaces.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\obj\Debug\net8.0\307. ICollection and IList interfaces.genruntimeconfig.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\307. ICollection and IList interfaces\obj\Debug\net8.0\ref\307. ICollection and IList interfaces.dll
