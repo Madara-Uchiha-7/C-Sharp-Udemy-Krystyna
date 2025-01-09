@@ -1,0 +1,14 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\bin\Debug\net8.0\308. Breaking the Interface Segregation Principle.exe
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\bin\Debug\net8.0\308. Breaking the Interface Segregation Principle.deps.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\bin\Debug\net8.0\308. Breaking the Interface Segregation Principle.runtimeconfig.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\bin\Debug\net8.0\308. Breaking the Interface Segregation Principle.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\bin\Debug\net8.0\308. Breaking the Interface Segregation Principle.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\obj\Debug\net8.0\308. Breaking the Interface Segregation Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\obj\Debug\net8.0\308. Breaking the Interface Segregation Principle.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\obj\Debug\net8.0\308. Breaking the Interface Segregation Principle.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\obj\Debug\net8.0\308. Breaking the Interface Segregation Principle.csproj.CoreCompileInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\obj\Debug\net8.0\308. Breaking the Interface Segregation Principle.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\obj\Debug\net8.0\refint\308. Breaking the Interface Segregation Principle.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\obj\Debug\net8.0\308. Breaking the Interface Segregation Principle.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\obj\Debug\net8.0\308. Breaking the Interface Segregation Principle.genruntimeconfig.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\308. Breaking the Interface Segregation Principle\obj\Debug\net8.0\ref\308. Breaking the Interface Segregation Principle.dll

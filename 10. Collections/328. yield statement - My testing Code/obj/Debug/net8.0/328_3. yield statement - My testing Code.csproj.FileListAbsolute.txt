@@ -1,0 +1,14 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\bin\Debug\net8.0\328_3. yield statement - My testing Code.exe
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\bin\Debug\net8.0\328_3. yield statement - My testing Code.deps.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\bin\Debug\net8.0\328_3. yield statement - My testing Code.runtimeconfig.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\bin\Debug\net8.0\328_3. yield statement - My testing Code.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\bin\Debug\net8.0\328_3. yield statement - My testing Code.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\obj\Debug\net8.0\328_3. yield statement - My testing Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\obj\Debug\net8.0\328_3. yield statement - My testing Code.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\obj\Debug\net8.0\328_3. yield statement - My testing Code.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\obj\Debug\net8.0\328_3. yield statement - My testing Code.csproj.CoreCompileInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\obj\Debug\net8.0\328_3. yield statement - My testing Code.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\obj\Debug\net8.0\refint\328_3. yield statement - My testing Code.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\obj\Debug\net8.0\328_3. yield statement - My testing Code.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\obj\Debug\net8.0\328_3. yield statement - My testing Code.genruntimeconfig.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\328. yield statement - My testing Code\obj\Debug\net8.0\ref\328_3. yield statement - My testing Code.dll

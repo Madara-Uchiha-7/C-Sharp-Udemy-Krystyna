@@ -1,0 +1,666 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12A3940C-1F31-4AC7-AE40-120B0048F4AB}|329. Implementing IEnumerable interface using iterators\\329. Implementing IEnumerable interface using iterators.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\329. implementing ienumerable interface using iterators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A3940C-1F31-4AC7-AE40-120B0048F4AB}|329. Implementing IEnumerable interface using iterators\\329. Implementing IEnumerable interface using iterators.csproj|solutionrelative:329. implementing ienumerable interface using iterators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0C86E-9A66-4F9C-9F7E-98FF736885FA}|306. Collection initializers\\306. Collection initializers.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\306. collection initializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0C86E-9A66-4F9C-9F7E-98FF736885FA}|306. Collection initializers\\306. Collection initializers.csproj|solutionrelative:306. collection initializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD516BD-1CD6-4B8F-8984-9B464C583C04}|303. Implicit and explicit interface implementation\\303. Implicit and explicit interface implementation.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\303. implicit and explicit interface implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD516BD-1CD6-4B8F-8984-9B464C583C04}|303. Implicit and explicit interface implementation\\303. Implicit and explicit interface implementation.csproj|solutionrelative:303. implicit and explicit interface implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93596C6F-0668-4F04-84C8-B6D99A475E1A}|328_4. Coding Exercise\\328_4. Coding Exercise.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\328_4. coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93596C6F-0668-4F04-84C8-B6D99A475E1A}|328_4. Coding Exercise\\328_4. Coding Exercise.csproj|solutionrelative:328_4. coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F28E5D-E68C-43FB-9327-E931B1673C4D}|328. yield statement - My testing Code\\328. yield statement - My testing Code.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\328. yield statement - my testing code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F28E5D-E68C-43FB-9327-E931B1673C4D}|328. yield statement - My testing Code\\328. yield statement - My testing Code.csproj|solutionrelative:328. yield statement - my testing code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D8850-6CC8-4108-861F-906D48602C1E}|325. A need for yield statement\\325. A need for yield statement.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\325. a need for yield statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393D8850-6CC8-4108-861F-906D48602C1E}|325. A need for yield statement\\325. A need for yield statement.csproj|solutionrelative:325. a need for yield statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE30F2BF-7971-4E7D-B749-CAD81838F187}|326. yield statement - behavior analysis\\326. yield statement - behavior analysis.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\326. yield statement - behavior analysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE30F2BF-7971-4E7D-B749-CAD81838F187}|326. yield statement - behavior analysis\\326. yield statement - behavior analysis.csproj|solutionrelative:326. yield statement - behavior analysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D874927B-B26A-467F-8AD6-232601B99BF2}|327. yield statement and iterators\\327. yield statement and iterators.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\327. yield statement and iterators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D874927B-B26A-467F-8AD6-232601B99BF2}|327. yield statement and iterators\\327. yield statement and iterators.csproj|solutionrelative:327. yield statement and iterators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417E0A05-A90D-4CD9-9D8B-4E63DFD7D1F9}|328. yield statement - practice. yield break statement\\328. yield statement - practice. yield break statement.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\328. yield statement - practice. yield break statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417E0A05-A90D-4CD9-9D8B-4E63DFD7D1F9}|328. yield statement - practice. yield break statement\\328. yield statement - practice. yield break statement.csproj|solutionrelative:328. yield statement - practice. yield break statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EE7F4F-AB15-41D6-9B34-C725E44F9C84}|328_2. yield statement - practice. yield break statement\\328_2. yield statement - practice. yield break statement.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\328_2. yield statement - practice. yield break statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EE7F4F-AB15-41D6-9B34-C725E44F9C84}|328_2. yield statement - practice. yield break statement\\328_2. yield statement - practice. yield break statement.csproj|solutionrelative:328_2. yield statement - practice. yield break statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92749B8-3CA4-4D5B-90CC-880C7739A1BC}|324_1. Code Exercise\\324_1. Code Exercise.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\324_1. code exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92749B8-3CA4-4D5B-90CC-880C7739A1BC}|324_1. Code Exercise\\324_1. Code Exercise.csproj|solutionrelative:324_1. code exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED090A-F539-4865-A1E5-069CDE74BA66}|328_1. yield statement - practice. yield break statement\\328_1. yield statement - practice. yield break statement.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\328_1. yield statement - practice. yield break statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADED090A-F539-4865-A1E5-069CDE74BA66}|328_1. yield statement - practice. yield break statement\\328_1. yield statement - practice. yield break statement.csproj|solutionrelative:328_1. yield statement - practice. yield break statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF78C896-37C1-4886-8EF4-263C0D39B952}|320. Performance of Dictionaries\\320. Performance of Dictionaries.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\320. performance of dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF78C896-37C1-4886-8EF4-263C0D39B952}|320. Performance of Dictionaries\\320. Performance of Dictionaries.csproj|solutionrelative:320. performance of dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BEDB86-B875-4A9B-8B20-98927107EC6A}|324. params keyword\\324. params keyword.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\324. params keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BEDB86-B875-4A9B-8B20-98927107EC6A}|324. params keyword\\324. params keyword.csproj|solutionrelative:324. params keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428BB801-D29D-4906-AE1F-CE1F92BF94DE}|323. Stack\\323. Stack.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\323. stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428BB801-D29D-4906-AE1F-CE1F92BF94DE}|323. Stack\\323. Stack.csproj|solutionrelative:323. stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89682658-04C8-4EE7-BB3E-227D5621F234}|322. Queue\\322. Queue.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\322. queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89682658-04C8-4EE7-BB3E-227D5621F234}|322. Queue\\322. Queue.csproj|solutionrelative:322. queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB22267E-4F6E-461C-A5B6-B89E8EABC0D5}|321_1. Code Quiz on HashSet\\321_1. Code Quiz on HashSet.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\321_1. code quiz on hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB22267E-4F6E-461C-A5B6-B89E8EABC0D5}|321_1. Code Quiz on HashSet\\321_1. Code Quiz on HashSet.csproj|solutionrelative:321_1. code quiz on hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB50065-E557-4A49-937A-0B32018445BE}|321. HashSet\\321. HashSet.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\321. hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB50065-E557-4A49-937A-0B32018445BE}|321. HashSet\\321. HashSet.csproj|solutionrelative:321. hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2078F668-E4BC-4106-80B3-96408D9D805E}|320_1. Quiz - Performance of collections\\320_1. Quiz - Performance of collections.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\320_1. quiz - performance of collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2078F668-E4BC-4106-80B3-96408D9D805E}|320_1. Quiz - Performance of collections\\320_1. Quiz - Performance of collections.csproj|solutionrelative:320_1. quiz - performance of collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBDC870-A7B5-44A1-BB29-DD86DD930C6B}|319. Dictionaries under the hood\\319. Dictionaries under the hood.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\319. dictionaries under the hood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBDC870-A7B5-44A1-BB29-DD86DD930C6B}|319. Dictionaries under the hood\\319. Dictionaries under the hood.csproj|solutionrelative:319. dictionaries under the hood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7414230-D574-4BAC-AED1-B868551241CA}|318. Linked list vs List\\318. Linked list vs List.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\318. linked list vs list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7414230-D574-4BAC-AED1-B868551241CA}|318. Linked list vs List\\318. Linked list vs List.csproj|solutionrelative:318. linked list vs list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EA1BCF-07FB-4788-ACA9-EDF685B8F3AD}|317. Linked list\\317. Linked list.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\317. linked list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EA1BCF-07FB-4788-ACA9-EDF685B8F3AD}|317. Linked list\\317. Linked list.csproj|solutionrelative:317. linked list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C6E9E-3018-4C4A-BEE3-AED0C78F0F7C}|316. Improving performance when using Lists\\316. Improving performance when using Lists.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\316. improving performance when using lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06C6E9E-3018-4C4A-BEE3-AED0C78F0F7C}|316. Improving performance when using Lists\\316. Improving performance when using Lists.csproj|solutionrelative:316. improving performance when using lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6802CF4C-2C38-47BB-89F5-1438BA710711}|315. Binary search algorithm - complexity\\315. Binary search algorithm - complexity.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\315. binary search algorithm - complexity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6802CF4C-2C38-47BB-89F5-1438BA710711}|315. Binary search algorithm - complexity\\315. Binary search algorithm - complexity.csproj|solutionrelative:315. binary search algorithm - complexity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4511DA77-C55F-4EFF-9911-B1C317A10405}|314. Binary search algorithm - implementation\\314. Binary search algorithm - implementation.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\314. binary search algorithm - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4511DA77-C55F-4EFF-9911-B1C317A10405}|314. Binary search algorithm - implementation\\314. Binary search algorithm - implementation.csproj|solutionrelative:314. binary search algorithm - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F8A216-8CC6-40F0-B827-660B33219E3F}|313. Binary search algorithm\\313. Binary search algorithm.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\313. binary search algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F8A216-8CC6-40F0-B827-660B33219E3F}|313. Binary search algorithm\\313. Binary search algorithm.csproj|solutionrelative:313. binary search algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35C3DD0-65A6-40AA-BA21-4B192346803F}|312. Big O Notation\\312. Big O Notation.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\312. big o notation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35C3DD0-65A6-40AA-BA21-4B192346803F}|312. Big O Notation\\312. Big O Notation.csproj|solutionrelative:312. big o notation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FA6794-B4E0-4690-AB9F-8FE014B036B7}|311. Readonly collections. ReadOnlyCollection and ReadOnlyDictionary\\311. Readonly collections. ReadOnlyCollection and ReadOnlyDictionary.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\311. readonly collections. readonlycollection and readonlydictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FA6794-B4E0-4690-AB9F-8FE014B036B7}|311. Readonly collections. ReadOnlyCollection and ReadOnlyDictionary\\311. Readonly collections. ReadOnlyCollection and ReadOnlyDictionary.csproj|solutionrelative:311. readonly collections. readonlycollection and readonlydictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BF524A-F303-462C-A7DA-1D44A59D5AC9}|309. Interface Segregation Principle\\309. Interface Segregation Principle.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\309. interface segregation principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BF524A-F303-462C-A7DA-1D44A59D5AC9}|309. Interface Segregation Principle\\309. Interface Segregation Principle.csproj|solutionrelative:309. interface segregation principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D90B6B9-BA12-46F4-8731-0CDB850AECD2}|310. The benefits of readonly collections\\310. The benefits of readonly collections.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\310. the benefits of readonly collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D90B6B9-BA12-46F4-8731-0CDB850AECD2}|310. The benefits of readonly collections\\310. The benefits of readonly collections.csproj|solutionrelative:310. the benefits of readonly collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB5B9C6-CF94-4583-A16D-2B156E1273FD}|307. ICollection and IList interfaces\\307. ICollection and IList interfaces.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\307. icollection and ilist interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB5B9C6-CF94-4583-A16D-2B156E1273FD}|307. ICollection and IList interfaces\\307. ICollection and IList interfaces.csproj|solutionrelative:307. icollection and ilist interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85CB433-0611-4835-AF60-288FE571D95E}|308. Breaking the Interface Segregation Principle\\308. Breaking the Interface Segregation Principle.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\308. breaking the interface segregation principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85CB433-0611-4835-AF60-288FE571D95E}|308. Breaking the Interface Segregation Principle\\308. Breaking the Interface Segregation Principle.csproj|solutionrelative:308. breaking the interface segregation principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114CA2E8-F91C-4134-A129-11EC306550AD}|304. Implementing IEnumerable T\\304. Implementing IEnumerable T.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\304. implementing ienumerable t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114CA2E8-F91C-4134-A129-11EC306550AD}|304. Implementing IEnumerable T\\304. Implementing IEnumerable T.csproj|solutionrelative:304. implementing ienumerable t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081B5CA-975E-4277-B6F2-14EC8BE02878}|Coding Exercise 50 - ValueTuples \u0026 Custom indexer - PairOfArrays\\305_1 - ValueTuples \u0026 Custom indexer - PairOfArrays.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\coding exercise 50 - valuetuples \u0026 custom indexer - pairofarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081B5CA-975E-4277-B6F2-14EC8BE02878}|Coding Exercise 50 - ValueTuples \u0026 Custom indexer - PairOfArrays\\305_1 - ValueTuples \u0026 Custom indexer - PairOfArrays.csproj|solutionrelative:coding exercise 50 - valuetuples \u0026 custom indexer - pairofarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EF6091-E7C2-4545-B313-1C68FE39FBAD}|305. Indexers\\305. Indexers.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\305. indexers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EF6091-E7C2-4545-B313-1C68FE39FBAD}|305. Indexers\\305. Indexers.csproj|solutionrelative:305. indexers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACCF920-104F-45A6-A8B9-5C6EFBBEC3F3}|302. Implementing IEnumerable\\302. Implementing IEnumerable.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\302. implementing ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACCF920-104F-45A6-A8B9-5C6EFBBEC3F3}|302. Implementing IEnumerable\\302. Implementing IEnumerable.csproj|solutionrelative:302. implementing ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4D0B5B-63F4-430C-AD7E-FB1B4D48CA50}|301. A close look at the IEnumerable interface\\301. A close look at the IEnumerable interface.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\301. a close look at the ienumerable interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4D0B5B-63F4-430C-AD7E-FB1B4D48CA50}|301. A close look at the IEnumerable interface\\301. A close look at the IEnumerable interface.csproj|solutionrelative:301. a close look at the ienumerable interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3848F2C3-8F11-4698-8A84-D399975E39EF}|300. The role of the IEnumerable interface\\300. The role of the IEnumerable interface.csproj|c:\\learn udemy ibm\\10. collections\\10. collections\\300. the role of the ienumerable interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3848F2C3-8F11-4698-8A84-D399975E39EF}|300. The role of the IEnumerable interface\\300. The role of the IEnumerable interface.csproj|solutionrelative:300. the role of the ienumerable interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\329. Implementing IEnumerable interface using iterators\\Program.cs",
+              "RelativeDocumentMoniker": "329. Implementing IEnumerable interface using iterators\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\329. Implementing IEnumerable interface using iterators\\Program.cs",
+              "RelativeToolTip": "329. Implementing IEnumerable interface using iterators\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwFUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:17:29.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\328_4. Coding Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "328_4. Coding Exercise\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\328_4. Coding Exercise\\Program.cs",
+              "RelativeToolTip": "328_4. Coding Exercise\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T09:49:13.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\328_1. yield statement - practice. yield break statement\\Program.cs",
+              "RelativeDocumentMoniker": "328_1. yield statement - practice. yield break statement\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\328_1. yield statement - practice. yield break statement\\Program.cs",
+              "RelativeToolTip": "328_1. yield statement - practice. yield break statement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:01:19.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\328. yield statement - practice. yield break statement\\Program.cs",
+              "RelativeDocumentMoniker": "328. yield statement - practice. yield break statement\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\328. yield statement - practice. yield break statement\\Program.cs",
+              "RelativeToolTip": "328. yield statement - practice. yield break statement\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:57:17.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\327. yield statement and iterators\\Program.cs",
+              "RelativeDocumentMoniker": "327. yield statement and iterators\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\327. yield statement and iterators\\Program.cs",
+              "RelativeToolTip": "327. yield statement and iterators\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:21:18.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\326. yield statement - behavior analysis\\Program.cs",
+              "RelativeDocumentMoniker": "326. yield statement - behavior analysis\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\326. yield statement - behavior analysis\\Program.cs",
+              "RelativeToolTip": "326. yield statement - behavior analysis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:07:27.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\325. A need for yield statement\\Program.cs",
+              "RelativeDocumentMoniker": "325. A need for yield statement\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\325. A need for yield statement\\Program.cs",
+              "RelativeToolTip": "325. A need for yield statement\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:09:21.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\303. Implicit and explicit interface implementation\\Program.cs",
+              "RelativeDocumentMoniker": "303. Implicit and explicit interface implementation\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\303. Implicit and explicit interface implementation\\Program.cs",
+              "RelativeToolTip": "303. Implicit and explicit interface implementation\\Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAIA4wCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:09:51.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\306. Collection initializers\\Program.cs",
+              "RelativeDocumentMoniker": "306. Collection initializers\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\306. Collection initializers\\Program.cs",
+              "RelativeToolTip": "306. Collection initializers\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:04:13.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\328_2. yield statement - practice. yield break statement\\Program.cs",
+              "RelativeDocumentMoniker": "328_2. yield statement - practice. yield break statement\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\328_2. yield statement - practice. yield break statement\\Program.cs",
+              "RelativeToolTip": "328_2. yield statement - practice. yield break statement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:10:26.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\328. yield statement - My testing Code\\Program.cs",
+              "RelativeDocumentMoniker": "328. yield statement - My testing Code\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\328. yield statement - My testing Code\\Program.cs",
+              "RelativeToolTip": "328. yield statement - My testing Code\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:47:45.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\324_1. Code Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "324_1. Code Exercise\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\324_1. Code Exercise\\Program.cs",
+              "RelativeToolTip": "324_1. Code Exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:05:00.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\324. params keyword\\Program.cs",
+              "RelativeDocumentMoniker": "324. params keyword\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\324. params keyword\\Program.cs",
+              "RelativeToolTip": "324. params keyword\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAABQwDkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:21:46.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\323. Stack\\Program.cs",
+              "RelativeDocumentMoniker": "323. Stack\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\323. Stack\\Program.cs",
+              "RelativeToolTip": "323. Stack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:41:32.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\322. Queue\\Program.cs",
+              "RelativeDocumentMoniker": "322. Queue\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\322. Queue\\Program.cs",
+              "RelativeToolTip": "322. Queue\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwB0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:59:42.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\321_1. Code Quiz on HashSet\\Program.cs",
+              "RelativeDocumentMoniker": "321_1. Code Quiz on HashSet\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\321_1. Code Quiz on HashSet\\Program.cs",
+              "RelativeToolTip": "321_1. Code Quiz on HashSet\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:50:44.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\321. HashSet\\Program.cs",
+              "RelativeDocumentMoniker": "321. HashSet\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\321. HashSet\\Program.cs",
+              "RelativeToolTip": "321. HashSet\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:45:49.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\320_1. Quiz - Performance of collections\\Program.cs",
+              "RelativeDocumentMoniker": "320_1. Quiz - Performance of collections\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\320_1. Quiz - Performance of collections\\Program.cs",
+              "RelativeToolTip": "320_1. Quiz - Performance of collections\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:43:08.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\320. Performance of Dictionaries\\Program.cs",
+              "RelativeDocumentMoniker": "320. Performance of Dictionaries\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\320. Performance of Dictionaries\\Program.cs",
+              "RelativeToolTip": "320. Performance of Dictionaries\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:09:08.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\319. Dictionaries under the hood\\Program.cs",
+              "RelativeDocumentMoniker": "319. Dictionaries under the hood\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\319. Dictionaries under the hood\\Program.cs",
+              "RelativeToolTip": "319. Dictionaries under the hood\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:51:43.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\318. Linked list vs List\\Program.cs",
+              "RelativeDocumentMoniker": "318. Linked list vs List\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\318. Linked list vs List\\Program.cs",
+              "RelativeToolTip": "318. Linked list vs List\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIBJwCkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:28:35.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\317. Linked list\\Program.cs",
+              "RelativeDocumentMoniker": "317. Linked list\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\317. Linked list\\Program.cs",
+              "RelativeToolTip": "317. Linked list\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:06:36.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\316. Improving performance when using Lists\\Program.cs",
+              "RelativeDocumentMoniker": "316. Improving performance when using Lists\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\316. Improving performance when using Lists\\Program.cs",
+              "RelativeToolTip": "316. Improving performance when using Lists\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowFwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:26:41.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\315. Binary search algorithm - complexity\\Program.cs",
+              "RelativeDocumentMoniker": "315. Binary search algorithm - complexity\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\315. Binary search algorithm - complexity\\Program.cs",
+              "RelativeToolTip": "315. Binary search algorithm - complexity\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:03:44.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\314. Binary search algorithm - implementation\\Program.cs",
+              "RelativeDocumentMoniker": "314. Binary search algorithm - implementation\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\314. Binary search algorithm - implementation\\Program.cs",
+              "RelativeToolTip": "314. Binary search algorithm - implementation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:45:01.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\313. Binary search algorithm\\Program.cs",
+              "RelativeDocumentMoniker": "313. Binary search algorithm\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\313. Binary search algorithm\\Program.cs",
+              "RelativeToolTip": "313. Binary search algorithm\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:50:23.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\312. Big O Notation\\Program.cs",
+              "RelativeDocumentMoniker": "312. Big O Notation\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\312. Big O Notation\\Program.cs",
+              "RelativeToolTip": "312. Big O Notation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:38:07.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\311. Readonly collections. ReadOnlyCollection and ReadOnlyDictionary\\Program.cs",
+              "RelativeDocumentMoniker": "311. Readonly collections. ReadOnlyCollection and ReadOnlyDictionary\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\311. Readonly collections. ReadOnlyCollection and ReadOnlyDictionary\\Program.cs",
+              "RelativeToolTip": "311. Readonly collections. ReadOnlyCollection and ReadOnlyDictionary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:33:50.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\310. The benefits of readonly collections\\Program.cs",
+              "RelativeDocumentMoniker": "310. The benefits of readonly collections\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\310. The benefits of readonly collections\\Program.cs",
+              "RelativeToolTip": "310. The benefits of readonly collections\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:02:45.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\309. Interface Segregation Principle\\Program.cs",
+              "RelativeDocumentMoniker": "309. Interface Segregation Principle\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\309. Interface Segregation Principle\\Program.cs",
+              "RelativeToolTip": "309. Interface Segregation Principle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:40:01.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\308. Breaking the Interface Segregation Principle\\Program.cs",
+              "RelativeDocumentMoniker": "308. Breaking the Interface Segregation Principle\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\308. Breaking the Interface Segregation Principle\\Program.cs",
+              "RelativeToolTip": "308. Breaking the Interface Segregation Principle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:00:41.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\307. ICollection and IList interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "307. ICollection and IList interfaces\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\307. ICollection and IList interfaces\\Program.cs",
+              "RelativeToolTip": "307. ICollection and IList interfaces\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwDwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:12:20.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\305. Indexers\\Program.cs",
+              "RelativeDocumentMoniker": "305. Indexers\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\305. Indexers\\Program.cs",
+              "RelativeToolTip": "305. Indexers\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwDgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:48:15.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\Coding Exercise 50 - ValueTuples \u0026 Custom indexer - PairOfArrays\\Program.cs",
+              "RelativeDocumentMoniker": "Coding Exercise 50 - ValueTuples \u0026 Custom indexer - PairOfArrays\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\Coding Exercise 50 - ValueTuples \u0026 Custom indexer - PairOfArrays\\Program.cs",
+              "RelativeToolTip": "Coding Exercise 50 - ValueTuples \u0026 Custom indexer - PairOfArrays\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwDEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:07:15.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\304. Implementing IEnumerable T\\Program.cs",
+              "RelativeDocumentMoniker": "304. Implementing IEnumerable T\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\304. Implementing IEnumerable T\\Program.cs",
+              "RelativeToolTip": "304. Implementing IEnumerable T\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:57:21.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\302. Implementing IEnumerable\\Program.cs",
+              "RelativeDocumentMoniker": "302. Implementing IEnumerable\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\302. Implementing IEnumerable\\Program.cs",
+              "RelativeToolTip": "302. Implementing IEnumerable\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:45:06.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\301. A close look at the IEnumerable interface\\Program.cs",
+              "RelativeDocumentMoniker": "301. A close look at the IEnumerable interface\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\301. A close look at the IEnumerable interface\\Program.cs",
+              "RelativeToolTip": "301. A close look at the IEnumerable interface\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:53:42.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\300. The role of the IEnumerable interface\\Program.cs",
+              "RelativeDocumentMoniker": "300. The role of the IEnumerable interface\\Program.cs",
+              "ToolTip": "C:\\Learn Udemy IBM\\10. Collections\\10. Collections\\300. The role of the IEnumerable interface\\Program.cs",
+              "RelativeToolTip": "300. The role of the IEnumerable interface\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:53:20.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

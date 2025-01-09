@@ -1,0 +1,14 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\bin\Debug\net8.0\316. Improving performance when using Lists.exe
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\bin\Debug\net8.0\316. Improving performance when using Lists.deps.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\bin\Debug\net8.0\316. Improving performance when using Lists.runtimeconfig.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\bin\Debug\net8.0\316. Improving performance when using Lists.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\bin\Debug\net8.0\316. Improving performance when using Lists.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\obj\Debug\net8.0\316. Improving performance when using Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\obj\Debug\net8.0\316. Improving performance when using Lists.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\obj\Debug\net8.0\316. Improving performance when using Lists.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\obj\Debug\net8.0\316. Improving performance when using Lists.csproj.CoreCompileInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\obj\Debug\net8.0\316. Improving performance when using Lists.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\obj\Debug\net8.0\refint\316. Improving performance when using Lists.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\obj\Debug\net8.0\316. Improving performance when using Lists.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\obj\Debug\net8.0\316. Improving performance when using Lists.genruntimeconfig.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\316. Improving performance when using Lists\obj\Debug\net8.0\ref\316. Improving performance when using Lists.dll

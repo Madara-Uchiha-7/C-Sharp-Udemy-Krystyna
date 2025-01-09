@@ -1,0 +1,14 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\bin\Debug\net8.0\310. The benefits of readonly collections.exe
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\bin\Debug\net8.0\310. The benefits of readonly collections.deps.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\bin\Debug\net8.0\310. The benefits of readonly collections.runtimeconfig.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\bin\Debug\net8.0\310. The benefits of readonly collections.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\bin\Debug\net8.0\310. The benefits of readonly collections.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\obj\Debug\net8.0\310. The benefits of readonly collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\obj\Debug\net8.0\310. The benefits of readonly collections.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\obj\Debug\net8.0\310. The benefits of readonly collections.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\obj\Debug\net8.0\310. The benefits of readonly collections.csproj.CoreCompileInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\obj\Debug\net8.0\310. The benefits of readonly collections.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\obj\Debug\net8.0\refint\310. The benefits of readonly collections.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\obj\Debug\net8.0\310. The benefits of readonly collections.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\obj\Debug\net8.0\310. The benefits of readonly collections.genruntimeconfig.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\310. The benefits of readonly collections\obj\Debug\net8.0\ref\310. The benefits of readonly collections.dll

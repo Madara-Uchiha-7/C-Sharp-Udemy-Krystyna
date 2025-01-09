@@ -1,0 +1,14 @@
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\bin\Debug\net8.0\314. Binary search algorithm - implementation.exe
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\bin\Debug\net8.0\314. Binary search algorithm - implementation.deps.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\bin\Debug\net8.0\314. Binary search algorithm - implementation.runtimeconfig.json
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\bin\Debug\net8.0\314. Binary search algorithm - implementation.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\bin\Debug\net8.0\314. Binary search algorithm - implementation.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\obj\Debug\net8.0\314. Binary search algorithm - implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\obj\Debug\net8.0\314. Binary search algorithm - implementation.AssemblyInfoInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\obj\Debug\net8.0\314. Binary search algorithm - implementation.AssemblyInfo.cs
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\obj\Debug\net8.0\314. Binary search algorithm - implementation.csproj.CoreCompileInputs.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\obj\Debug\net8.0\314. Binary search algorithm - implementation.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\obj\Debug\net8.0\refint\314. Binary search algorithm - implementation.dll
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\obj\Debug\net8.0\314. Binary search algorithm - implementation.pdb
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\obj\Debug\net8.0\314. Binary search algorithm - implementation.genruntimeconfig.cache
+C:\Learn Udemy IBM\10. Collections\10. Collections\314. Binary search algorithm - implementation\obj\Debug\net8.0\ref\314. Binary search algorithm - implementation.dll
