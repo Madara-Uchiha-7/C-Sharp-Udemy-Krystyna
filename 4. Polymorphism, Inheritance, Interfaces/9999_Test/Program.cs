@@ -1,4 +1,9 @@
-﻿// Since some folder names are very long, I am facing the issue to run some projects.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Since some folder names are very long, I am facing the issue to run some projects.
 // I will run those codes here.
 
 Ingredient ingredient = new Chedder();

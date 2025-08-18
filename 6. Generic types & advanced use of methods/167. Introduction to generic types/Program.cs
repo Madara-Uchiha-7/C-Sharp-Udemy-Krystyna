@@ -1,4 +1,9 @@
-﻿///
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+///
 /// Whenever we see angle brackets like < >, it means 
 /// we are dealing with the generic types or methods.
 /// For e.g. the list class is the generic class

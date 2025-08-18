@@ -1,4 +1,9 @@
-﻿// In old code we had a child classes called Chedder, TomatoSauce and Mozzarella
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// In old code we had a child classes called Chedder, TomatoSauce and Mozzarella
 // which were inheriting Ingredient. 
 // Lets say there is one more class called Cheese which is also an Ingredient 
 // But Chedder and Mozzarella are also the part of the cheese. So,

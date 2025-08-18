@@ -1,4 +1,9 @@
-﻿List<int> ints = new List<int>() { 1, 2, 3 };
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+List<int> ints = new List<int>() { 1, 2, 3 };
 
 // We will create one extension method so that we can add 
 // the value at the front of the list.

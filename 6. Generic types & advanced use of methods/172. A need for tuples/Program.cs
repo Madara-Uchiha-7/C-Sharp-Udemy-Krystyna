@@ -1,4 +1,9 @@
-﻿// Return more than one result from the method.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Return more than one result from the method.
 
 // There are two ways to convert the string to int. One is Parse() and
 // other is :

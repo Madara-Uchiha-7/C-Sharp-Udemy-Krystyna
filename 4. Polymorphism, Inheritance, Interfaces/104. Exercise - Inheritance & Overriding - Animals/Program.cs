@@ -1,4 +1,9 @@
-﻿/*
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+/*
 In the code, you will see the GetCountsOfAnimalsLegs method. 
 It iterates a List of Animals containing a Lion, a Tiger, a Duck, and a Spider.
 

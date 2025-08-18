@@ -1,4 +1,9 @@
-﻿// We can solve problem in 100 using Inheritence
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// We can solve problem in 100 using Inheritence
 // Inheritence allows us to create new classes that reuse,
 // extend, and modify the behaviour defined in other classes.
 // The class whose members are inherited is called base class.

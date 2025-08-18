@@ -1,4 +1,9 @@
-﻿namespace _139._Stack_trace
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+namespace _139._Stack_trace
 {
     internal class Program
     {

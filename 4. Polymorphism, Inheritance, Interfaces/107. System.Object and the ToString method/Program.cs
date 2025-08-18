@@ -1,4 +1,9 @@
-﻿// All the classes in the C# are derived from the System.Object class.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// All the classes in the C# are derived from the System.Object class.
 // That in last sections example, Ingredient class inherits the System.Object
 // Since, Ingredient is derived from Object class, all of its child classes will also receive the access to the
 // public and protected members of Object class.

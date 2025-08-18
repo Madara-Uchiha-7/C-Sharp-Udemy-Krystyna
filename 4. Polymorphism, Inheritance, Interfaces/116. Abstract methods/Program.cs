@@ -1,4 +1,9 @@
-﻿///
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+///
 /// Abstract methods can be defined only in the abstract classes.
 /// These methods does not have the implemenatations.
 /// That is their bodies are empty, so there will be no {}

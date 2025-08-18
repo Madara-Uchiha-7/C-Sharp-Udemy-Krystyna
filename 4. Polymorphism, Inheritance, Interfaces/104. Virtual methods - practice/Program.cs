@@ -1,4 +1,9 @@
-﻿List<int> numbers = new List<int> { 1, 4, 6, -1, 12, 44, -8, -19};
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+List<int> numbers = new List<int> { 1, 4, 6, -1, 12, 44, -8, -19};
 
 //int sum = new NumbersSumCalculator().Calculate(numbers);
 

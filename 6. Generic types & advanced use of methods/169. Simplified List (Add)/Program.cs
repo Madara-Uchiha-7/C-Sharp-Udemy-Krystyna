@@ -1,4 +1,9 @@
-﻿// We will start from non generic class 
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// We will start from non generic class 
 // and then we will convert it to the generic class in next lectures.
 
 ListOfItems items = new ListOfItems();

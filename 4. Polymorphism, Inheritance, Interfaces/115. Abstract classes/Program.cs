@@ -1,4 +1,9 @@
-﻿// In older lectures we were able to create Ingredient object outside the class.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// In older lectures we were able to create Ingredient object outside the class.
 // But Ingredient is the abstract concept made concrete by its subtype.
 // You can not go the Restaurant and ask for Pizza With Chadder and Tomato Sauce.
 // Ingredient class is useful for us to have it as it defines things common for any

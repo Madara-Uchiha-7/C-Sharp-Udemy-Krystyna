@@ -1,4 +1,9 @@
-﻿// Sometimes we want to prevent the type from being inherited.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Sometimes we want to prevent the type from being inherited.
 // C# allows us to do so using sealed modifier.
 // Methods :
 // Only virtual and overriden methods can be sealed.

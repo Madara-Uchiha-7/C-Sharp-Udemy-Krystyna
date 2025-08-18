@@ -1,4 +1,9 @@
-﻿// Lets say there is a class which does not have one method which you need to add it
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Lets say there is a class which does not have one method which you need to add it
 // in that class.
 // But what if ther class is from Standard Library or some open source library.
 // Here we have 2 choices:

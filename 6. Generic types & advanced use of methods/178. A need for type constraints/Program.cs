@@ -1,4 +1,9 @@
-﻿// Using generic type is powerfull be it isn't without the issues,
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Using generic type is powerfull be it isn't without the issues,
 // When we operate with generic types, we don't know what it is exactly, so
 // there is not much we can do with it.
 // If you try to see the methods which we can call on result variable in the

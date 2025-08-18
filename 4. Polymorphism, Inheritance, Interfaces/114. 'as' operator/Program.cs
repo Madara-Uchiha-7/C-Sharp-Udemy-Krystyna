@@ -1,4 +1,9 @@
-﻿// Remember how we converted the Ingredient i.e. parent object explicitly and assigned it to the 
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Remember how we converted the Ingredient i.e. parent object explicitly and assigned it to the 
 // Cheddar class variable.
 // e.g. Cheddar cheddar = (Cheddar) ingredient;
 // The "as" operator can be used to do the same in the place of cast expression.

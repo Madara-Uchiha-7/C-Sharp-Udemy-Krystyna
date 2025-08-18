@@ -1,4 +1,9 @@
-﻿// We can assign the null explicitly.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// We can assign the null explicitly.
 Ingredient nullIngredient = null;
 // You can not use var keyword if you are assigning the null.
 // null value is common for all the classes, that means variable does not store any instance.

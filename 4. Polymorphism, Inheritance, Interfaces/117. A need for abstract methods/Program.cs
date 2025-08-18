@@ -1,4 +1,9 @@
-﻿// Lets say we have the child classes called
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Lets say we have the child classes called
 // Cat, Dog, Duck.
 // And Parent abstract class called AnimalKingdom.
 // Now if we remove the abstract method called Legs() from parent.

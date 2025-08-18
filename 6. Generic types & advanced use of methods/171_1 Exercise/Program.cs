@@ -1,4 +1,9 @@
-﻿///
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+///
 /// Generic types - Pair class
 /// Implement the generic Pair type as follows:
 /// It should be a container for two items of the same type.

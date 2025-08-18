@@ -1,4 +1,9 @@
-﻿// From last examples of Ingredients class
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// From last examples of Ingredients class
 // We know that Ingredients is the base class and Cheddar is the child class.
 // So, when we create the object of the Cheddar class, which constructor is called.
 // Of course the constrcutor we are talking on the above line is default constructor 

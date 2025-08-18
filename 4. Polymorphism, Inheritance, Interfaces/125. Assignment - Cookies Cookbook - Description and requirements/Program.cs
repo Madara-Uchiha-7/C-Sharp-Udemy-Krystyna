@@ -1,4 +1,9 @@
-﻿// Develop cookie recipe and store them in the file.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Develop cookie recipe and store them in the file.
 // When app start the user will get a prompt to create a new recipe.
 // Since recipe is a collection of ingredients, that prompt will also show the 
 // ingredients so that user can select them to create the recipe.

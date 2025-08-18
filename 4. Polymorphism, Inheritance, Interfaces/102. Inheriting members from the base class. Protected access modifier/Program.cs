@@ -1,4 +1,9 @@
-﻿// Base type has data and methods which can be used by the derived classes.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Base type has data and methods which can be used by the derived classes.
 // Derived class can have their seperate own methods and fields etc which will be availbale 
 // for only that perticualr derived class. 
 

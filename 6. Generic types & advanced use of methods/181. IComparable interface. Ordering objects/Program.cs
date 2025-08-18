@@ -1,4 +1,9 @@
-﻿// IComparable interface provides a way to compare two objects for sorting 
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// IComparable interface provides a way to compare two objects for sorting 
 // purposes.
 // We can use .Sort() method on List object, for e.g. list of strings or int.
 // It won't work if the list holds our custom class object like person.

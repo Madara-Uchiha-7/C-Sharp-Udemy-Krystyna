@@ -1,4 +1,9 @@
-﻿// Checks if some object is of a given type.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Checks if some object is of a given type.
 // e.g. in JS it is known as "type of" operator.
 
 string word = "String";

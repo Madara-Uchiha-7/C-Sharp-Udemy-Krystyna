@@ -1,4 +1,9 @@
-﻿/*
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+/*
 Extension methods - List extensions
 Create an extension method for the List<int> type called TakeEverySecond.
 This method should return a new List of ints with every second element from the input list.

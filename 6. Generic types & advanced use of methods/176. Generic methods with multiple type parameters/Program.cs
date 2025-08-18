@@ -1,4 +1,9 @@
-﻿// Lets say we want to convert the list of one type to the 
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Lets say we want to convert the list of one type to the 
 // list of another type.
 
 List<decimal> decimals = new List<decimal>() { 1.1m, 2.2m, 33.3m };

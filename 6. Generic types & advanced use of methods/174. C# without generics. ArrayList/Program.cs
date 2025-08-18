@@ -1,4 +1,9 @@
-﻿// .NET history.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// .NET history.
 // 2002 was 1.0 Initial release. 
 // Generic types were added in .NET Framework 2.0 released in 2005.
 // In the same release the new group of collections, including List of T

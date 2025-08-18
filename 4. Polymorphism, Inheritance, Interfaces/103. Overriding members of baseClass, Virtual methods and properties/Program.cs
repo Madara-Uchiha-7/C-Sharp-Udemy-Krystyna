@@ -1,4 +1,9 @@
-﻿// Class Ingredient can hold the object of class Chedder.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Class Ingredient can hold the object of class Chedder.
 // This works because Chedder is an Ingredient after all.
 // That is, the base class object can point to the child class object.
 Ingredient ingredient = new Chedder();

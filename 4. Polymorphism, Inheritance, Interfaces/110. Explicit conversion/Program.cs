@@ -1,4 +1,9 @@
-﻿decimal a1 = 10.11m;
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+decimal a1 = 10.11m;
 
 // We can not assign the decimal to int 
 // because 0.11 part will get trimmed. So internal conversion will not be possible.

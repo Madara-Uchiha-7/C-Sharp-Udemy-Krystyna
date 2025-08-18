@@ -1,4 +1,9 @@
-﻿// Interface
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Interface
 /*
  * Defines the set of opeations that implementing type must provide.
  * It does not provide an implementation on its own.

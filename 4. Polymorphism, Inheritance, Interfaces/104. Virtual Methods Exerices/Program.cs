@@ -1,4 +1,9 @@
-﻿// I have written teachers code because in mine I was repeating the foreach in each child class.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// I have written teachers code because in mine I was repeating the foreach in each child class.
 /*
 Currently, the StringsProcessor, StringsTrimmingProcessor, and 
 StringsUppercaseProcessor classes are not implemented.

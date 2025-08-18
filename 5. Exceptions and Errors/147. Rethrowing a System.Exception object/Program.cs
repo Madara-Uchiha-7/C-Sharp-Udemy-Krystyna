@@ -1,4 +1,9 @@
-﻿// We will learn how to manage the exceptions if we do not know exactly 
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// We will learn how to manage the exceptions if we do not know exactly 
 // what exceptions can be thrown from some code.
 
 public class PersonDataReader

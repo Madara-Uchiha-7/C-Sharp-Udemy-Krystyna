@@ -1,4 +1,9 @@
-﻿///
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+///
 /// Using catch we catch the exception and we can see or use it using 'ExceptionName ex'
 /// parameter.
 /// When we throw the same exception which is catched then it is called 'Exception

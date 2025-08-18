@@ -1,4 +1,9 @@
-﻿// All static classes are implicitly sealed.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// All static classes are implicitly sealed.
 // So we can not have the classes derived from them.
 // Why?
 ///

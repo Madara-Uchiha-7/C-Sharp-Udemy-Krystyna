@@ -1,4 +1,9 @@
-﻿// Type constraint that allows us to limit the type of argument to only numeric types.
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Type constraint that allows us to limit the type of argument to only numeric types.
 // That is also known as the Generic Math in C#
 
 

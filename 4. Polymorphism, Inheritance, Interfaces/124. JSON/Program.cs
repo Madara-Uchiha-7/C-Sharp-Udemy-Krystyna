@@ -1,4 +1,9 @@
-﻿// JSON : Javascript Object Notation
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// JSON : Javascript Object Notation
 // Library is a collection of prewritten code that we can use to make our program easier.
 // E.g. C# standard library: string, DateTime...
 // Since .Net Core 3/1 (2019), JsonSerializer is part of .NET

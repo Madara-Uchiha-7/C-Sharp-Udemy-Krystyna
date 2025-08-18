@@ -1,4 +1,9 @@
-﻿// Lets say we create the application for ordering the pizza
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+// Lets say we create the application for ordering the pizza
 ///
 /// The User can choose from one of the pizza types and ingredients of
 /// each pizza should be shown on the screen. Also after hovering over 

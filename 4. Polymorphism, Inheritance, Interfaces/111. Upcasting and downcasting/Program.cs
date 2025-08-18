@@ -1,4 +1,9 @@
-﻿///
+﻿// -- Notes by : Chinmay Kumar Borkar
+// -- Linkedin : https://www.linkedin.com/in/chinmay-borkar-1042931a6/
+// -- github   : https://github.com/Madara-Uchiha-7
+// --------------------------------------------------------------------
+
+///
 /// Remember we had a class Called Ingredient and Cheddar.
 /// While Cheddar is child and Ingredient is its parent.
 /// So we can create the GeneralType variableName = new ChildClassName();
