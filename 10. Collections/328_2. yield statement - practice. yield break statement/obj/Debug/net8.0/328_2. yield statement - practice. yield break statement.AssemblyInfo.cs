@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("328_2. yield statement - practice. yield break statement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80fe0f664ba4b10df252022eaea848882640daef")]
 [assembly: System.Reflection.AssemblyProductAttribute("328_2. yield statement - practice. yield break statement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("328_2. yield statement - practice. yield break statement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

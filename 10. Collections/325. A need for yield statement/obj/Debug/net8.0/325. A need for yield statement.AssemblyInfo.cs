@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("325. A need for yield statement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80fe0f664ba4b10df252022eaea848882640daef")]
 [assembly: System.Reflection.AssemblyProductAttribute("325. A need for yield statement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("325. A need for yield statement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

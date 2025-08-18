@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("139. Stack trace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80fe0f664ba4b10df252022eaea848882640daef")]
 [assembly: System.Reflection.AssemblyProductAttribute("139. Stack trace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("139. Stack trace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

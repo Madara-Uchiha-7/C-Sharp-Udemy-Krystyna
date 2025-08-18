@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("326. yield statement - behavior analysis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80fe0f664ba4b10df252022eaea848882640daef")]
 [assembly: System.Reflection.AssemblyProductAttribute("326. yield statement - behavior analysis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("326. yield statement - behavior analysis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

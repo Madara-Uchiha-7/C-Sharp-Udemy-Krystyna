@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\6. Generic types \u0026 advanced use of methods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D97F352-EC5F-42A7-A067-807E70A18926}|84. Type constraints - summary. Multiple type constraints\\84. Type constraints - summary. Multiple type constraints.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\84. type constraints - summary. multiple type constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D97F352-EC5F-42A7-A067-807E70A18926}|84. Type constraints - summary. Multiple type constraints\\84. Type constraints - summary. Multiple type constraints.csproj|solutionrelative:84. type constraints - summary. multiple type constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D97F352-EC5F-42A7-A067-807E70A18926}|84. Type constraints - summary. Multiple type constraints\\184. Type constraints - summary. Multiple type constraints.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\84. type constraints - summary. multiple type constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D97F352-EC5F-42A7-A067-807E70A18926}|84. Type constraints - summary. Multiple type constraints\\184. Type constraints - summary. Multiple type constraints.csproj|solutionrelative:84. type constraints - summary. multiple type constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD30DD8F-42B8-4B41-B72F-4D6C19113FE3}|182. Constraint on implemented interface\\182. Constraint on implemented interface.csproj|d:\\code\\udemy\\c#\\c# krytina\\6. generic types \u0026 advanced use of methods\\182. constraint on implemented interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,8 +119,7 @@
               "RelativeToolTip": "183. Type constraints - numeric types. Generic math\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T17:29:23.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T17:29:23.826Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "182_1. Exercise\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T11:51:42.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T11:51:42.656Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "182. Constraint on implemented interface\\Program.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAQwDAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T08:36:27.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T08:36:27.952Z"
             },
             {
               "$type": "Document",
@@ -158,8 +155,7 @@
               "RelativeToolTip": "181. IComparable interface. Ordering objects\\Program.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAUwEAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T07:53:34.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T07:53:34.594Z"
             },
             {
               "$type": "Document",
@@ -171,8 +167,7 @@
               "RelativeToolTip": "180. The constraint on the base type\\Program.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAQwEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T05:34:07.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T05:34:07.892Z"
             },
             {
               "$type": "Document",
@@ -184,8 +179,7 @@
               "RelativeToolTip": "179. Improving the performance of the List\\Program.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAwCQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T17:19:44.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T17:19:44.982Z"
             },
             {
               "$type": "Document",
@@ -197,8 +191,7 @@
               "RelativeToolTip": "178. A need for type constraints\\Program.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAwCoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T16:23:01.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T16:23:01.076Z"
             },
             {
               "$type": "Document",
@@ -210,8 +203,7 @@
               "RelativeToolTip": "177. Convert.ChangeType(), \u0027typeof\u0027, Type object\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T06:59:50.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T06:59:50.108Z"
             },
             {
               "$type": "Document",
@@ -223,8 +215,7 @@
               "RelativeToolTip": "176_1. Exercise\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T06:54:36.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T06:54:36.448Z"
             },
             {
               "$type": "Document",
@@ -236,8 +227,7 @@
               "RelativeToolTip": "176. Generic methods with multiple type parameters\\Program.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAgwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T06:08:14.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T06:08:14.578Z"
             },
             {
               "$type": "Document",
@@ -249,8 +239,7 @@
               "RelativeToolTip": "175. Generic methods\\Program.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAIwBwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T17:20:12.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T17:20:12.222Z"
             },
             {
               "$type": "Document",
@@ -262,8 +251,7 @@
               "RelativeToolTip": "174. C# without generics. ArrayList\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAEBVwDQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T10:40:12.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T10:40:12.742Z"
             },
             {
               "$type": "Document",
@@ -275,8 +263,7 @@
               "RelativeToolTip": "173. Tuples\\Program.cs",
               "ViewState": "AQIAAFcAAAAAAAAAAAAAwEgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T05:09:05.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T05:09:05.21Z"
             },
             {
               "$type": "Document",
@@ -288,8 +275,7 @@
               "RelativeToolTip": "172. A need for tuples\\Program.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAAwC0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T17:24:50.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T17:24:50.671Z"
             },
             {
               "$type": "Document",
@@ -301,8 +287,7 @@
               "RelativeToolTip": "171_1 Exercise\\Program.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAswBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T17:19:33.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T17:19:33.363Z"
             },
             {
               "$type": "Document",
@@ -314,8 +299,7 @@
               "RelativeToolTip": "171. Implementing a generic type\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T05:44:09.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T05:44:09.245Z"
             },
             {
               "$type": "Document",
@@ -327,8 +311,7 @@
               "RelativeToolTip": "170. Simplified List (Delete)\\Program.cs",
               "ViewState": "AQIAAEMAAAAAAAAAAAAQwFwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T04:41:49.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T04:41:49.283Z"
             },
             {
               "$type": "Document",
@@ -340,8 +323,7 @@
               "RelativeToolTip": "169. Simplified List (Add)\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAADwvyoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T04:16:45.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T04:16:45.108Z"
             },
             {
               "$type": "Document",
@@ -353,8 +335,7 @@
               "RelativeToolTip": "168. Understanding how List works under the hood\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIBJwA0AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T17:04:36.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T17:04:36.982Z"
             },
             {
               "$type": "Document",
@@ -366,8 +347,7 @@
               "RelativeToolTip": "167. Introduction to generic types\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T16:53:54.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T16:53:54.923Z"
             }
           ]
         }
