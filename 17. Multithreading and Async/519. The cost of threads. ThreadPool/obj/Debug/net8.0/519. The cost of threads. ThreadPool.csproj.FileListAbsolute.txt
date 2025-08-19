@@ -1,0 +1,14 @@
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\bin\Debug\net8.0\519. The cost of threads. ThreadPool.exe
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\bin\Debug\net8.0\519. The cost of threads. ThreadPool.deps.json
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\bin\Debug\net8.0\519. The cost of threads. ThreadPool.runtimeconfig.json
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\bin\Debug\net8.0\519. The cost of threads. ThreadPool.dll
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\bin\Debug\net8.0\519. The cost of threads. ThreadPool.pdb
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\obj\Debug\net8.0\519. The cost of threads. ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\obj\Debug\net8.0\519. The cost of threads. ThreadPool.AssemblyInfoInputs.cache
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\obj\Debug\net8.0\519. The cost of threads. ThreadPool.AssemblyInfo.cs
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\obj\Debug\net8.0\519. The cost of threads. ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\obj\Debug\net8.0\519. The cost of threads. ThreadPool.dll
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\obj\Debug\net8.0\refint\519. The cost of threads. ThreadPool.dll
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\obj\Debug\net8.0\519. The cost of threads. ThreadPool.pdb
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\obj\Debug\net8.0\519. The cost of threads. ThreadPool.genruntimeconfig.cache
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\519. The cost of threads. ThreadPool\obj\Debug\net8.0\ref\519. The cost of threads. ThreadPool.dll

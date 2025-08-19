@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "526.1. Chaining continuations. Continuations of multiple tasks/1.0.0": {
+        "runtime": {
+          "526.1. Chaining continuations. Continuations of multiple tasks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "526.1. Chaining continuations. Continuations of multiple tasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

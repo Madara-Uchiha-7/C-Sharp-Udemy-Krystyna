@@ -1,0 +1,14 @@
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\bin\Debug\net8.0\268. Overriding the Equals method in classes.exe
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\bin\Debug\net8.0\268. Overriding the Equals method in classes.deps.json
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\bin\Debug\net8.0\268. Overriding the Equals method in classes.runtimeconfig.json
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\bin\Debug\net8.0\268. Overriding the Equals method in classes.dll
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\bin\Debug\net8.0\268. Overriding the Equals method in classes.pdb
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\obj\Debug\net8.0\268. Overriding the Equals method in classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\obj\Debug\net8.0\268. Overriding the Equals method in classes.AssemblyInfoInputs.cache
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\obj\Debug\net8.0\268. Overriding the Equals method in classes.AssemblyInfo.cs
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\obj\Debug\net8.0\268. Overriding the Equals method in classes.csproj.CoreCompileInputs.cache
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\obj\Debug\net8.0\268. Overriding the Equals method in classes.dll
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\obj\Debug\net8.0\refint\268. Overriding the Equals method in classes.dll
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\obj\Debug\net8.0\268. Overriding the Equals method in classes.pdb
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\obj\Debug\net8.0\268. Overriding the Equals method in classes.genruntimeconfig.cache
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\268. Overriding the Equals method in classes\obj\Debug\net8.0\ref\268. Overriding the Equals method in classes.dll

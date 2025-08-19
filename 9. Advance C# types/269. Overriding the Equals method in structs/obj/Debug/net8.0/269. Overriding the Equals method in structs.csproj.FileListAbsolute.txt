@@ -1,0 +1,14 @@
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\bin\Debug\net8.0\269. Overriding the Equals method in structs.exe
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\bin\Debug\net8.0\269. Overriding the Equals method in structs.deps.json
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\bin\Debug\net8.0\269. Overriding the Equals method in structs.runtimeconfig.json
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\bin\Debug\net8.0\269. Overriding the Equals method in structs.dll
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\bin\Debug\net8.0\269. Overriding the Equals method in structs.pdb
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\obj\Debug\net8.0\269. Overriding the Equals method in structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\obj\Debug\net8.0\269. Overriding the Equals method in structs.AssemblyInfoInputs.cache
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\obj\Debug\net8.0\269. Overriding the Equals method in structs.AssemblyInfo.cs
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\obj\Debug\net8.0\269. Overriding the Equals method in structs.csproj.CoreCompileInputs.cache
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\obj\Debug\net8.0\269. Overriding the Equals method in structs.dll
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\obj\Debug\net8.0\refint\269. Overriding the Equals method in structs.dll
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\obj\Debug\net8.0\269. Overriding the Equals method in structs.pdb
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\obj\Debug\net8.0\269. Overriding the Equals method in structs.genruntimeconfig.cache
+C:\Users\ChinmayBorkar\source\repos\9. Advance C# types\269. Overriding the Equals method in structs\obj\Debug\net8.0\ref\269. Overriding the Equals method in structs.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "525. Continuations. The ContinueWith method/1.0.0": {
+        "runtime": {
+          "525. Continuations. The ContinueWith method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "525. Continuations. The ContinueWith method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

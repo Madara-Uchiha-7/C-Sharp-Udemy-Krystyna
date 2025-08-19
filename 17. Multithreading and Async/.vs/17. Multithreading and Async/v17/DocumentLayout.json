@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C45C0F-4D75-47CF-B408-ED49E7A4E049}|526.1. Chaining continuations. Continuations of multiple tasks\\526.1. Chaining continuations. Continuations of multiple tasks.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\526.1. chaining continuations. continuations of multiple tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C45C0F-4D75-47CF-B408-ED49E7A4E049}|526.1. Chaining continuations. Continuations of multiple tasks\\526.1. Chaining continuations. Continuations of multiple tasks.csproj|solutionrelative:526.1. chaining continuations. continuations of multiple tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3936DA91-DBF5-46B4-8F0C-C8A86BDA863D}|526. Chaining continuations. Continuations of multiple tasks\\526. Chaining continuations. Continuations of multiple tasks.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\526. chaining continuations. continuations of multiple tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3936DA91-DBF5-46B4-8F0C-C8A86BDA863D}|526. Chaining continuations. Continuations of multiple tasks\\526. Chaining continuations. Continuations of multiple tasks.csproj|solutionrelative:526. chaining continuations. continuations of multiple tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CC2FC0-02E9-4283-AE8C-1C1F9556E744}|525. Continuations. The ContinueWith method\\525. Continuations. The ContinueWith method.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\525. continuations. the continuewith method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CC2FC0-02E9-4283-AE8C-1C1F9556E744}|525. Continuations. The ContinueWith method\\525. Continuations. The ContinueWith method.csproj|solutionrelative:525. continuations. the continuewith method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDEC5C-5375-437A-A366-B00FF8CCA5BA}|524. Wait and WaitAll methods\\524. Wait and WaitAll methods.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\524. wait and waitall methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDEC5C-5375-437A-A366-B00FF8CCA5BA}|524. Wait and WaitAll methods\\524. Wait and WaitAll methods.csproj|solutionrelative:524. wait and waitall methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D843F2F-32B4-407A-9406-2BED2F30126C}|523. Waiting for the Task result\\523. Waiting for the Task result.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\523. waiting for the task result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D843F2F-32B4-407A-9406-2BED2F30126C}|523. Waiting for the Task result\\523. Waiting for the Task result.csproj|solutionrelative:523. waiting for the task result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB5761E-1DC1-404F-87DA-089CA3E6B26A}|522. Returning a value from a Task\\522. Returning a value from a Task.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\522. returning a value from a task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB5761E-1DC1-404F-87DA-089CA3E6B26A}|522. Returning a value from a Task\\522. Returning a value from a Task.csproj|solutionrelative:522. returning a value from a task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AB503-512C-4F6B-854A-90CB1C3EE0B0}|524_1. Exercise\\524_1. Exercise.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\524_1. exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969AB503-512C-4F6B-854A-90CB1C3EE0B0}|524_1. Exercise\\524_1. Exercise.csproj|solutionrelative:524_1. exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071ED79-0167-4B6B-AD77-68851BE84F9D}|521. Task class\\521. Task class.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\521. task class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071ED79-0167-4B6B-AD77-68851BE84F9D}|521. Task class\\521. Task class.csproj|solutionrelative:521. task class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F75042-61AB-4CAF-82F7-E1E0C6D5F098}|517. Multithreaded app\u2019s code flow\\517. Multithreaded app\u2019s code flow.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\517. multithreaded app\u2019s code flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F75042-61AB-4CAF-82F7-E1E0C6D5F098}|517. Multithreaded app\u2019s code flow\\517. Multithreaded app\u2019s code flow.csproj|solutionrelative:517. multithreaded app\u2019s code flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7490E7B-863A-45D0-9EB1-FAE939A764E0}|518. The benefits of multithreading and asynchronous programming\\518. The benefits of multithreading and asynchronous programming.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\518. the benefits of multithreading and asynchronous programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7490E7B-863A-45D0-9EB1-FAE939A764E0}|518. The benefits of multithreading and asynchronous programming\\518. The benefits of multithreading and asynchronous programming.csproj|solutionrelative:518. the benefits of multithreading and asynchronous programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337AF8BF-495A-409C-8DDD-AEFE82F7302F}|519. The cost of threads. ThreadPool\\519. The cost of threads. ThreadPool.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\519. the cost of threads. threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337AF8BF-495A-409C-8DDD-AEFE82F7302F}|519. The cost of threads. ThreadPool\\519. The cost of threads. ThreadPool.csproj|solutionrelative:519. the cost of threads. threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785130AD-FB7A-4ECC-AF02-6AFB567CC866}|520. Task Parallel Library (TPL)\\520. Task Parallel Library (TPL).csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\520. task parallel library (tpl)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785130AD-FB7A-4ECC-AF02-6AFB567CC866}|520. Task Parallel Library (TPL)\\520. Task Parallel Library (TPL).csproj|solutionrelative:520. task parallel library (tpl)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B880095E-4D92-4451-86A0-B0B68C7A739B}|516. Starting a new thread. The Thread class\\516. Starting a new thread. The Thread class.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\516. starting a new thread. the thread class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B880095E-4D92-4451-86A0-B0B68C7A739B}|516. Starting a new thread. The Thread class\\516. Starting a new thread. The Thread class.csproj|solutionrelative:516. starting a new thread. the thread class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D070A16-1CE8-48DF-88C1-E47EB86608F0}|515. A single-threaded program\\515. A single-threaded program.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\515. a single-threaded program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D070A16-1CE8-48DF-88C1-E47EB86608F0}|515. A single-threaded program\\515. A single-threaded program.csproj|solutionrelative:515. a single-threaded program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690ADCF-75CA-46FB-902F-F1FE1FB0A045}|514. Asynchrony\\514. Asynchrony.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\514. asynchrony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690ADCF-75CA-46FB-902F-F1FE1FB0A045}|514. Asynchrony\\514. Asynchrony.csproj|solutionrelative:514. asynchrony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35088F2E-317C-4C6A-BD46-DA93F89A9E3A}|513. Concurrency vs parallelism\\513. Concurrency vs parallelism.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\513. concurrency vs parallelism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35088F2E-317C-4C6A-BD46-DA93F89A9E3A}|513. Concurrency vs parallelism\\513. Concurrency vs parallelism.csproj|solutionrelative:513. concurrency vs parallelism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9591BA73-30AB-4E23-BFC3-C5B5C6019107}|512. Threads and processes\\512. Threads and processes.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\512. threads and processes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9591BA73-30AB-4E23-BFC3-C5B5C6019107}|512. Threads and processes\\512. Threads and processes.csproj|solutionrelative:512. threads and processes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12459685-7BB0-4D0C-BB11-075D717A6D61}|507. The computer\u0027s processor\\511. The computer\u0027s processor.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\507. the computer\u0027s processor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12459685-7BB0-4D0C-BB11-075D717A6D61}|507. The computer\u0027s processor\\511. The computer\u0027s processor.csproj|solutionrelative:507. the computer\u0027s processor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "RelativeDocumentMoniker": "526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "RelativeToolTip": "526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:33:39.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\526. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "RelativeDocumentMoniker": "526. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\526. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "RelativeToolTip": "526. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:19:34.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\525. Continuations. The ContinueWith method\\Program.cs",
+              "RelativeDocumentMoniker": "525. Continuations. The ContinueWith method\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\525. Continuations. The ContinueWith method\\Program.cs",
+              "RelativeToolTip": "525. Continuations. The ContinueWith method\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:00:06.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\524_1. Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "524_1. Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\524_1. Exercise\\Program.cs",
+              "RelativeToolTip": "524_1. Exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:57:41.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\524. Wait and WaitAll methods\\Program.cs",
+              "RelativeDocumentMoniker": "524. Wait and WaitAll methods\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\524. Wait and WaitAll methods\\Program.cs",
+              "RelativeToolTip": "524. Wait and WaitAll methods\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:31:35.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\523. Waiting for the Task result\\Program.cs",
+              "RelativeDocumentMoniker": "523. Waiting for the Task result\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\523. Waiting for the Task result\\Program.cs",
+              "RelativeToolTip": "523. Waiting for the Task result\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:55:47.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\522. Returning a value from a Task\\Program.cs",
+              "RelativeDocumentMoniker": "522. Returning a value from a Task\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\522. Returning a value from a Task\\Program.cs",
+              "RelativeToolTip": "522. Returning a value from a Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:29:07.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\521. Task class\\Program.cs",
+              "RelativeDocumentMoniker": "521. Task class\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\521. Task class\\Program.cs",
+              "RelativeToolTip": "521. Task class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:31:36.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\520. Task Parallel Library (TPL)\\Program.cs",
+              "RelativeDocumentMoniker": "520. Task Parallel Library (TPL)\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\520. Task Parallel Library (TPL)\\Program.cs",
+              "RelativeToolTip": "520. Task Parallel Library (TPL)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:18:02.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\519. The cost of threads. ThreadPool\\Program.cs",
+              "RelativeDocumentMoniker": "519. The cost of threads. ThreadPool\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\519. The cost of threads. ThreadPool\\Program.cs",
+              "RelativeToolTip": "519. The cost of threads. ThreadPool\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:49:14.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\518. The benefits of multithreading and asynchronous programming\\Program.cs",
+              "RelativeDocumentMoniker": "518. The benefits of multithreading and asynchronous programming\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\518. The benefits of multithreading and asynchronous programming\\Program.cs",
+              "RelativeToolTip": "518. The benefits of multithreading and asynchronous programming\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:44:13.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\517. Multithreaded app\u2019s code flow\\Program.cs",
+              "RelativeDocumentMoniker": "517. Multithreaded app\u2019s code flow\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\517. Multithreaded app\u2019s code flow\\Program.cs",
+              "RelativeToolTip": "517. Multithreaded app\u2019s code flow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:21:43.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\516. Starting a new thread. The Thread class\\Program.cs",
+              "RelativeDocumentMoniker": "516. Starting a new thread. The Thread class\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\516. Starting a new thread. The Thread class\\Program.cs",
+              "RelativeToolTip": "516. Starting a new thread. The Thread class\\Program.cs",
+              "ViewState": "AgIAACAAAAAAOAIiBz0dwDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:32:55.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\515. A single-threaded program\\Program.cs",
+              "RelativeDocumentMoniker": "515. A single-threaded program\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\515. A single-threaded program\\Program.cs",
+              "RelativeToolTip": "515. A single-threaded program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAnlb30tkKwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:56:33.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\514. Asynchrony\\Program.cs",
+              "RelativeDocumentMoniker": "514. Asynchrony\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\514. Asynchrony\\Program.cs",
+              "RelativeToolTip": "514. Asynchrony\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:53:18.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\513. Concurrency vs parallelism\\Program.cs",
+              "RelativeDocumentMoniker": "513. Concurrency vs parallelism\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\513. Concurrency vs parallelism\\Program.cs",
+              "RelativeToolTip": "513. Concurrency vs parallelism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:52:48.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\512. Threads and processes\\Program.cs",
+              "RelativeDocumentMoniker": "512. Threads and processes\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\512. Threads and processes\\Program.cs",
+              "RelativeToolTip": "512. Threads and processes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:52:15.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\507. The computer\u0027s processor\\Program.cs",
+              "RelativeDocumentMoniker": "507. The computer\u0027s processor\\Program.cs",
+              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\507. The computer\u0027s processor\\Program.cs",
+              "RelativeToolTip": "507. The computer\u0027s processor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:02:12.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

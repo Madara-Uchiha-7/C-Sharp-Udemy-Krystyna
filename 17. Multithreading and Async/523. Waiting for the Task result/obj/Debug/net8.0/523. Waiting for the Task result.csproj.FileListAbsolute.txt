@@ -1,0 +1,14 @@
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\bin\Debug\net8.0\523. Waiting for the Task result.exe
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\bin\Debug\net8.0\523. Waiting for the Task result.deps.json
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\bin\Debug\net8.0\523. Waiting for the Task result.runtimeconfig.json
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\bin\Debug\net8.0\523. Waiting for the Task result.dll
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\bin\Debug\net8.0\523. Waiting for the Task result.pdb
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\obj\Debug\net8.0\523. Waiting for the Task result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\obj\Debug\net8.0\523. Waiting for the Task result.AssemblyInfoInputs.cache
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\obj\Debug\net8.0\523. Waiting for the Task result.AssemblyInfo.cs
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\obj\Debug\net8.0\523. Waiting for the Task result.csproj.CoreCompileInputs.cache
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\obj\Debug\net8.0\523. Waiting for the Task result.dll
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\obj\Debug\net8.0\refint\523. Waiting for the Task result.dll
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\obj\Debug\net8.0\523. Waiting for the Task result.pdb
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\obj\Debug\net8.0\523. Waiting for the Task result.genruntimeconfig.cache
+C:\Users\ChinmayBorkar\source\repos\17. Multithreading and Async\523. Waiting for the Task result\obj\Debug\net8.0\ref\523. Waiting for the Task result.dll

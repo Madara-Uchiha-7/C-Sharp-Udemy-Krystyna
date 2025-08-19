@@ -1,0 +1,14 @@
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\bin\Debug\net8.0\255. Reflection.exe
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\bin\Debug\net8.0\255. Reflection.deps.json
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\bin\Debug\net8.0\255. Reflection.runtimeconfig.json
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\bin\Debug\net8.0\255. Reflection.dll
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\bin\Debug\net8.0\255. Reflection.pdb
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\obj\Debug\net8.0\255. Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\obj\Debug\net8.0\255. Reflection.AssemblyInfoInputs.cache
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\obj\Debug\net8.0\255. Reflection.AssemblyInfo.cs
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\obj\Debug\net8.0\255. Reflection.csproj.CoreCompileInputs.cache
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\obj\Debug\net8.0\255. Reflection.dll
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\obj\Debug\net8.0\refint\255. Reflection.dll
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\obj\Debug\net8.0\255. Reflection.pdb
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\obj\Debug\net8.0\255. Reflection.genruntimeconfig.cache
+C:\Users\ChinmayBorkar\source\repos\Advance C# types\255. Reflection\obj\Debug\net8.0\ref\255. Reflection.dll
