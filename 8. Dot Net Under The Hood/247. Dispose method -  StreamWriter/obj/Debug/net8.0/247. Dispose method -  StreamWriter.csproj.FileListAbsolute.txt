@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\bin\Debug\net8.0\247. Dispose method -  StreamWriter.exe
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\bin\Debug\net8.0\247. Dispose method -  StreamWriter.deps.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\bin\Debug\net8.0\247. Dispose method -  StreamWriter.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\bin\Debug\net8.0\247. Dispose method -  StreamWriter.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\bin\Debug\net8.0\247. Dispose method -  StreamWriter.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\obj\Debug\net8.0\247. Dispose method -  StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\obj\Debug\net8.0\247. Dispose method -  StreamWriter.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\obj\Debug\net8.0\247. Dispose method -  StreamWriter.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\obj\Debug\net8.0\247. Dispose method -  StreamWriter.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\obj\Debug\net8.0\247. Dispose method -  StreamWriter.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\obj\Debug\net8.0\247. Dispose method -  StreamWriter.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\obj\Debug\net8.0\refint\247. Dispose method -  StreamWriter.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\obj\Debug\net8.0\247. Dispose method -  StreamWriter.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\obj\Debug\net8.0\247. Dispose method -  StreamWriter.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\247. Dispose method -  StreamWriter\obj\Debug\net8.0\ref\247. Dispose method -  StreamWriter.dll

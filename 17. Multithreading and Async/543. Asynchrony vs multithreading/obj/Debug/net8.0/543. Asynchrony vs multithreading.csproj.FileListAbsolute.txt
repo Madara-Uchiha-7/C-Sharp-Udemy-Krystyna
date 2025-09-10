@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\bin\Debug\net8.0\543. Asynchrony vs multithreading.exe
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\bin\Debug\net8.0\543. Asynchrony vs multithreading.deps.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\bin\Debug\net8.0\543. Asynchrony vs multithreading.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\bin\Debug\net8.0\543. Asynchrony vs multithreading.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\bin\Debug\net8.0\543. Asynchrony vs multithreading.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\obj\Debug\net8.0\543. Asynchrony vs multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\obj\Debug\net8.0\543. Asynchrony vs multithreading.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\obj\Debug\net8.0\543. Asynchrony vs multithreading.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\obj\Debug\net8.0\543. Asynchrony vs multithreading.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\obj\Debug\net8.0\543. Asynchrony vs multithreading.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\obj\Debug\net8.0\543. Asynchrony vs multithreading.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\obj\Debug\net8.0\refint\543. Asynchrony vs multithreading.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\obj\Debug\net8.0\543. Asynchrony vs multithreading.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\obj\Debug\net8.0\543. Asynchrony vs multithreading.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\543. Asynchrony vs multithreading\obj\Debug\net8.0\ref\543. Asynchrony vs multithreading.dll

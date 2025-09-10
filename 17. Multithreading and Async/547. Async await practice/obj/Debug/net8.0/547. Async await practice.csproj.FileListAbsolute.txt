@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\bin\Debug\net8.0\547. Async await practice.exe
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\bin\Debug\net8.0\547. Async await practice.deps.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\bin\Debug\net8.0\547. Async await practice.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\bin\Debug\net8.0\547. Async await practice.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\bin\Debug\net8.0\547. Async await practice.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\obj\Debug\net8.0\547. Async await practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\obj\Debug\net8.0\547. Async await practice.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\obj\Debug\net8.0\547. Async await practice.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\obj\Debug\net8.0\547. Async await practice.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\obj\Debug\net8.0\547. Async await practice.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\obj\Debug\net8.0\547. Async await practice.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\obj\Debug\net8.0\refint\547. Async await practice.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\obj\Debug\net8.0\547. Async await practice.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\obj\Debug\net8.0\547. Async await practice.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\547. Async await practice\obj\Debug\net8.0\ref\547. Async await practice.dll

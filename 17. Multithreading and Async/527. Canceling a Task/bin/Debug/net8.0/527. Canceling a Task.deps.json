@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "527. Canceling a Task/1.0.0": {
+        "runtime": {
+          "527. Canceling a Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "527. Canceling a Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

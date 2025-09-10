@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("526.1. Chaining continuations. Continuations of multiple tasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df625bd80cda518dd3983f00e8bbf424b2cf70d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("526.1. Chaining continuations. Continuations of multiple tasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("526.1. Chaining continuations. Continuations of multiple tasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

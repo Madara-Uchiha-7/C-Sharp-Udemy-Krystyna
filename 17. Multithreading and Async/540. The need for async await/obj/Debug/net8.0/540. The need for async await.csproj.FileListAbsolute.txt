@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\bin\Debug\net8.0\540. The need for async await.exe
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\bin\Debug\net8.0\540. The need for async await.deps.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\bin\Debug\net8.0\540. The need for async await.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\bin\Debug\net8.0\540. The need for async await.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\bin\Debug\net8.0\540. The need for async await.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\obj\Debug\net8.0\540. The need for async await.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\obj\Debug\net8.0\540. The need for async await.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\obj\Debug\net8.0\540. The need for async await.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\obj\Debug\net8.0\540. The need for async await.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\obj\Debug\net8.0\540. The need for async await.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\obj\Debug\net8.0\540. The need for async await.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\obj\Debug\net8.0\refint\540. The need for async await.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\obj\Debug\net8.0\540. The need for async await.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\obj\Debug\net8.0\540. The need for async await.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\540. The need for async await\obj\Debug\net8.0\ref\540. The need for async await.dll

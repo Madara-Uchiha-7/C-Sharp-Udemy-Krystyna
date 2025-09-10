@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\bin\Debug\net8.0\534. Multiple continuations for one task.exe
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\bin\Debug\net8.0\534. Multiple continuations for one task.deps.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\bin\Debug\net8.0\534. Multiple continuations for one task.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\bin\Debug\net8.0\534. Multiple continuations for one task.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\bin\Debug\net8.0\534. Multiple continuations for one task.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\obj\Debug\net8.0\534. Multiple continuations for one task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\obj\Debug\net8.0\534. Multiple continuations for one task.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\obj\Debug\net8.0\534. Multiple continuations for one task.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\obj\Debug\net8.0\534. Multiple continuations for one task.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\obj\Debug\net8.0\534. Multiple continuations for one task.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\obj\Debug\net8.0\534. Multiple continuations for one task.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\obj\Debug\net8.0\refint\534. Multiple continuations for one task.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\obj\Debug\net8.0\534. Multiple continuations for one task.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\obj\Debug\net8.0\534. Multiple continuations for one task.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\534. Multiple continuations for one task\obj\Debug\net8.0\ref\534. Multiple continuations for one task.dll

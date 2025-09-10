@@ -3,41 +3,87 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "511. The computer's processor", "507. The computer's processor\511. The computer's processor.csproj", "{12459685-7BB0-4D0C-BB11-075D717A6D61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "511. The computer's processor", "507. The computer's processor\511. The computer's processor.csproj", "{12459685-7BB0-4D0C-BB11-075D717A6D61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "512. Threads and processes", "512. Threads and processes\512. Threads and processes.csproj", "{9591BA73-30AB-4E23-BFC3-C5B5C6019107}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "512. Threads and processes", "512. Threads and processes\512. Threads and processes.csproj", "{9591BA73-30AB-4E23-BFC3-C5B5C6019107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "513. Concurrency vs parallelism", "513. Concurrency vs parallelism\513. Concurrency vs parallelism.csproj", "{35088F2E-317C-4C6A-BD46-DA93F89A9E3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "513. Concurrency vs parallelism", "513. Concurrency vs parallelism\513. Concurrency vs parallelism.csproj", "{35088F2E-317C-4C6A-BD46-DA93F89A9E3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "514. Asynchrony", "514. Asynchrony\514. Asynchrony.csproj", "{C690ADCF-75CA-46FB-902F-F1FE1FB0A045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "514. Asynchrony", "514. Asynchrony\514. Asynchrony.csproj", "{C690ADCF-75CA-46FB-902F-F1FE1FB0A045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "515. A single-threaded program", "515. A single-threaded program\515. A single-threaded program.csproj", "{0D070A16-1CE8-48DF-88C1-E47EB86608F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "515. A single-threaded program", "515. A single-threaded program\515. A single-threaded program.csproj", "{0D070A16-1CE8-48DF-88C1-E47EB86608F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "516. Starting a new thread. The Thread class", "516. Starting a new thread. The Thread class\516. Starting a new thread. The Thread class.csproj", "{B880095E-4D92-4451-86A0-B0B68C7A739B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "516. Starting a new thread. The Thread class", "516. Starting a new thread. The Thread class\516. Starting a new thread. The Thread class.csproj", "{B880095E-4D92-4451-86A0-B0B68C7A739B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "517. Multithreaded app’s code flow", "517. Multithreaded app’s code flow\517. Multithreaded app’s code flow.csproj", "{96F75042-61AB-4CAF-82F7-E1E0C6D5F098}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "517. Multithreaded app’s code flow", "517. Multithreaded app’s code flow\517. Multithreaded app’s code flow.csproj", "{96F75042-61AB-4CAF-82F7-E1E0C6D5F098}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "518. The benefits of multithreading and asynchronous programming", "518. The benefits of multithreading and asynchronous programming\518. The benefits of multithreading and asynchronous programming.csproj", "{F7490E7B-863A-45D0-9EB1-FAE939A764E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "518. The benefits of multithreading and asynchronous programming", "518. The benefits of multithreading and asynchronous programming\518. The benefits of multithreading and asynchronous programming.csproj", "{F7490E7B-863A-45D0-9EB1-FAE939A764E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "519. The cost of threads. ThreadPool", "519. The cost of threads. ThreadPool\519. The cost of threads. ThreadPool.csproj", "{337AF8BF-495A-409C-8DDD-AEFE82F7302F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "519. The cost of threads. ThreadPool", "519. The cost of threads. ThreadPool\519. The cost of threads. ThreadPool.csproj", "{337AF8BF-495A-409C-8DDD-AEFE82F7302F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "520. Task Parallel Library (TPL)", "520. Task Parallel Library (TPL)\520. Task Parallel Library (TPL).csproj", "{785130AD-FB7A-4ECC-AF02-6AFB567CC866}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "520. Task Parallel Library (TPL)", "520. Task Parallel Library (TPL)\520. Task Parallel Library (TPL).csproj", "{785130AD-FB7A-4ECC-AF02-6AFB567CC866}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "521. Task class", "521. Task class\521. Task class.csproj", "{D071ED79-0167-4B6B-AD77-68851BE84F9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "521. Task class", "521. Task class\521. Task class.csproj", "{D071ED79-0167-4B6B-AD77-68851BE84F9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "522. Returning a value from a Task", "522. Returning a value from a Task\522. Returning a value from a Task.csproj", "{4DB5761E-1DC1-404F-87DA-089CA3E6B26A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "522. Returning a value from a Task", "522. Returning a value from a Task\522. Returning a value from a Task.csproj", "{4DB5761E-1DC1-404F-87DA-089CA3E6B26A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "523. Waiting for the Task result", "523. Waiting for the Task result\523. Waiting for the Task result.csproj", "{2D843F2F-32B4-407A-9406-2BED2F30126C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "523. Waiting for the Task result", "523. Waiting for the Task result\523. Waiting for the Task result.csproj", "{2D843F2F-32B4-407A-9406-2BED2F30126C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "524. Wait and WaitAll methods", "524. Wait and WaitAll methods\524. Wait and WaitAll methods.csproj", "{2ADDEC5C-5375-437A-A366-B00FF8CCA5BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "524. Wait and WaitAll methods", "524. Wait and WaitAll methods\524. Wait and WaitAll methods.csproj", "{2ADDEC5C-5375-437A-A366-B00FF8CCA5BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "524_1. Exercise", "524_1. Exercise\524_1. Exercise.csproj", "{969AB503-512C-4F6B-854A-90CB1C3EE0B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "524_1. Exercise", "524_1. Exercise\524_1. Exercise.csproj", "{969AB503-512C-4F6B-854A-90CB1C3EE0B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "525. Continuations. The ContinueWith method", "525. Continuations. The ContinueWith method\525. Continuations. The ContinueWith method.csproj", "{00CC2FC0-02E9-4283-AE8C-1C1F9556E744}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "525. Continuations. The ContinueWith method", "525. Continuations. The ContinueWith method\525. Continuations. The ContinueWith method.csproj", "{00CC2FC0-02E9-4283-AE8C-1C1F9556E744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "526. Chaining continuations. Continuations of multiple tasks", "526. Chaining continuations. Continuations of multiple tasks\526. Chaining continuations. Continuations of multiple tasks.csproj", "{3936DA91-DBF5-46B4-8F0C-C8A86BDA863D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "526. Chaining continuations. Continuations of multiple tasks", "526. Chaining continuations. Continuations of multiple tasks\526. Chaining continuations. Continuations of multiple tasks.csproj", "{3936DA91-DBF5-46B4-8F0C-C8A86BDA863D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "526.1. Chaining continuations. Continuations of multiple tasks", "526.1. Chaining continuations. Continuations of multiple tasks\526.1. Chaining continuations. Continuations of multiple tasks.csproj", "{B6C45C0F-4D75-47CF-B408-ED49E7A4E049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "526.1. Chaining continuations. Continuations of multiple tasks", "526.1. Chaining continuations. Continuations of multiple tasks\526.1. Chaining continuations. Continuations of multiple tasks.csproj", "{B6C45C0F-4D75-47CF-B408-ED49E7A4E049}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "527. Canceling a Task", "527. Canceling a Task\527. Canceling a Task.csproj", "{D51E125C-A65B-4561-9A48-5DAFE76D4752}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "528. Task lifecycle", "528. Task lifecycle\528. Task lifecycle.csproj", "{17CC963A-ADFF-4F8D-9EC7-839B2B4D2568}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "529. OperationCanceledException", "529. OperationCanceledException\529. OperationCanceledException.csproj", "{093A6228-8B1F-4935-806A-958234C015FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "530. Exceptions thrown by other threads", "530. Exceptions thrown by other threads\530. Exceptions thrown by other threads.csproj", "{D94E0712-2FB3-4940-831A-8B19FF69E746}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "531. Exceptions in tasks", "531. Exceptions in tasks\531. Exceptions in tasks.csproj", "{F83F7B5A-BB15-4589-9989-EB6ABA104E29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "532. Asynchronous exception handling", "532. Asynchronous exception handling\532. Asynchronous exception handling.csproj", "{F98E8F60-ED9C-4CF1-A477-EBF4D8416F57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "533. Handling AggregateException", "533. Handling AggregateException\533. Handling AggregateException.csproj", "{A830D321-6E24-446A-8F1B-20F778561C8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "534. Multiple continuations for one task", "534. Multiple continuations for one task\534. Multiple continuations for one task.csproj", "{701318E0-5A78-40D1-99E1-DC42E7BD98D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "535. Handling task cancellation", "535. Handling task cancellation\535. Handling task cancellation.csproj", "{F7E3A1FE-398A-401F-8E6C-E5A42E90E0D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "536. The need for synchronization", "536. The need for synchronization\536. The need for synchronization.csproj", "{15873D80-1C5C-4A2E-A592-241C0BA34211}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "537. Atomic operations", "537. Atomic operations\537. Atomic operations.csproj", "{B1ADAE92-F2FC-4DB0-8FFB-8A30EEF7A648}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "538. Race condition", "538. Race condition\538. Race condition.csproj", "{C6C26C6B-89B7-4D03-99C6-A6228CA5D023}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "539. Locks", "539. Locks\539. Locks.csproj", "{E71B9499-010D-4630-A677-7296A311B249}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "540. The need for async await", "540. The need for async await\540. The need for async await.csproj", "{3464B437-50BA-47FE-9447-8532B7666456}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "541. await keyword", "541. await keyword\541. await keyword.csproj", "{2B43F7B1-DAD5-4612-BBEF-234D08CBBD30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "542. Async methods", "542. Async methods\542. Async methods.csproj", "{492B81A9-BF3E-4BA0-B25D-8B92254CD900}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "543. Asynchrony vs multithreading", "543. Asynchrony vs multithreading\543. Asynchrony vs multithreading.csproj", "{8AF2858A-95E0-4C06-9266-22BED6DC2692}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "544. The flow of an asynchronous program", "544. The flow of an asynchronous program\544. The flow of an asynchronous program.csproj", "{CF4CE373-E054-405A-9D04-075D037B97B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "545. Async await and threads", "545. Async await and threads\545. Async await and threads.csproj", "{01471E7B-F783-41C3-9860-045E3FBB2AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "547. Async await practice", "547. Async await practice\547. Async await practice.csproj", "{10B3B902-F125-454B-A282-1C44C0DA931D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "548. Exceptions in async methods", "548. Exceptions in async methods\548. Exceptions in async methods.csproj", "{9570745A-DE30-4AB0-BE5B-C13DDB4974E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "549. Downsides of multithreading & asynchrony", "549. Downsides of multithreading & asynchrony\549. Downsides of multithreading & asynchrony.csproj", "{B74AE77E-B736-4F4D-94AF-40303B0B1C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "550. Using async methods in practice. HttpClient", "550. Using async methods in practice. HttpClient\550. Using async methods in practice. HttpClient.csproj", "{C9861086-5C5B-4BE6-A446-BFDF41C66001}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,8 +163,103 @@ Global
 		{B6C45C0F-4D75-47CF-B408-ED49E7A4E049}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6C45C0F-4D75-47CF-B408-ED49E7A4E049}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6C45C0F-4D75-47CF-B408-ED49E7A4E049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51E125C-A65B-4561-9A48-5DAFE76D4752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51E125C-A65B-4561-9A48-5DAFE76D4752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51E125C-A65B-4561-9A48-5DAFE76D4752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51E125C-A65B-4561-9A48-5DAFE76D4752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CC963A-ADFF-4F8D-9EC7-839B2B4D2568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CC963A-ADFF-4F8D-9EC7-839B2B4D2568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CC963A-ADFF-4F8D-9EC7-839B2B4D2568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CC963A-ADFF-4F8D-9EC7-839B2B4D2568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093A6228-8B1F-4935-806A-958234C015FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093A6228-8B1F-4935-806A-958234C015FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093A6228-8B1F-4935-806A-958234C015FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093A6228-8B1F-4935-806A-958234C015FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94E0712-2FB3-4940-831A-8B19FF69E746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94E0712-2FB3-4940-831A-8B19FF69E746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94E0712-2FB3-4940-831A-8B19FF69E746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94E0712-2FB3-4940-831A-8B19FF69E746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83F7B5A-BB15-4589-9989-EB6ABA104E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83F7B5A-BB15-4589-9989-EB6ABA104E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83F7B5A-BB15-4589-9989-EB6ABA104E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83F7B5A-BB15-4589-9989-EB6ABA104E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98E8F60-ED9C-4CF1-A477-EBF4D8416F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98E8F60-ED9C-4CF1-A477-EBF4D8416F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98E8F60-ED9C-4CF1-A477-EBF4D8416F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98E8F60-ED9C-4CF1-A477-EBF4D8416F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A830D321-6E24-446A-8F1B-20F778561C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A830D321-6E24-446A-8F1B-20F778561C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A830D321-6E24-446A-8F1B-20F778561C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A830D321-6E24-446A-8F1B-20F778561C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701318E0-5A78-40D1-99E1-DC42E7BD98D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701318E0-5A78-40D1-99E1-DC42E7BD98D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701318E0-5A78-40D1-99E1-DC42E7BD98D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701318E0-5A78-40D1-99E1-DC42E7BD98D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E3A1FE-398A-401F-8E6C-E5A42E90E0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E3A1FE-398A-401F-8E6C-E5A42E90E0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E3A1FE-398A-401F-8E6C-E5A42E90E0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E3A1FE-398A-401F-8E6C-E5A42E90E0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15873D80-1C5C-4A2E-A592-241C0BA34211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15873D80-1C5C-4A2E-A592-241C0BA34211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15873D80-1C5C-4A2E-A592-241C0BA34211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15873D80-1C5C-4A2E-A592-241C0BA34211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1ADAE92-F2FC-4DB0-8FFB-8A30EEF7A648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1ADAE92-F2FC-4DB0-8FFB-8A30EEF7A648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1ADAE92-F2FC-4DB0-8FFB-8A30EEF7A648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1ADAE92-F2FC-4DB0-8FFB-8A30EEF7A648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C26C6B-89B7-4D03-99C6-A6228CA5D023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C26C6B-89B7-4D03-99C6-A6228CA5D023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C26C6B-89B7-4D03-99C6-A6228CA5D023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C26C6B-89B7-4D03-99C6-A6228CA5D023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71B9499-010D-4630-A677-7296A311B249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71B9499-010D-4630-A677-7296A311B249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71B9499-010D-4630-A677-7296A311B249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71B9499-010D-4630-A677-7296A311B249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3464B437-50BA-47FE-9447-8532B7666456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3464B437-50BA-47FE-9447-8532B7666456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3464B437-50BA-47FE-9447-8532B7666456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3464B437-50BA-47FE-9447-8532B7666456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B43F7B1-DAD5-4612-BBEF-234D08CBBD30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B43F7B1-DAD5-4612-BBEF-234D08CBBD30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B43F7B1-DAD5-4612-BBEF-234D08CBBD30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B43F7B1-DAD5-4612-BBEF-234D08CBBD30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492B81A9-BF3E-4BA0-B25D-8B92254CD900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492B81A9-BF3E-4BA0-B25D-8B92254CD900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492B81A9-BF3E-4BA0-B25D-8B92254CD900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492B81A9-BF3E-4BA0-B25D-8B92254CD900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF2858A-95E0-4C06-9266-22BED6DC2692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF2858A-95E0-4C06-9266-22BED6DC2692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF2858A-95E0-4C06-9266-22BED6DC2692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF2858A-95E0-4C06-9266-22BED6DC2692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4CE373-E054-405A-9D04-075D037B97B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4CE373-E054-405A-9D04-075D037B97B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4CE373-E054-405A-9D04-075D037B97B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4CE373-E054-405A-9D04-075D037B97B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01471E7B-F783-41C3-9860-045E3FBB2AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01471E7B-F783-41C3-9860-045E3FBB2AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01471E7B-F783-41C3-9860-045E3FBB2AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01471E7B-F783-41C3-9860-045E3FBB2AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B3B902-F125-454B-A282-1C44C0DA931D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B3B902-F125-454B-A282-1C44C0DA931D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B3B902-F125-454B-A282-1C44C0DA931D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B3B902-F125-454B-A282-1C44C0DA931D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9570745A-DE30-4AB0-BE5B-C13DDB4974E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9570745A-DE30-4AB0-BE5B-C13DDB4974E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9570745A-DE30-4AB0-BE5B-C13DDB4974E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9570745A-DE30-4AB0-BE5B-C13DDB4974E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74AE77E-B736-4F4D-94AF-40303B0B1C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74AE77E-B736-4F4D-94AF-40303B0B1C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74AE77E-B736-4F4D-94AF-40303B0B1C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74AE77E-B736-4F4D-94AF-40303B0B1C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9861086-5C5B-4BE6-A446-BFDF41C66001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9861086-5C5B-4BE6-A446-BFDF41C66001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9861086-5C5B-4BE6-A446-BFDF41C66001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9861086-5C5B-4BE6-A446-BFDF41C66001}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30F30D90-51D5-4A40-AB20-C3B49C1A2917}
 	EndGlobalSection
 EndGlobal

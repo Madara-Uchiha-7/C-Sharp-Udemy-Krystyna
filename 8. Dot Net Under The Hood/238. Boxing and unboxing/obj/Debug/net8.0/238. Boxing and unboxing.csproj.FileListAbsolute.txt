@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\bin\Debug\net8.0\238. Boxing and unboxing.exe
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\bin\Debug\net8.0\238. Boxing and unboxing.deps.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\bin\Debug\net8.0\238. Boxing and unboxing.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\bin\Debug\net8.0\238. Boxing and unboxing.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\bin\Debug\net8.0\238. Boxing and unboxing.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\obj\Debug\net8.0\238. Boxing and unboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\obj\Debug\net8.0\238. Boxing and unboxing.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\obj\Debug\net8.0\238. Boxing and unboxing.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\obj\Debug\net8.0\238. Boxing and unboxing.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\obj\Debug\net8.0\238. Boxing and unboxing.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\obj\Debug\net8.0\238. Boxing and unboxing.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\obj\Debug\net8.0\refint\238. Boxing and unboxing.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\obj\Debug\net8.0\238. Boxing and unboxing.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\obj\Debug\net8.0\238. Boxing and unboxing.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\238. Boxing and unboxing\obj\Debug\net8.0\ref\238. Boxing and unboxing.dll

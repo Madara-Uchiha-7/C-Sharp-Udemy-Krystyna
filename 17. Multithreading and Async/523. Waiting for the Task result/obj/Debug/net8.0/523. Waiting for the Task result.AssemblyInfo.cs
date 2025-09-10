@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("523. Waiting for the Task result")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df625bd80cda518dd3983f00e8bbf424b2cf70d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("523. Waiting for the Task result")]
 [assembly: System.Reflection.AssemblyTitleAttribute("523. Waiting for the Task result")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\bin\Debug\net8.0\236. Using ref with reference types.exe
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\bin\Debug\net8.0\236. Using ref with reference types.deps.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\bin\Debug\net8.0\236. Using ref with reference types.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\bin\Debug\net8.0\236. Using ref with reference types.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\bin\Debug\net8.0\236. Using ref with reference types.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\obj\Debug\net8.0\236. Using ref with reference types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\obj\Debug\net8.0\236. Using ref with reference types.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\obj\Debug\net8.0\236. Using ref with reference types.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\obj\Debug\net8.0\236. Using ref with reference types.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\obj\Debug\net8.0\236. Using ref with reference types.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\obj\Debug\net8.0\236. Using ref with reference types.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\obj\Debug\net8.0\refint\236. Using ref with reference types.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\obj\Debug\net8.0\236. Using ref with reference types.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\obj\Debug\net8.0\236. Using ref with reference types.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\236. Using ref with reference types\obj\Debug\net8.0\ref\236. Using ref with reference types.dll

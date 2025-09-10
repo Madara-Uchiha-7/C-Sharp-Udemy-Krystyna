@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\bin\Debug\net8.0\244. Memory leaks.exe
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\bin\Debug\net8.0\244. Memory leaks.deps.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\bin\Debug\net8.0\244. Memory leaks.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\bin\Debug\net8.0\244. Memory leaks.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\bin\Debug\net8.0\244. Memory leaks.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\obj\Debug\net8.0\244. Memory leaks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\obj\Debug\net8.0\244. Memory leaks.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\obj\Debug\net8.0\244. Memory leaks.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\obj\Debug\net8.0\244. Memory leaks.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\obj\Debug\net8.0\244. Memory leaks.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\obj\Debug\net8.0\244. Memory leaks.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\obj\Debug\net8.0\refint\244. Memory leaks.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\obj\Debug\net8.0\244. Memory leaks.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\obj\Debug\net8.0\244. Memory leaks.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\244. Memory leaks\obj\Debug\net8.0\ref\244. Memory leaks.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("519. The cost of threads. ThreadPool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df625bd80cda518dd3983f00e8bbf424b2cf70d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("519. The cost of threads. ThreadPool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("519. The cost of threads. ThreadPool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

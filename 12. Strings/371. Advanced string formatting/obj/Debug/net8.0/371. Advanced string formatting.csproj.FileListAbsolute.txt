@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\bin\Debug\net8.0\371. Advanced string formatting.exe
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\bin\Debug\net8.0\371. Advanced string formatting.deps.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\bin\Debug\net8.0\371. Advanced string formatting.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\bin\Debug\net8.0\371. Advanced string formatting.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\bin\Debug\net8.0\371. Advanced string formatting.pdb
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\obj\Debug\net8.0\371. Advanced string formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\obj\Debug\net8.0\371. Advanced string formatting.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\obj\Debug\net8.0\371. Advanced string formatting.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\obj\Debug\net8.0\371. Advanced string formatting.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\obj\Debug\net8.0\371. Advanced string formatting.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\obj\Debug\net8.0\371. Advanced string formatting.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\obj\Debug\net8.0\refint\371. Advanced string formatting.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\obj\Debug\net8.0\371. Advanced string formatting.pdb
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\obj\Debug\net8.0\371. Advanced string formatting.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\371. Advanced string formatting\obj\Debug\net8.0\ref\371. Advanced string formatting.dll

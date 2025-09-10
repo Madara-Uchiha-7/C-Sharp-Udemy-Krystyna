@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E44161AF-3FA8-4049-9CB4-8BC8F9236109}|373. Specific culture vs Invariant culture\\373. Specific culture vs Invariant culture.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\373. specific culture vs invariant culture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44161AF-3FA8-4049-9CB4-8BC8F9236109}|373. Specific culture vs Invariant culture\\373. Specific culture vs Invariant culture.csproj|solutionrelative:373. specific culture vs invariant culture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79C26A2-2919-4F16-ADEA-FE88EAA9A613}|370. Flyweight design pattern\\370. Flyweight design pattern.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\370. flyweight design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79C26A2-2919-4F16-ADEA-FE88EAA9A613}|370. Flyweight design pattern\\370. Flyweight design pattern.csproj|solutionrelative:370. flyweight design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844BF087-A64B-436D-AA62-E6F39391C427}|371. Advanced string formatting\\371. Advanced string formatting.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\371. advanced string formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844BF087-A64B-436D-AA62-E6F39391C427}|371. Advanced string formatting\\371. Advanced string formatting.csproj|solutionrelative:371. advanced string formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C5E809-0351-4440-977E-3527A66D4137}|372. Culture-specific string formatting\\372. Culture-specific string formatting.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\372. culture-specific string formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C5E809-0351-4440-977E-3527A66D4137}|372. Culture-specific string formatting\\372. Culture-specific string formatting.csproj|solutionrelative:372. culture-specific string formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98F0E72-B3BE-47EE-9381-960DD01B96E6}|369. String interning\\369. String interning.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\369. string interning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98F0E72-B3BE-47EE-9381-960DD01B96E6}|369. String interning\\369. String interning.csproj|solutionrelative:369. string interning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F4E98A-5277-48A7-8F36-8346D1101521}|368. StringBuilder\\368. StringBuilder.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\368. stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F4E98A-5277-48A7-8F36-8346D1101521}|368. StringBuilder\\368. StringBuilder.csproj|solutionrelative:368. stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E30C63-57C5-4242-AA5B-ABF1393E21EC}|367. A need for StringBuilder\\367. A need for StringBuilder.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\367. a need for stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E30C63-57C5-4242-AA5B-ABF1393E21EC}|367. A need for StringBuilder\\367. A need for StringBuilder.csproj|solutionrelative:367. a need for stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF26E65-8776-40B5-87E8-C0E18663F86C}|366. Strings as members in structs\\366. Strings as members in structs.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\366. strings as members in structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF26E65-8776-40B5-87E8-C0E18663F86C}|366. Strings as members in structs\\366. Strings as members in structs.csproj|solutionrelative:366. strings as members in structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48ED914A-4DB3-42C9-8DBF-EC8A5E7B23D9}|365. Strings - value or reference types\\365. Strings - value or reference types.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\365. strings - value or reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48ED914A-4DB3-42C9-8DBF-EC8A5E7B23D9}|365. Strings - value or reference types\\365. Strings - value or reference types.csproj|solutionrelative:365. strings - value or reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6547E03-8A0A-4909-B085-61B5FEE98E2B}|364. Immutability of strings\\364. Immutability of strings.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\364. immutability of strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6547E03-8A0A-4909-B085-61B5FEE98E2B}|364. Immutability of strings\\364. Immutability of strings.csproj|solutionrelative:364. immutability of strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1BBC30-5538-4403-AD40-C8B988715635}|362. Char representation in memory\\362. Char representation in memory..csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\362. char representation in memory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1BBC30-5538-4403-AD40-C8B988715635}|362. Char representation in memory\\362. Char representation in memory..csproj|solutionrelative:362. char representation in memory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E4F3CF-9ED9-4366-A58A-F48068235AEC}|363. Managing various encodings\\363. Managing various encodings.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\363. managing various encodings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E4F3CF-9ED9-4366-A58A-F48068235AEC}|363. Managing various encodings\\363. Managing various encodings.csproj|solutionrelative:363. managing various encodings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AFAF31-47CC-4D63-A591-EA5A2CBA5566}|361. Char\\361. Char.csproj|d:\\code\\udemy\\c#\\c# krytina\\12. strings\\361. char\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02AFAF31-47CC-4D63-A591-EA5A2CBA5566}|361. Char\\361. Char.csproj|solutionrelative:361. char\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\373. Specific culture vs Invariant culture\\Program.cs",
+              "RelativeDocumentMoniker": "373. Specific culture vs Invariant culture\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\373. Specific culture vs Invariant culture\\Program.cs",
+              "RelativeToolTip": "373. Specific culture vs Invariant culture\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T08:14:54.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\372. Culture-specific string formatting\\Program.cs",
+              "RelativeDocumentMoniker": "372. Culture-specific string formatting\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\372. Culture-specific string formatting\\Program.cs",
+              "RelativeToolTip": "372. Culture-specific string formatting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T08:06:57.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\371. Advanced string formatting\\Program.cs",
+              "RelativeDocumentMoniker": "371. Advanced string formatting\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\371. Advanced string formatting\\Program.cs",
+              "RelativeToolTip": "371. Advanced string formatting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:41:14.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\370. Flyweight design pattern\\Program.cs",
+              "RelativeDocumentMoniker": "370. Flyweight design pattern\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\370. Flyweight design pattern\\Program.cs",
+              "RelativeToolTip": "370. Flyweight design pattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:36:44.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\369. String interning\\Program.cs",
+              "RelativeDocumentMoniker": "369. String interning\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\369. String interning\\Program.cs",
+              "RelativeToolTip": "369. String interning\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:22:33.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\368. StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "368. StringBuilder\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\368. StringBuilder\\Program.cs",
+              "RelativeToolTip": "368. StringBuilder\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:08:50.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\367. A need for StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "367. A need for StringBuilder\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\367. A need for StringBuilder\\Program.cs",
+              "RelativeToolTip": "367. A need for StringBuilder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:04:14.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\366. Strings as members in structs\\Program.cs",
+              "RelativeDocumentMoniker": "366. Strings as members in structs\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\366. Strings as members in structs\\Program.cs",
+              "RelativeToolTip": "366. Strings as members in structs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:54:04.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\365. Strings - value or reference types\\Program.cs",
+              "RelativeDocumentMoniker": "365. Strings - value or reference types\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\365. Strings - value or reference types\\Program.cs",
+              "RelativeToolTip": "365. Strings - value or reference types\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:44:25.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\364. Immutability of strings\\Program.cs",
+              "RelativeDocumentMoniker": "364. Immutability of strings\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\364. Immutability of strings\\Program.cs",
+              "RelativeToolTip": "364. Immutability of strings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:40:24.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\363. Managing various encodings\\Program.cs",
+              "RelativeDocumentMoniker": "363. Managing various encodings\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\363. Managing various encodings\\Program.cs",
+              "RelativeToolTip": "363. Managing various encodings\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:59:55.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\362. Char representation in memory\\Program.cs",
+              "RelativeDocumentMoniker": "362. Char representation in memory\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\362. Char representation in memory\\Program.cs",
+              "RelativeToolTip": "362. Char representation in memory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:41:46.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\361. Char\\Program.cs",
+              "RelativeDocumentMoniker": "361. Char\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\12. Strings\\361. Char\\Program.cs",
+              "RelativeToolTip": "361. Char\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:32:33.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\bin\Debug\net8.0\368. StringBuilder.exe
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\bin\Debug\net8.0\368. StringBuilder.deps.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\bin\Debug\net8.0\368. StringBuilder.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\bin\Debug\net8.0\368. StringBuilder.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\bin\Debug\net8.0\368. StringBuilder.pdb
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\obj\Debug\net8.0\368. StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\obj\Debug\net8.0\368. StringBuilder.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\obj\Debug\net8.0\368. StringBuilder.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\obj\Debug\net8.0\368. StringBuilder.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\obj\Debug\net8.0\368. StringBuilder.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\obj\Debug\net8.0\368. StringBuilder.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\obj\Debug\net8.0\refint\368. StringBuilder.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\obj\Debug\net8.0\368. StringBuilder.pdb
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\obj\Debug\net8.0\368. StringBuilder.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\368. StringBuilder\obj\Debug\net8.0\ref\368. StringBuilder.dll

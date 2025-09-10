@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\bin\Debug\net8.0\527. Canceling a Task.exe
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\bin\Debug\net8.0\527. Canceling a Task.deps.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\bin\Debug\net8.0\527. Canceling a Task.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\bin\Debug\net8.0\527. Canceling a Task.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\bin\Debug\net8.0\527. Canceling a Task.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\obj\Debug\net8.0\527. Canceling a Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\obj\Debug\net8.0\527. Canceling a Task.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\obj\Debug\net8.0\527. Canceling a Task.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\obj\Debug\net8.0\527. Canceling a Task.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\obj\Debug\net8.0\527. Canceling a Task.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\obj\Debug\net8.0\527. Canceling a Task.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\obj\Debug\net8.0\refint\527. Canceling a Task.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\obj\Debug\net8.0\527. Canceling a Task.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\obj\Debug\net8.0\527. Canceling a Task.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\527. Canceling a Task\obj\Debug\net8.0\ref\527. Canceling a Task.dll

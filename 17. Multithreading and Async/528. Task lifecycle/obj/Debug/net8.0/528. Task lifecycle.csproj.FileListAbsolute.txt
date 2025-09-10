@@ -1,0 +1,5 @@
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\528. Task lifecycle\obj\Debug\net8.0\528. Task lifecycle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\528. Task lifecycle\obj\Debug\net8.0\528. Task lifecycle.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\528. Task lifecycle\obj\Debug\net8.0\528. Task lifecycle.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\528. Task lifecycle\obj\Debug\net8.0\528. Task lifecycle.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\528. Task lifecycle\obj\Debug\net8.0\528. Task lifecycle.sourcelink.json

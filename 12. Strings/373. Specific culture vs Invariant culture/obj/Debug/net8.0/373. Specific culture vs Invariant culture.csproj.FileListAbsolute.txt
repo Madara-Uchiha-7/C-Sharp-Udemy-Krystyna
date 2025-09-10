@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\bin\Debug\net8.0\373. Specific culture vs Invariant culture.exe
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\bin\Debug\net8.0\373. Specific culture vs Invariant culture.deps.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\bin\Debug\net8.0\373. Specific culture vs Invariant culture.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\bin\Debug\net8.0\373. Specific culture vs Invariant culture.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\bin\Debug\net8.0\373. Specific culture vs Invariant culture.pdb
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\obj\Debug\net8.0\373. Specific culture vs Invariant culture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\obj\Debug\net8.0\373. Specific culture vs Invariant culture.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\obj\Debug\net8.0\373. Specific culture vs Invariant culture.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\obj\Debug\net8.0\373. Specific culture vs Invariant culture.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\obj\Debug\net8.0\373. Specific culture vs Invariant culture.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\obj\Debug\net8.0\373. Specific culture vs Invariant culture.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\obj\Debug\net8.0\refint\373. Specific culture vs Invariant culture.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\obj\Debug\net8.0\373. Specific culture vs Invariant culture.pdb
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\obj\Debug\net8.0\373. Specific culture vs Invariant culture.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\373. Specific culture vs Invariant culture\obj\Debug\net8.0\ref\373. Specific culture vs Invariant culture.dll

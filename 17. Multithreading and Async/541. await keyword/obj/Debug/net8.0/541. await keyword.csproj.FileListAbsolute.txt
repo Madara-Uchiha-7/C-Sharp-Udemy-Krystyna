@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\bin\Debug\net8.0\541. await keyword.exe
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\bin\Debug\net8.0\541. await keyword.deps.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\bin\Debug\net8.0\541. await keyword.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\bin\Debug\net8.0\541. await keyword.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\bin\Debug\net8.0\541. await keyword.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\obj\Debug\net8.0\541. await keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\obj\Debug\net8.0\541. await keyword.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\obj\Debug\net8.0\541. await keyword.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\obj\Debug\net8.0\541. await keyword.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\obj\Debug\net8.0\541. await keyword.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\obj\Debug\net8.0\541. await keyword.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\obj\Debug\net8.0\refint\541. await keyword.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\obj\Debug\net8.0\541. await keyword.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\obj\Debug\net8.0\541. await keyword.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\541. await keyword\obj\Debug\net8.0\ref\541. await keyword.dll

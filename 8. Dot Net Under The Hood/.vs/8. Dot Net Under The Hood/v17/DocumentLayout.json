@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{810D00B0-F269-4691-9A38-A75306090272}|249. Dispose method - implementation\\249. Dispose method - implementation.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\249. dispose method - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810D00B0-F269-4691-9A38-A75306090272}|249. Dispose method - implementation\\249. Dispose method - implementation.csproj|solutionrelative:249. dispose method - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8655C2C-B296-4034-8D98-FE7125991386}|248. Dispose method - StreamReader\\248. Dispose method - StreamReader.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\248. dispose method - streamreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8655C2C-B296-4034-8D98-FE7125991386}|248. Dispose method - StreamReader\\248. Dispose method - StreamReader.csproj|solutionrelative:248. dispose method - streamreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4005E5F-EA40-4CF2-BE07-FB5D0DAEE01B}|247. Dispose method -  StreamWriter\\247. Dispose method -  StreamWriter.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\247. dispose method -  streamwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4005E5F-EA40-4CF2-BE07-FB5D0DAEE01B}|247. Dispose method -  StreamWriter\\247. Dispose method -  StreamWriter.csproj|solutionrelative:247. dispose method -  streamwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17CDC80-CA52-4BEE-9B3F-37C9D2C9CD31}|246. Dispose method - introduction\\246. Dispose method - introduction.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\246. dispose method - introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17CDC80-CA52-4BEE-9B3F-37C9D2C9CD31}|246. Dispose method - introduction\\246. Dispose method - introduction.csproj|solutionrelative:246. dispose method - introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684F258-F909-4312-9BE2-AF203DE995B9}|245. Finalizers\\245. Finalizers.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\245. finalizers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684F258-F909-4312-9BE2-AF203DE995B9}|245. Finalizers\\245. Finalizers.csproj|solutionrelative:245. finalizers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2899C899-D8CA-453B-AD39-897DB8F72D2A}|238. Boxing and unboxing\\238. Boxing and unboxing.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\238. boxing and unboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2899C899-D8CA-453B-AD39-897DB8F72D2A}|238. Boxing and unboxing\\238. Boxing and unboxing.csproj|solutionrelative:238. boxing and unboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1B9404-1DC9-4CB8-8869-DF8E02E680F4}|239. Boxing and unboxing - performance cost\\239. Boxing and unboxing - performance cost.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\239. boxing and unboxing - performance cost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1B9404-1DC9-4CB8-8869-DF8E02E680F4}|239. Boxing and unboxing - performance cost\\239. Boxing and unboxing - performance cost.csproj|solutionrelative:239. boxing and unboxing - performance cost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09675B7F-8D3B-4E8A-9AA7-F8F85B520CE1}|244. Memory leaks\\244. Memory leaks.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\244. memory leaks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09675B7F-8D3B-4E8A-9AA7-F8F85B520CE1}|244. Memory leaks\\244. Memory leaks.csproj|solutionrelative:244. memory leaks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98D0A46-9E84-41F1-A2A9-0DA9E93BBB33}|243. Garbage Collector - generations of objects\\243. Garbage Collector - generations of objects.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\243. garbage collector - generations of objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98D0A46-9E84-41F1-A2A9-0DA9E93BBB33}|243. Garbage Collector - generations of objects\\243. Garbage Collector - generations of objects.csproj|solutionrelative:243. garbage collector - generations of objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27DAEC0-39F9-4D3D-8483-69A9FE13F27C}|242. Garbage Collector - the Mark-and-Sweep algorithm\\242. Garbage Collector - the Mark-and-Sweep algorithm.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\242. garbage collector - the mark-and-sweep algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27DAEC0-39F9-4D3D-8483-69A9FE13F27C}|242. Garbage Collector - the Mark-and-Sweep algorithm\\242. Garbage Collector - the Mark-and-Sweep algorithm.csproj|solutionrelative:242. garbage collector - the mark-and-sweep algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E301C824-92D2-4036-87F3-91F6D0B50343}|240. Garbage Collector - introduction\\240. Garbage Collector - introduction.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\240. garbage collector - introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E301C824-92D2-4036-87F3-91F6D0B50343}|240. Garbage Collector - introduction\\240. Garbage Collector - introduction.csproj|solutionrelative:240. garbage collector - introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510409A8-4C69-42C3-A4B4-7C38DBFADACB}|241. Garbage Collector - memory fragmentation and defragmentation\\241. Garbage Collector - memory fragmentation and defragmentation.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\241. garbage collector - memory fragmentation and defragmentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510409A8-4C69-42C3-A4B4-7C38DBFADACB}|241. Garbage Collector - memory fragmentation and defragmentation\\241. Garbage Collector - memory fragmentation and defragmentation.csproj|solutionrelative:241. garbage collector - memory fragmentation and defragmentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CD7769-4587-47EB-B88E-BA137D5594B7}|237. Unified type system. Boxing and unboxing\\237. Unified type system. Boxing and unboxing.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\237. unified type system. boxing and unboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CD7769-4587-47EB-B88E-BA137D5594B7}|237. Unified type system. Boxing and unboxing\\237. Unified type system. Boxing and unboxing.csproj|solutionrelative:237. unified type system. boxing and unboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92B64CC-436B-4554-AE24-C90CF9F42340}|234. Value types vs reference types - practical tips\\234. Value types vs reference types - practical tips.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\234. value types vs reference types - practical tips\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92B64CC-436B-4554-AE24-C90CF9F42340}|234. Value types vs reference types - practical tips\\234. Value types vs reference types - practical tips.csproj|solutionrelative:234. value types vs reference types - practical tips\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCEE4-A184-41E2-9E56-C1596112E062}|235. ref keyword\\235. ref keyword.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\235. ref keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCEE4-A184-41E2-9E56-C1596112E062}|235. ref keyword\\235. ref keyword.csproj|solutionrelative:235. ref keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FC1A78-50D2-469A-9B8A-784594255B15}|236. Using ref with reference types\\236. Using ref with reference types.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\236. using ref with reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FC1A78-50D2-469A-9B8A-784594255B15}|236. Using ref with reference types\\236. Using ref with reference types.csproj|solutionrelative:236. using ref with reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C53B3-33F5-4C10-9D7B-861D8FBA92E8}|232. Value semantics vs reference semantics\\232. Value semantics vs reference semantics.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\232. value semantics vs reference semantics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3C53B3-33F5-4C10-9D7B-861D8FBA92E8}|232. Value semantics vs reference semantics\\232. Value semantics vs reference semantics.csproj|solutionrelative:232. value semantics vs reference semantics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5683AF6-4BCD-4CDA-A87F-C4709A412DE3}|233. Value types vs reference types\\233. Value types vs reference types.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\233. value types vs reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5683AF6-4BCD-4CDA-A87F-C4709A412DE3}|233. Value types vs reference types\\233. Value types vs reference types.csproj|solutionrelative:233. value types vs reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876B74F2-E3A8-4606-8209-0D62135AD9E1}|228. Dot Net and C Sharp\\228. Dot Net and C Sharp.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\228. dot net and c sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876B74F2-E3A8-4606-8209-0D62135AD9E1}|228. Dot Net and C Sharp\\228. Dot Net and C Sharp.csproj|solutionrelative:228. dot net and c sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6098CB6C-B206-4A2E-8CB2-3A63049F6E25}|231. Memory of a program. The stack and the heap\\231. Memory of a program. The stack and the heap.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\231. memory of a program. the stack and the heap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6098CB6C-B206-4A2E-8CB2-3A63049F6E25}|231. Memory of a program. The stack and the heap\\231. Memory of a program. The stack and the heap.csproj|solutionrelative:231. memory of a program. the stack and the heap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2960BF24-999B-4CE1-9E27-8F8B642D4065}|230. Common Language Runtime (CLR)\\230. Common Language Runtime (CLR).csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\230. common language runtime (clr)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2960BF24-999B-4CE1-9E27-8F8B642D4065}|230. Common Language Runtime (CLR)\\230. Common Language Runtime (CLR).csproj|solutionrelative:230. common language runtime (clr)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8040B778-12FA-4718-BB67-0F217EA706FF}|229. Common Intermediate Language (CIL)\\229. Common Intermediate Language (CIL).csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\229. common intermediate language (cil)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8040B778-12FA-4718-BB67-0F217EA706FF}|229. Common Intermediate Language (CIL)\\229. Common Intermediate Language (CIL).csproj|solutionrelative:229. common intermediate language (cil)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\249. Dispose method - implementation\\Program.cs",
+              "RelativeDocumentMoniker": "249. Dispose method - implementation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\249. Dispose method - implementation\\Program.cs",
+              "RelativeToolTip": "249. Dispose method - implementation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T12:51:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\248. Dispose method - StreamReader\\Program.cs",
+              "RelativeDocumentMoniker": "248. Dispose method - StreamReader\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\248. Dispose method - StreamReader\\Program.cs",
+              "RelativeToolTip": "248. Dispose method - StreamReader\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T12:37:36.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\247. Dispose method -  StreamWriter\\Program.cs",
+              "RelativeDocumentMoniker": "247. Dispose method -  StreamWriter\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\247. Dispose method -  StreamWriter\\Program.cs",
+              "RelativeToolTip": "247. Dispose method -  StreamWriter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:06:00.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\246. Dispose method - introduction\\Program.cs",
+              "RelativeDocumentMoniker": "246. Dispose method - introduction\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\246. Dispose method - introduction\\Program.cs",
+              "RelativeToolTip": "246. Dispose method - introduction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:03:17.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\245. Finalizers\\Program.cs",
+              "RelativeDocumentMoniker": "245. Finalizers\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\245. Finalizers\\Program.cs",
+              "RelativeToolTip": "245. Finalizers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:07:54.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\244. Memory leaks\\Program.cs",
+              "RelativeDocumentMoniker": "244. Memory leaks\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\244. Memory leaks\\Program.cs",
+              "RelativeToolTip": "244. Memory leaks\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:56:22.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\243. Garbage Collector - generations of objects\\Program.cs",
+              "RelativeDocumentMoniker": "243. Garbage Collector - generations of objects\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\243. Garbage Collector - generations of objects\\Program.cs",
+              "RelativeToolTip": "243. Garbage Collector - generations of objects\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:43:53.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\242. Garbage Collector - the Mark-and-Sweep algorithm\\Program.cs",
+              "RelativeDocumentMoniker": "242. Garbage Collector - the Mark-and-Sweep algorithm\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\242. Garbage Collector - the Mark-and-Sweep algorithm\\Program.cs",
+              "RelativeToolTip": "242. Garbage Collector - the Mark-and-Sweep algorithm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:12:44.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\241. Garbage Collector - memory fragmentation and defragmentation\\Program.cs",
+              "RelativeDocumentMoniker": "241. Garbage Collector - memory fragmentation and defragmentation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\241. Garbage Collector - memory fragmentation and defragmentation\\Program.cs",
+              "RelativeToolTip": "241. Garbage Collector - memory fragmentation and defragmentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:07:16.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\240. Garbage Collector - introduction\\Program.cs",
+              "RelativeDocumentMoniker": "240. Garbage Collector - introduction\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\240. Garbage Collector - introduction\\Program.cs",
+              "RelativeToolTip": "240. Garbage Collector - introduction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:59:30.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\239. Boxing and unboxing - performance cost\\Program.cs",
+              "RelativeDocumentMoniker": "239. Boxing and unboxing - performance cost\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\239. Boxing and unboxing - performance cost\\Program.cs",
+              "RelativeToolTip": "239. Boxing and unboxing - performance cost\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwDwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:31:34.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\238. Boxing and unboxing\\Program.cs",
+              "RelativeDocumentMoniker": "238. Boxing and unboxing\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\238. Boxing and unboxing\\Program.cs",
+              "RelativeToolTip": "238. Boxing and unboxing\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:20:52.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\237. Unified type system. Boxing and unboxing\\Program.cs",
+              "RelativeDocumentMoniker": "237. Unified type system. Boxing and unboxing\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\237. Unified type system. Boxing and unboxing\\Program.cs",
+              "RelativeToolTip": "237. Unified type system. Boxing and unboxing\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:02:40.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\236. Using ref with reference types\\Program.cs",
+              "RelativeDocumentMoniker": "236. Using ref with reference types\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\236. Using ref with reference types\\Program.cs",
+              "RelativeToolTip": "236. Using ref with reference types\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:43:04.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\235. ref keyword\\Program.cs",
+              "RelativeDocumentMoniker": "235. ref keyword\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\235. ref keyword\\Program.cs",
+              "RelativeToolTip": "235. ref keyword\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:17:04.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\234. Value types vs reference types - practical tips\\Program.cs",
+              "RelativeDocumentMoniker": "234. Value types vs reference types - practical tips\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\234. Value types vs reference types - practical tips\\Program.cs",
+              "RelativeToolTip": "234. Value types vs reference types - practical tips\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:29:18.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\233. Value types vs reference types\\Program.cs",
+              "RelativeDocumentMoniker": "233. Value types vs reference types\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\233. Value types vs reference types\\Program.cs",
+              "RelativeToolTip": "233. Value types vs reference types\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:08:46.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\232. Value semantics vs reference semantics\\Program.cs",
+              "RelativeDocumentMoniker": "232. Value semantics vs reference semantics\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\232. Value semantics vs reference semantics\\Program.cs",
+              "RelativeToolTip": "232. Value semantics vs reference semantics\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:56:03.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\231. Memory of a program. The stack and the heap\\Program.cs",
+              "RelativeDocumentMoniker": "231. Memory of a program. The stack and the heap\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\231. Memory of a program. The stack and the heap\\Program.cs",
+              "RelativeToolTip": "231. Memory of a program. The stack and the heap\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:51:18.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\230. Common Language Runtime (CLR)\\Program.cs",
+              "RelativeDocumentMoniker": "230. Common Language Runtime (CLR)\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\230. Common Language Runtime (CLR)\\Program.cs",
+              "RelativeToolTip": "230. Common Language Runtime (CLR)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:11:30.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\229. Common Intermediate Language (CIL)\\Program.cs",
+              "RelativeDocumentMoniker": "229. Common Intermediate Language (CIL)\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\229. Common Intermediate Language (CIL)\\Program.cs",
+              "RelativeToolTip": "229. Common Intermediate Language (CIL)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:05:45.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\228. Dot Net and C Sharp\\Program.cs",
+              "RelativeDocumentMoniker": "228. Dot Net and C Sharp\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\228. Dot Net and C Sharp\\Program.cs",
+              "RelativeToolTip": "228. Dot Net and C Sharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:46:55.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

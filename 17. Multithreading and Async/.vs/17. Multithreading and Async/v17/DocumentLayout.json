@@ -1,78 +1,170 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\",
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6C45C0F-4D75-47CF-B408-ED49E7A4E049}|526.1. Chaining continuations. Continuations of multiple tasks\\526.1. Chaining continuations. Continuations of multiple tasks.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\526.1. chaining continuations. continuations of multiple tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9861086-5C5B-4BE6-A446-BFDF41C66001}|550. Using async methods in practice. HttpClient\\550. Using async methods in practice. HttpClient.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\550. using async methods in practice. httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9861086-5C5B-4BE6-A446-BFDF41C66001}|550. Using async methods in practice. HttpClient\\550. Using async methods in practice. HttpClient.csproj|solutionrelative:550. using async methods in practice. httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74AE77E-B736-4F4D-94AF-40303B0B1C98}|549. Downsides of multithreading \u0026 asynchrony\\549. Downsides of multithreading \u0026 asynchrony.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\549. downsides of multithreading \u0026 asynchrony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74AE77E-B736-4F4D-94AF-40303B0B1C98}|549. Downsides of multithreading \u0026 asynchrony\\549. Downsides of multithreading \u0026 asynchrony.csproj|solutionrelative:549. downsides of multithreading \u0026 asynchrony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C45C0F-4D75-47CF-B408-ED49E7A4E049}|526.1. Chaining continuations. Continuations of multiple tasks\\526.1. Chaining continuations. Continuations of multiple tasks.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\526.1. chaining continuations. continuations of multiple tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6C45C0F-4D75-47CF-B408-ED49E7A4E049}|526.1. Chaining continuations. Continuations of multiple tasks\\526.1. Chaining continuations. Continuations of multiple tasks.csproj|solutionrelative:526.1. chaining continuations. continuations of multiple tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3936DA91-DBF5-46B4-8F0C-C8A86BDA863D}|526. Chaining continuations. Continuations of multiple tasks\\526. Chaining continuations. Continuations of multiple tasks.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\526. chaining continuations. continuations of multiple tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3936DA91-DBF5-46B4-8F0C-C8A86BDA863D}|526. Chaining continuations. Continuations of multiple tasks\\526. Chaining continuations. Continuations of multiple tasks.csproj|solutionrelative:526. chaining continuations. continuations of multiple tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9570745A-DE30-4AB0-BE5B-C13DDB4974E1}|548. Exceptions in async methods\\548. Exceptions in async methods.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\548. exceptions in async methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9570745A-DE30-4AB0-BE5B-C13DDB4974E1}|548. Exceptions in async methods\\548. Exceptions in async methods.csproj|solutionrelative:548. exceptions in async methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CC2FC0-02E9-4283-AE8C-1C1F9556E744}|525. Continuations. The ContinueWith method\\525. Continuations. The ContinueWith method.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\525. continuations. the continuewith method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CC2FC0-02E9-4283-AE8C-1C1F9556E744}|525. Continuations. The ContinueWith method\\525. Continuations. The ContinueWith method.csproj|solutionrelative:525. continuations. the continuewith method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10B3B902-F125-454B-A282-1C44C0DA931D}|547. Async await practice\\547. Async await practice.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\547. async await practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B3B902-F125-454B-A282-1C44C0DA931D}|547. Async await practice\\547. Async await practice.csproj|solutionrelative:547. async await practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADDEC5C-5375-437A-A366-B00FF8CCA5BA}|524. Wait and WaitAll methods\\524. Wait and WaitAll methods.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\524. wait and waitall methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3464B437-50BA-47FE-9447-8532B7666456}|540. The need for async await\\540. The need for async await.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\540. the need for async await\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3464B437-50BA-47FE-9447-8532B7666456}|540. The need for async await\\540. The need for async await.csproj|solutionrelative:540. the need for async await\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B43F7B1-DAD5-4612-BBEF-234D08CBBD30}|541. await keyword\\541. await keyword.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\541. await keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B43F7B1-DAD5-4612-BBEF-234D08CBBD30}|541. await keyword\\541. await keyword.csproj|solutionrelative:541. await keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51E125C-A65B-4561-9A48-5DAFE76D4752}|527. Canceling a Task\\527. Canceling a Task.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\527. canceling a task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51E125C-A65B-4561-9A48-5DAFE76D4752}|527. Canceling a Task\\527. Canceling a Task.csproj|solutionrelative:527. canceling a task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12459685-7BB0-4D0C-BB11-075D717A6D61}|507. The computer\u0027s processor\\511. The computer\u0027s processor.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\507. the computer\u0027s processor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12459685-7BB0-4D0C-BB11-075D717A6D61}|507. The computer\u0027s processor\\511. The computer\u0027s processor.csproj|solutionrelative:507. the computer\u0027s processor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDEC5C-5375-437A-A366-B00FF8CCA5BA}|524. Wait and WaitAll methods\\524. Wait and WaitAll methods.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\524. wait and waitall methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ADDEC5C-5375-437A-A366-B00FF8CCA5BA}|524. Wait and WaitAll methods\\524. Wait and WaitAll methods.csproj|solutionrelative:524. wait and waitall methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D843F2F-32B4-407A-9406-2BED2F30126C}|523. Waiting for the Task result\\523. Waiting for the Task result.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\523. waiting for the task result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D843F2F-32B4-407A-9406-2BED2F30126C}|523. Waiting for the Task result\\523. Waiting for the Task result.csproj|solutionrelative:523. waiting for the task result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CC2FC0-02E9-4283-AE8C-1C1F9556E744}|525. Continuations. The ContinueWith method\\525. Continuations. The ContinueWith method.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\525. continuations. the continuewith method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CC2FC0-02E9-4283-AE8C-1C1F9556E744}|525. Continuations. The ContinueWith method\\525. Continuations. The ContinueWith method.csproj|solutionrelative:525. continuations. the continuewith method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DB5761E-1DC1-404F-87DA-089CA3E6B26A}|522. Returning a value from a Task\\522. Returning a value from a Task.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\522. returning a value from a task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB5761E-1DC1-404F-87DA-089CA3E6B26A}|522. Returning a value from a Task\\522. Returning a value from a Task.csproj|solutionrelative:522. returning a value from a task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01471E7B-F783-41C3-9860-045E3FBB2AEC}|545. Async await and threads\\545. Async await and threads.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\545. async await and threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01471E7B-F783-41C3-9860-045E3FBB2AEC}|545. Async await and threads\\545. Async await and threads.csproj|solutionrelative:545. async await and threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969AB503-512C-4F6B-854A-90CB1C3EE0B0}|524_1. Exercise\\524_1. Exercise.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\524_1. exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969AB503-512C-4F6B-854A-90CB1C3EE0B0}|524_1. Exercise\\524_1. Exercise.csproj|solutionrelative:524_1. exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF4CE373-E054-405A-9D04-075D037B97B8}|544. The flow of an asynchronous program\\544. The flow of an asynchronous program.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\544. the flow of an asynchronous program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4CE373-E054-405A-9D04-075D037B97B8}|544. The flow of an asynchronous program\\544. The flow of an asynchronous program.csproj|solutionrelative:544. the flow of an asynchronous program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D071ED79-0167-4B6B-AD77-68851BE84F9D}|521. Task class\\521. Task class.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\521. task class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D071ED79-0167-4B6B-AD77-68851BE84F9D}|521. Task class\\521. Task class.csproj|solutionrelative:521. task class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AF2858A-95E0-4C06-9266-22BED6DC2692}|543. Asynchrony vs multithreading\\543. Asynchrony vs multithreading.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\543. asynchrony vs multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF2858A-95E0-4C06-9266-22BED6DC2692}|543. Asynchrony vs multithreading\\543. Asynchrony vs multithreading.csproj|solutionrelative:543. asynchrony vs multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96F75042-61AB-4CAF-82F7-E1E0C6D5F098}|517. Multithreaded app\u2019s code flow\\517. Multithreaded app\u2019s code flow.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\517. multithreaded app\u2019s code flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96F75042-61AB-4CAF-82F7-E1E0C6D5F098}|517. Multithreaded app\u2019s code flow\\517. Multithreaded app\u2019s code flow.csproj|solutionrelative:517. multithreaded app\u2019s code flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7E3A1FE-398A-401F-8E6C-E5A42E90E0D5}|535. Handling task cancellation\\535. Handling task cancellation.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\535. handling task cancellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E3A1FE-398A-401F-8E6C-E5A42E90E0D5}|535. Handling task cancellation\\535. Handling task cancellation.csproj|solutionrelative:535. handling task cancellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7490E7B-863A-45D0-9EB1-FAE939A764E0}|518. The benefits of multithreading and asynchronous programming\\518. The benefits of multithreading and asynchronous programming.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\518. the benefits of multithreading and asynchronous programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7490E7B-863A-45D0-9EB1-FAE939A764E0}|518. The benefits of multithreading and asynchronous programming\\518. The benefits of multithreading and asynchronous programming.csproj|solutionrelative:518. the benefits of multithreading and asynchronous programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{492B81A9-BF3E-4BA0-B25D-8B92254CD900}|542. Async methods\\542. Async methods.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\542. async methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492B81A9-BF3E-4BA0-B25D-8B92254CD900}|542. Async methods\\542. Async methods.csproj|solutionrelative:542. async methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337AF8BF-495A-409C-8DDD-AEFE82F7302F}|519. The cost of threads. ThreadPool\\519. The cost of threads. ThreadPool.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\519. the cost of threads. threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{337AF8BF-495A-409C-8DDD-AEFE82F7302F}|519. The cost of threads. ThreadPool\\519. The cost of threads. ThreadPool.csproj|solutionrelative:519. the cost of threads. threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E71B9499-010D-4630-A677-7296A311B249}|539. Locks\\539. Locks.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\539. locks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71B9499-010D-4630-A677-7296A311B249}|539. Locks\\539. Locks.csproj|solutionrelative:539. locks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{785130AD-FB7A-4ECC-AF02-6AFB567CC866}|520. Task Parallel Library (TPL)\\520. Task Parallel Library (TPL).csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\520. task parallel library (tpl)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785130AD-FB7A-4ECC-AF02-6AFB567CC866}|520. Task Parallel Library (TPL)\\520. Task Parallel Library (TPL).csproj|solutionrelative:520. task parallel library (tpl)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15873D80-1C5C-4A2E-A592-241C0BA34211}|536. The need for synchronization\\536. The need for synchronization.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\536. the need for synchronization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15873D80-1C5C-4A2E-A592-241C0BA34211}|536. The need for synchronization\\536. The need for synchronization.csproj|solutionrelative:536. the need for synchronization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B880095E-4D92-4451-86A0-B0B68C7A739B}|516. Starting a new thread. The Thread class\\516. Starting a new thread. The Thread class.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\516. starting a new thread. the thread class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B880095E-4D92-4451-86A0-B0B68C7A739B}|516. Starting a new thread. The Thread class\\516. Starting a new thread. The Thread class.csproj|solutionrelative:516. starting a new thread. the thread class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1ADAE92-F2FC-4DB0-8FFB-8A30EEF7A648}|537. Atomic operations\\537. Atomic operations.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\537. atomic operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ADAE92-F2FC-4DB0-8FFB-8A30EEF7A648}|537. Atomic operations\\537. Atomic operations.csproj|solutionrelative:537. atomic operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D070A16-1CE8-48DF-88C1-E47EB86608F0}|515. A single-threaded program\\515. A single-threaded program.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\515. a single-threaded program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D070A16-1CE8-48DF-88C1-E47EB86608F0}|515. A single-threaded program\\515. A single-threaded program.csproj|solutionrelative:515. a single-threaded program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6C26C6B-89B7-4D03-99C6-A6228CA5D023}|538. Race condition\\538. Race condition.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\538. race condition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C26C6B-89B7-4D03-99C6-A6228CA5D023}|538. Race condition\\538. Race condition.csproj|solutionrelative:538. race condition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C690ADCF-75CA-46FB-902F-F1FE1FB0A045}|514. Asynchrony\\514. Asynchrony.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\514. asynchrony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C690ADCF-75CA-46FB-902F-F1FE1FB0A045}|514. Asynchrony\\514. Asynchrony.csproj|solutionrelative:514. asynchrony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{093A6228-8B1F-4935-806A-958234C015FA}|529. OperationCanceledException\\529. OperationCanceledException.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\529. operationcanceledexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093A6228-8B1F-4935-806A-958234C015FA}|529. OperationCanceledException\\529. OperationCanceledException.csproj|solutionrelative:529. operationcanceledexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35088F2E-317C-4C6A-BD46-DA93F89A9E3A}|513. Concurrency vs parallelism\\513. Concurrency vs parallelism.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\513. concurrency vs parallelism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35088F2E-317C-4C6A-BD46-DA93F89A9E3A}|513. Concurrency vs parallelism\\513. Concurrency vs parallelism.csproj|solutionrelative:513. concurrency vs parallelism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{701318E0-5A78-40D1-99E1-DC42E7BD98D9}|534. Multiple continuations for one task\\534. Multiple continuations for one task.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\534. multiple continuations for one task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701318E0-5A78-40D1-99E1-DC42E7BD98D9}|534. Multiple continuations for one task\\534. Multiple continuations for one task.csproj|solutionrelative:534. multiple continuations for one task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9591BA73-30AB-4E23-BFC3-C5B5C6019107}|512. Threads and processes\\512. Threads and processes.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\512. threads and processes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83F7B5A-BB15-4589-9989-EB6ABA104E29}|531. Exceptions in tasks\\531. Exceptions in tasks.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\531. exceptions in tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83F7B5A-BB15-4589-9989-EB6ABA104E29}|531. Exceptions in tasks\\531. Exceptions in tasks.csproj|solutionrelative:531. exceptions in tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94E0712-2FB3-4940-831A-8B19FF69E746}|530. Exceptions thrown by other threads\\530. Exceptions thrown by other threads.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\530. exceptions thrown by other threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94E0712-2FB3-4940-831A-8B19FF69E746}|530. Exceptions thrown by other threads\\530. Exceptions thrown by other threads.csproj|solutionrelative:530. exceptions thrown by other threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CC963A-ADFF-4F8D-9EC7-839B2B4D2568}|528. Task lifecycle\\528. Task lifecycle.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\528. task lifecycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CC963A-ADFF-4F8D-9EC7-839B2B4D2568}|528. Task lifecycle\\528. Task lifecycle.csproj|solutionrelative:528. task lifecycle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98E8F60-ED9C-4CF1-A477-EBF4D8416F57}|532. Asynchronous exception handling\\532. Asynchronous exception handling.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\532. asynchronous exception handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98E8F60-ED9C-4CF1-A477-EBF4D8416F57}|532. Asynchronous exception handling\\532. Asynchronous exception handling.csproj|solutionrelative:532. asynchronous exception handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A830D321-6E24-446A-8F1B-20F778561C8D}|533. Handling AggregateException\\533. Handling AggregateException.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\533. handling aggregateexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A830D321-6E24-446A-8F1B-20F778561C8D}|533. Handling AggregateException\\533. Handling AggregateException.csproj|solutionrelative:533. handling aggregateexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9591BA73-30AB-4E23-BFC3-C5B5C6019107}|512. Threads and processes\\512. Threads and processes.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\512. threads and processes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9591BA73-30AB-4E23-BFC3-C5B5C6019107}|512. Threads and processes\\512. Threads and processes.csproj|solutionrelative:512. threads and processes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12459685-7BB0-4D0C-BB11-075D717A6D61}|507. The computer\u0027s processor\\511. The computer\u0027s processor.csproj|c:\\users\\chinmayborkar\\source\\repos\\17. multithreading and async\\507. the computer\u0027s processor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12459685-7BB0-4D0C-BB11-075D717A6D61}|507. The computer\u0027s processor\\511. The computer\u0027s processor.csproj|solutionrelative:507. the computer\u0027s processor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3936DA91-DBF5-46B4-8F0C-C8A86BDA863D}|526. Chaining continuations. Continuations of multiple tasks\\526. Chaining continuations. Continuations of multiple tasks.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\526. chaining continuations. continuations of multiple tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3936DA91-DBF5-46B4-8F0C-C8A86BDA863D}|526. Chaining continuations. Continuations of multiple tasks\\526. Chaining continuations. Continuations of multiple tasks.csproj|solutionrelative:526. chaining continuations. continuations of multiple tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D843F2F-32B4-407A-9406-2BED2F30126C}|523. Waiting for the Task result\\523. Waiting for the Task result.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\523. waiting for the task result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D843F2F-32B4-407A-9406-2BED2F30126C}|523. Waiting for the Task result\\523. Waiting for the Task result.csproj|solutionrelative:523. waiting for the task result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB5761E-1DC1-404F-87DA-089CA3E6B26A}|522. Returning a value from a Task\\522. Returning a value from a Task.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\522. returning a value from a task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB5761E-1DC1-404F-87DA-089CA3E6B26A}|522. Returning a value from a Task\\522. Returning a value from a Task.csproj|solutionrelative:522. returning a value from a task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AB503-512C-4F6B-854A-90CB1C3EE0B0}|524_1. Exercise\\524_1. Exercise.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\524_1. exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969AB503-512C-4F6B-854A-90CB1C3EE0B0}|524_1. Exercise\\524_1. Exercise.csproj|solutionrelative:524_1. exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071ED79-0167-4B6B-AD77-68851BE84F9D}|521. Task class\\521. Task class.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\521. task class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071ED79-0167-4B6B-AD77-68851BE84F9D}|521. Task class\\521. Task class.csproj|solutionrelative:521. task class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F75042-61AB-4CAF-82F7-E1E0C6D5F098}|517. Multithreaded app\u2019s code flow\\517. Multithreaded app\u2019s code flow.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\517. multithreaded app\u2019s code flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F75042-61AB-4CAF-82F7-E1E0C6D5F098}|517. Multithreaded app\u2019s code flow\\517. Multithreaded app\u2019s code flow.csproj|solutionrelative:517. multithreaded app\u2019s code flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7490E7B-863A-45D0-9EB1-FAE939A764E0}|518. The benefits of multithreading and asynchronous programming\\518. The benefits of multithreading and asynchronous programming.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\518. the benefits of multithreading and asynchronous programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7490E7B-863A-45D0-9EB1-FAE939A764E0}|518. The benefits of multithreading and asynchronous programming\\518. The benefits of multithreading and asynchronous programming.csproj|solutionrelative:518. the benefits of multithreading and asynchronous programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337AF8BF-495A-409C-8DDD-AEFE82F7302F}|519. The cost of threads. ThreadPool\\519. The cost of threads. ThreadPool.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\519. the cost of threads. threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337AF8BF-495A-409C-8DDD-AEFE82F7302F}|519. The cost of threads. ThreadPool\\519. The cost of threads. ThreadPool.csproj|solutionrelative:519. the cost of threads. threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785130AD-FB7A-4ECC-AF02-6AFB567CC866}|520. Task Parallel Library (TPL)\\520. Task Parallel Library (TPL).csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\520. task parallel library (tpl)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785130AD-FB7A-4ECC-AF02-6AFB567CC866}|520. Task Parallel Library (TPL)\\520. Task Parallel Library (TPL).csproj|solutionrelative:520. task parallel library (tpl)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B880095E-4D92-4451-86A0-B0B68C7A739B}|516. Starting a new thread. The Thread class\\516. Starting a new thread. The Thread class.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\516. starting a new thread. the thread class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B880095E-4D92-4451-86A0-B0B68C7A739B}|516. Starting a new thread. The Thread class\\516. Starting a new thread. The Thread class.csproj|solutionrelative:516. starting a new thread. the thread class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D070A16-1CE8-48DF-88C1-E47EB86608F0}|515. A single-threaded program\\515. A single-threaded program.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\515. a single-threaded program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D070A16-1CE8-48DF-88C1-E47EB86608F0}|515. A single-threaded program\\515. A single-threaded program.csproj|solutionrelative:515. a single-threaded program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690ADCF-75CA-46FB-902F-F1FE1FB0A045}|514. Asynchrony\\514. Asynchrony.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\514. asynchrony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690ADCF-75CA-46FB-902F-F1FE1FB0A045}|514. Asynchrony\\514. Asynchrony.csproj|solutionrelative:514. asynchrony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35088F2E-317C-4C6A-BD46-DA93F89A9E3A}|513. Concurrency vs parallelism\\513. Concurrency vs parallelism.csproj|d:\\code\\udemy\\c#\\c# krytina\\17. multithreading and async\\513. concurrency vs parallelism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35088F2E-317C-4C6A-BD46-DA93F89A9E3A}|513. Concurrency vs parallelism\\513. Concurrency vs parallelism.csproj|solutionrelative:513. concurrency vs parallelism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -88,22 +180,309 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
-              "RelativeDocumentMoniker": "526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
-              "RelativeToolTip": "526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\550. Using async methods in practice. HttpClient\\Program.cs",
+              "RelativeDocumentMoniker": "550. Using async methods in practice. HttpClient\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\550. Using async methods in practice. HttpClient\\Program.cs",
+              "RelativeToolTip": "550. Using async methods in practice. HttpClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T09:33:39.349Z",
+              "WhenOpened": "2025-09-10T16:39:31.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\526. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\549. Downsides of multithreading \u0026 asynchrony\\Program.cs",
+              "RelativeDocumentMoniker": "549. Downsides of multithreading \u0026 asynchrony\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\549. Downsides of multithreading \u0026 asynchrony\\Program.cs",
+              "RelativeToolTip": "549. Downsides of multithreading \u0026 asynchrony\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:32:06.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\548. Exceptions in async methods\\Program.cs",
+              "RelativeDocumentMoniker": "548. Exceptions in async methods\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\548. Exceptions in async methods\\Program.cs",
+              "RelativeToolTip": "548. Exceptions in async methods\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:16:59.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\547. Async await practice\\Program.cs",
+              "RelativeDocumentMoniker": "547. Async await practice\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\547. Async await practice\\Program.cs",
+              "RelativeToolTip": "547. Async await practice\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T15:57:15.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\545. Async await and threads\\Program.cs",
+              "RelativeDocumentMoniker": "545. Async await and threads\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\545. Async await and threads\\Program.cs",
+              "RelativeToolTip": "545. Async await and threads\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAmwEUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T15:40:06.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\544. The flow of an asynchronous program\\Program.cs",
+              "RelativeDocumentMoniker": "544. The flow of an asynchronous program\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\544. The flow of an asynchronous program\\Program.cs",
+              "RelativeToolTip": "544. The flow of an asynchronous program\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:04:35.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\543. Asynchrony vs multithreading\\Program.cs",
+              "RelativeDocumentMoniker": "543. Asynchrony vs multithreading\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\543. Asynchrony vs multithreading\\Program.cs",
+              "RelativeToolTip": "543. Asynchrony vs multithreading\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAcwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:52:15.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\542. Async methods\\Program.cs",
+              "RelativeDocumentMoniker": "542. Async methods\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\542. Async methods\\Program.cs",
+              "RelativeToolTip": "542. Async methods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:19:51.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\541. await keyword\\Program.cs",
+              "RelativeDocumentMoniker": "541. await keyword\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\541. await keyword\\Program.cs",
+              "RelativeToolTip": "541. await keyword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:03:07.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\540. The need for async await\\Program.cs",
+              "RelativeDocumentMoniker": "540. The need for async await\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\540. The need for async await\\Program.cs",
+              "RelativeToolTip": "540. The need for async await\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAD4v04AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:45:54.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\539. Locks\\Program.cs",
+              "RelativeDocumentMoniker": "539. Locks\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\539. Locks\\Program.cs",
+              "RelativeToolTip": "539. Locks\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwD4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:39:41.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\538. Race condition\\Program.cs",
+              "RelativeDocumentMoniker": "538. Race condition\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\538. Race condition\\Program.cs",
+              "RelativeToolTip": "538. Race condition\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:33:58.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\537. Atomic operations\\Program.cs",
+              "RelativeDocumentMoniker": "537. Atomic operations\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\537. Atomic operations\\Program.cs",
+              "RelativeToolTip": "537. Atomic operations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:31:17.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\536. The need for synchronization\\Program.cs",
+              "RelativeDocumentMoniker": "536. The need for synchronization\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\536. The need for synchronization\\Program.cs",
+              "RelativeToolTip": "536. The need for synchronization\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:19:48.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\535. Handling task cancellation\\Program.cs",
+              "RelativeDocumentMoniker": "535. Handling task cancellation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\535. Handling task cancellation\\Program.cs",
+              "RelativeToolTip": "535. Handling task cancellation\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:11:14.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\534. Multiple continuations for one task\\Program.cs",
+              "RelativeDocumentMoniker": "534. Multiple continuations for one task\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\534. Multiple continuations for one task\\Program.cs",
+              "RelativeToolTip": "534. Multiple continuations for one task\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:59:46.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\533. Handling AggregateException\\Program.cs",
+              "RelativeDocumentMoniker": "533. Handling AggregateException\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\533. Handling AggregateException\\Program.cs",
+              "RelativeToolTip": "533. Handling AggregateException\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:59:18.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\532. Asynchronous exception handling\\Program.cs",
+              "RelativeDocumentMoniker": "532. Asynchronous exception handling\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\532. Asynchronous exception handling\\Program.cs",
+              "RelativeToolTip": "532. Asynchronous exception handling\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:48:58.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\531. Exceptions in tasks\\Program.cs",
+              "RelativeDocumentMoniker": "531. Exceptions in tasks\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\531. Exceptions in tasks\\Program.cs",
+              "RelativeToolTip": "531. Exceptions in tasks\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:29:58.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\530. Exceptions thrown by other threads\\Program.cs",
+              "RelativeDocumentMoniker": "530. Exceptions thrown by other threads\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\530. Exceptions thrown by other threads\\Program.cs",
+              "RelativeToolTip": "530. Exceptions thrown by other threads\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:15:33.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\529. OperationCanceledException\\Program.cs",
+              "RelativeDocumentMoniker": "529. OperationCanceledException\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\529. OperationCanceledException\\Program.cs",
+              "RelativeToolTip": "529. OperationCanceledException\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:03:35.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\528. Task lifecycle\\Program.cs",
+              "RelativeDocumentMoniker": "528. Task lifecycle\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\528. Task lifecycle\\Program.cs",
+              "RelativeToolTip": "528. Task lifecycle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:51:15.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\527. Canceling a Task\\Program.cs",
+              "RelativeDocumentMoniker": "527. Canceling a Task\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\527. Canceling a Task\\Program.cs",
+              "RelativeToolTip": "527. Canceling a Task\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:34:21.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "RelativeDocumentMoniker": "526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "RelativeToolTip": "526.1. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:33:39.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\526. Chaining continuations. Continuations of multiple tasks\\Program.cs",
               "RelativeDocumentMoniker": "526. Chaining continuations. Continuations of multiple tasks\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\526. Chaining continuations. Continuations of multiple tasks\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\526. Chaining continuations. Continuations of multiple tasks\\Program.cs",
               "RelativeToolTip": "526. Chaining continuations. Continuations of multiple tasks\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,23 +490,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\525. Continuations. The ContinueWith method\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\525. Continuations. The ContinueWith method\\Program.cs",
               "RelativeDocumentMoniker": "525. Continuations. The ContinueWith method\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\525. Continuations. The ContinueWith method\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\525. Continuations. The ContinueWith method\\Program.cs",
               "RelativeToolTip": "525. Continuations. The ContinueWith method\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T09:00:06.001Z"
+              "WhenOpened": "2025-06-16T09:00:06.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\524_1. Exercise\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\524_1. Exercise\\Program.cs",
               "RelativeDocumentMoniker": "524_1. Exercise\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\524_1. Exercise\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\524_1. Exercise\\Program.cs",
               "RelativeToolTip": "524_1. Exercise\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,23 +515,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\524. Wait and WaitAll methods\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\524. Wait and WaitAll methods\\Program.cs",
               "RelativeDocumentMoniker": "524. Wait and WaitAll methods\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\524. Wait and WaitAll methods\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\524. Wait and WaitAll methods\\Program.cs",
               "RelativeToolTip": "524. Wait and WaitAll methods\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:31:35.526Z"
+              "WhenOpened": "2025-06-16T07:31:35.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\523. Waiting for the Task result\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\523. Waiting for the Task result\\Program.cs",
               "RelativeDocumentMoniker": "523. Waiting for the Task result\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\523. Waiting for the Task result\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\523. Waiting for the Task result\\Program.cs",
               "RelativeToolTip": "523. Waiting for the Task result\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,23 +540,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\522. Returning a value from a Task\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\522. Returning a value from a Task\\Program.cs",
               "RelativeDocumentMoniker": "522. Returning a value from a Task\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\522. Returning a value from a Task\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\522. Returning a value from a Task\\Program.cs",
               "RelativeToolTip": "522. Returning a value from a Task\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T07:29:07.832Z"
+              "WhenOpened": "2025-05-22T07:29:07.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\521. Task class\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\521. Task class\\Program.cs",
               "RelativeDocumentMoniker": "521. Task class\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\521. Task class\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\521. Task class\\Program.cs",
               "RelativeToolTip": "521. Task class\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,11 +565,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\520. Task Parallel Library (TPL)\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\520. Task Parallel Library (TPL)\\Program.cs",
               "RelativeDocumentMoniker": "520. Task Parallel Library (TPL)\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\520. Task Parallel Library (TPL)\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\520. Task Parallel Library (TPL)\\Program.cs",
               "RelativeToolTip": "520. Task Parallel Library (TPL)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,11 +577,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\519. The cost of threads. ThreadPool\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\519. The cost of threads. ThreadPool\\Program.cs",
               "RelativeDocumentMoniker": "519. The cost of threads. ThreadPool\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\519. The cost of threads. ThreadPool\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\519. The cost of threads. ThreadPool\\Program.cs",
               "RelativeToolTip": "519. The cost of threads. ThreadPool\\Program.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +589,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\518. The benefits of multithreading and asynchronous programming\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\518. The benefits of multithreading and asynchronous programming\\Program.cs",
               "RelativeDocumentMoniker": "518. The benefits of multithreading and asynchronous programming\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\518. The benefits of multithreading and asynchronous programming\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\518. The benefits of multithreading and asynchronous programming\\Program.cs",
               "RelativeToolTip": "518. The benefits of multithreading and asynchronous programming\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,11 +601,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\517. Multithreaded app\u2019s code flow\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\517. Multithreaded app\u2019s code flow\\Program.cs",
               "RelativeDocumentMoniker": "517. Multithreaded app\u2019s code flow\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\517. Multithreaded app\u2019s code flow\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\517. Multithreaded app\u2019s code flow\\Program.cs",
               "RelativeToolTip": "517. Multithreaded app\u2019s code flow\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,11 +613,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 37,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\516. Starting a new thread. The Thread class\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\516. Starting a new thread. The Thread class\\Program.cs",
               "RelativeDocumentMoniker": "516. Starting a new thread. The Thread class\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\516. Starting a new thread. The Thread class\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\516. Starting a new thread. The Thread class\\Program.cs",
               "RelativeToolTip": "516. Starting a new thread. The Thread class\\Program.cs",
               "ViewState": "AgIAACAAAAAAOAIiBz0dwDgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,11 +625,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 38,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\515. A single-threaded program\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\515. A single-threaded program\\Program.cs",
               "RelativeDocumentMoniker": "515. A single-threaded program\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\515. A single-threaded program\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\515. A single-threaded program\\Program.cs",
               "RelativeToolTip": "515. A single-threaded program\\Program.cs",
               "ViewState": "AgIAAAAAAAAAnlb30tkKwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +637,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\514. Asynchrony\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\514. Asynchrony\\Program.cs",
               "RelativeDocumentMoniker": "514. Asynchrony\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\514. Asynchrony\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\514. Asynchrony\\Program.cs",
               "RelativeToolTip": "514. Asynchrony\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +649,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 40,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\513. Concurrency vs parallelism\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\513. Concurrency vs parallelism\\Program.cs",
               "RelativeDocumentMoniker": "513. Concurrency vs parallelism\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\513. Concurrency vs parallelism\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\513. Concurrency vs parallelism\\Program.cs",
               "RelativeToolTip": "513. Concurrency vs parallelism\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,27 +661,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\512. Threads and processes\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\512. Threads and processes\\Program.cs",
               "RelativeDocumentMoniker": "512. Threads and processes\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\512. Threads and processes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\512. Threads and processes\\Program.cs",
               "RelativeToolTip": "512. Threads and processes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T06:52:15.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\507. The computer\u0027s processor\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\507. The computer\u0027s processor\\Program.cs",
               "RelativeDocumentMoniker": "507. The computer\u0027s processor\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\17. Multithreading and Async\\507. The computer\u0027s processor\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\17. Multithreading and Async\\507. The computer\u0027s processor\\Program.cs",
               "RelativeToolTip": "507. The computer\u0027s processor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:02:12.498Z"
+              "WhenOpened": "2025-02-27T17:02:12.498Z",
+              "EditorCaption": ""
             }
           ]
         }

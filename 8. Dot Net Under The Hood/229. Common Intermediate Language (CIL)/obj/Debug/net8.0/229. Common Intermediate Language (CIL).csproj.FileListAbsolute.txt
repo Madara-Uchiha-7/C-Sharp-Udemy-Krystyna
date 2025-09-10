@@ -1,0 +1,5 @@
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\229. Common Intermediate Language (CIL)\obj\Debug\net8.0\229. Common Intermediate Language (CIL).GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\229. Common Intermediate Language (CIL)\obj\Debug\net8.0\229. Common Intermediate Language (CIL).AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\229. Common Intermediate Language (CIL)\obj\Debug\net8.0\229. Common Intermediate Language (CIL).AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\229. Common Intermediate Language (CIL)\obj\Debug\net8.0\229. Common Intermediate Language (CIL).csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\229. Common Intermediate Language (CIL)\obj\Debug\net8.0\229. Common Intermediate Language (CIL).sourcelink.json

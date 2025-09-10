@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "534. Multiple continuations for one task/1.0.0": {
+        "runtime": {
+          "534. Multiple continuations for one task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "534. Multiple continuations for one task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

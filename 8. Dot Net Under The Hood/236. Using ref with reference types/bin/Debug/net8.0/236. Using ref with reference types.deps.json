@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "236. Using ref with reference types/1.0.0": {
+        "runtime": {
+          "236. Using ref with reference types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "236. Using ref with reference types/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

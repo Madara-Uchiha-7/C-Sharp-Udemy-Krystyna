@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\bin\Debug\net8.0\232. Value semantics vs reference semantics.exe
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\bin\Debug\net8.0\232. Value semantics vs reference semantics.deps.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\bin\Debug\net8.0\232. Value semantics vs reference semantics.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\bin\Debug\net8.0\232. Value semantics vs reference semantics.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\bin\Debug\net8.0\232. Value semantics vs reference semantics.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\obj\Debug\net8.0\232. Value semantics vs reference semantics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\obj\Debug\net8.0\232. Value semantics vs reference semantics.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\obj\Debug\net8.0\232. Value semantics vs reference semantics.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\obj\Debug\net8.0\232. Value semantics vs reference semantics.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\obj\Debug\net8.0\232. Value semantics vs reference semantics.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\obj\Debug\net8.0\232. Value semantics vs reference semantics.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\obj\Debug\net8.0\refint\232. Value semantics vs reference semantics.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\obj\Debug\net8.0\232. Value semantics vs reference semantics.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\obj\Debug\net8.0\232. Value semantics vs reference semantics.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\232. Value semantics vs reference semantics\obj\Debug\net8.0\ref\232. Value semantics vs reference semantics.dll

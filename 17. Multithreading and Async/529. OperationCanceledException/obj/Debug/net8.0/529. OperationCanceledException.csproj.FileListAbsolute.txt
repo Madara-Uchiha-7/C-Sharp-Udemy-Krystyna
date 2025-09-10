@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\bin\Debug\net8.0\529. OperationCanceledException.exe
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\bin\Debug\net8.0\529. OperationCanceledException.deps.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\bin\Debug\net8.0\529. OperationCanceledException.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\bin\Debug\net8.0\529. OperationCanceledException.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\bin\Debug\net8.0\529. OperationCanceledException.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\obj\Debug\net8.0\529. OperationCanceledException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\obj\Debug\net8.0\529. OperationCanceledException.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\obj\Debug\net8.0\529. OperationCanceledException.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\obj\Debug\net8.0\529. OperationCanceledException.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\obj\Debug\net8.0\529. OperationCanceledException.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\obj\Debug\net8.0\529. OperationCanceledException.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\obj\Debug\net8.0\refint\529. OperationCanceledException.dll
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\obj\Debug\net8.0\529. OperationCanceledException.pdb
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\obj\Debug\net8.0\529. OperationCanceledException.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\17. Multithreading and Async\529. OperationCanceledException\obj\Debug\net8.0\ref\529. OperationCanceledException.dll

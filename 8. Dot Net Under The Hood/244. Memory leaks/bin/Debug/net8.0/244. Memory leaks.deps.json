@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "244. Memory leaks/1.0.0": {
+        "runtime": {
+          "244. Memory leaks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "244. Memory leaks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

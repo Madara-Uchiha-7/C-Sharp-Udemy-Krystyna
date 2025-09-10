@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\bin\Debug\net8.0\245. Finalizers.exe
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\bin\Debug\net8.0\245. Finalizers.deps.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\bin\Debug\net8.0\245. Finalizers.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\bin\Debug\net8.0\245. Finalizers.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\bin\Debug\net8.0\245. Finalizers.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\obj\Debug\net8.0\245. Finalizers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\obj\Debug\net8.0\245. Finalizers.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\obj\Debug\net8.0\245. Finalizers.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\obj\Debug\net8.0\245. Finalizers.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\obj\Debug\net8.0\245. Finalizers.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\obj\Debug\net8.0\245. Finalizers.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\obj\Debug\net8.0\refint\245. Finalizers.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\obj\Debug\net8.0\245. Finalizers.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\obj\Debug\net8.0\245. Finalizers.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\245. Finalizers\obj\Debug\net8.0\ref\245. Finalizers.dll

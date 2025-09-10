@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\bin\Debug\net8.0\366. Strings as members in structs.exe
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\bin\Debug\net8.0\366. Strings as members in structs.deps.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\bin\Debug\net8.0\366. Strings as members in structs.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\bin\Debug\net8.0\366. Strings as members in structs.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\bin\Debug\net8.0\366. Strings as members in structs.pdb
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\obj\Debug\net8.0\366. Strings as members in structs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\obj\Debug\net8.0\366. Strings as members in structs.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\obj\Debug\net8.0\366. Strings as members in structs.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\obj\Debug\net8.0\366. Strings as members in structs.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\obj\Debug\net8.0\366. Strings as members in structs.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\obj\Debug\net8.0\366. Strings as members in structs.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\obj\Debug\net8.0\refint\366. Strings as members in structs.dll
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\obj\Debug\net8.0\366. Strings as members in structs.pdb
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\obj\Debug\net8.0\366. Strings as members in structs.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\12. Strings\366. Strings as members in structs\obj\Debug\net8.0\ref\366. Strings as members in structs.dll
