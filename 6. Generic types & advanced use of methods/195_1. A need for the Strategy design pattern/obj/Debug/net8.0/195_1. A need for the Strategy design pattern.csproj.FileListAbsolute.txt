@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\bin\Debug\net8.0\195_1. A need for the Strategy design pattern.exe
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\bin\Debug\net8.0\195_1. A need for the Strategy design pattern.deps.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\bin\Debug\net8.0\195_1. A need for the Strategy design pattern.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\bin\Debug\net8.0\195_1. A need for the Strategy design pattern.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\bin\Debug\net8.0\195_1. A need for the Strategy design pattern.pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\obj\Debug\net8.0\195_1. A need for the Strategy design pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\obj\Debug\net8.0\195_1. A need for the Strategy design pattern.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\obj\Debug\net8.0\195_1. A need for the Strategy design pattern.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\obj\Debug\net8.0\195_1. A need for the Strategy design pattern.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\obj\Debug\net8.0\195_1. A need for the Strategy design pattern.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\obj\Debug\net8.0\195_1. A need for the Strategy design pattern.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\obj\Debug\net8.0\refint\195_1. A need for the Strategy design pattern.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\obj\Debug\net8.0\195_1. A need for the Strategy design pattern.pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\obj\Debug\net8.0\195_1. A need for the Strategy design pattern.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\195_1. A need for the Strategy design pattern\obj\Debug\net8.0\ref\195_1. A need for the Strategy design pattern.dll

@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\bin\Debug\net8.0\155. Custom exceptions.exe
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\bin\Debug\net8.0\155. Custom exceptions.deps.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\bin\Debug\net8.0\155. Custom exceptions.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\bin\Debug\net8.0\155. Custom exceptions.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\bin\Debug\net8.0\155. Custom exceptions.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\obj\Debug\net8.0\155. Custom exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\obj\Debug\net8.0\155. Custom exceptions.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\obj\Debug\net8.0\155. Custom exceptions.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\obj\Debug\net8.0\155. Custom exceptions.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\obj\Debug\net8.0\155. Custom exceptions.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\obj\Debug\net8.0\155. Custom exceptions.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\obj\Debug\net8.0\refint\155. Custom exceptions.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\obj\Debug\net8.0\155. Custom exceptions.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\obj\Debug\net8.0\155. Custom exceptions.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\155. Custom exceptions\obj\Debug\net8.0\ref\155. Custom exceptions.dll

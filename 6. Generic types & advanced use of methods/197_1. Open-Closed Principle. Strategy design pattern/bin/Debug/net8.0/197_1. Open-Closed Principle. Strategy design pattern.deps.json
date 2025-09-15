@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "197_1. Open-Closed Principle. Strategy design pattern/1.0.0": {
+        "runtime": {
+          "197_1. Open-Closed Principle. Strategy design pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "197_1. Open-Closed Principle. Strategy design pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

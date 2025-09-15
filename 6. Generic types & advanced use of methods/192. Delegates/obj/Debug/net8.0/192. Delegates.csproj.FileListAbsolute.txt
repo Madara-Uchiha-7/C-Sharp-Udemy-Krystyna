@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\bin\Debug\net8.0\192. Delegates.exe
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\bin\Debug\net8.0\192. Delegates.deps.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\bin\Debug\net8.0\192. Delegates.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\bin\Debug\net8.0\192. Delegates.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\bin\Debug\net8.0\192. Delegates.pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\obj\Debug\net8.0\192. Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\obj\Debug\net8.0\192. Delegates.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\obj\Debug\net8.0\192. Delegates.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\obj\Debug\net8.0\192. Delegates.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\obj\Debug\net8.0\192. Delegates.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\obj\Debug\net8.0\192. Delegates.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\obj\Debug\net8.0\refint\192. Delegates.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\obj\Debug\net8.0\192. Delegates.pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\obj\Debug\net8.0\192. Delegates.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\192. Delegates\obj\Debug\net8.0\ref\192. Delegates.dll

@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\bin\Debug\net8.0\191. Lambda expressions.exe
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\bin\Debug\net8.0\191. Lambda expressions.deps.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\bin\Debug\net8.0\191. Lambda expressions.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\bin\Debug\net8.0\191. Lambda expressions.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\bin\Debug\net8.0\191. Lambda expressions.pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\obj\Debug\net8.0\191. Lambda expressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\obj\Debug\net8.0\191. Lambda expressions.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\obj\Debug\net8.0\191. Lambda expressions.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\obj\Debug\net8.0\191. Lambda expressions.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\obj\Debug\net8.0\191. Lambda expressions.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\obj\Debug\net8.0\191. Lambda expressions.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\obj\Debug\net8.0\refint\191. Lambda expressions.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\obj\Debug\net8.0\191. Lambda expressions.pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\obj\Debug\net8.0\191. Lambda expressions.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\191. Lambda expressions\obj\Debug\net8.0\ref\191. Lambda expressions.dll

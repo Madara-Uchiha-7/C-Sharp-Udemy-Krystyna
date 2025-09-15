@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("147. Rethrowing a System.Exception object")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80fe0f664ba4b10df252022eaea848882640daef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b50b13b596d7b23822e09ea9570e8a3a8a3f2d42")]
 [assembly: System.Reflection.AssemblyProductAttribute("147. Rethrowing a System.Exception object")]
 [assembly: System.Reflection.AssemblyTitleAttribute("147. Rethrowing a System.Exception object")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,9 +23,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "145. Precise exceptions", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "146. Rethrowing exceptions. 'throw' vs 'throw ex'", "146. Rethrowing exceptions. 'throw' vs 'throw ex'\146. Rethrowing exceptions. 'throw' vs 'throw ex'.csproj", "{9D412AA9-3CDC-4492-A061-B882262544FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "147. Rethrowing a System.Exception object", "147. Rethrowing a System.Exception object\147. Rethrowing a System.Exception object.csproj", "{D9BAFDA7-7B11-4CFC-B58B-A3B7C8C9D4CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "147. Rethrowing a System.Exception object", "147. Rethrowing a System.Exception object\147. Rethrowing a System.Exception object.csproj", "{D9BAFDA7-7B11-4CFC-B58B-A3B7C8C9D4CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "148. Global try-catch block", "148. Global try-catch block\148. Global try-catch block.csproj", "{4CC8867A-E516-43D2-8F1B-6A222A2D8C49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "148. Global try-catch block", "148. Global try-catch block\148. Global try-catch block.csproj", "{4CC8867A-E516-43D2-8F1B-6A222A2D8C49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "153. Code inside the catch block", "153. Code inside the catch block\153. Code inside the catch block.csproj", "{6977D4A2-BE2A-4099-8C6C-AC94B63A523B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "154. Exception filters", "154. Exception filters\154. Exception filters.csproj", "{13917DC4-0F2E-41D0-A07B-1F0E0156251F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "155. Custom exceptions", "155. Custom exceptions\155. Custom exceptions.csproj", "{6A237438-282D-4E48-A4AC-98855A2AB894}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "156. When to define custom exceptions", "156. When to define custom exceptions\156. When to define custom exceptions.csproj", "{C8EA7E09-5700-4B9A-9517-1A30EBB2C23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "157. Exceptions as a hidden part of a method signature", "157. Exceptions as a hidden part of a method signature\157. Exceptions as a hidden part of a method signature.csproj", "{5706131C-D565-4180-82B0-8C8CA24A7605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "158. Two extreme schools of using exceptions", "158. Two extreme schools of using exceptions\158. Two extreme schools of using exceptions.csproj", "{5127E69D-ABDC-41C8-92C0-78CDBD6EC86B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "159. Smart usage of exceptions - throw", "159. Smart usage of exceptions - throw\159. Smart usage of exceptions - throw.csproj", "{64C772AA-863F-4734-9E51-A1633A042E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "160. Smart usage of exceptions - catch", "160. Smart usage of exceptions - catch\160. Smart usage of exceptions - catch.csproj", "{C1488761-9B6D-4BE5-A42F-F00215741898}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +97,38 @@ Global
 		{4CC8867A-E516-43D2-8F1B-6A222A2D8C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC8867A-E516-43D2-8F1B-6A222A2D8C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC8867A-E516-43D2-8F1B-6A222A2D8C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6977D4A2-BE2A-4099-8C6C-AC94B63A523B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6977D4A2-BE2A-4099-8C6C-AC94B63A523B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6977D4A2-BE2A-4099-8C6C-AC94B63A523B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6977D4A2-BE2A-4099-8C6C-AC94B63A523B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13917DC4-0F2E-41D0-A07B-1F0E0156251F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13917DC4-0F2E-41D0-A07B-1F0E0156251F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13917DC4-0F2E-41D0-A07B-1F0E0156251F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13917DC4-0F2E-41D0-A07B-1F0E0156251F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A237438-282D-4E48-A4AC-98855A2AB894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A237438-282D-4E48-A4AC-98855A2AB894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A237438-282D-4E48-A4AC-98855A2AB894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A237438-282D-4E48-A4AC-98855A2AB894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8EA7E09-5700-4B9A-9517-1A30EBB2C23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8EA7E09-5700-4B9A-9517-1A30EBB2C23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8EA7E09-5700-4B9A-9517-1A30EBB2C23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8EA7E09-5700-4B9A-9517-1A30EBB2C23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5706131C-D565-4180-82B0-8C8CA24A7605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5706131C-D565-4180-82B0-8C8CA24A7605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5706131C-D565-4180-82B0-8C8CA24A7605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5706131C-D565-4180-82B0-8C8CA24A7605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5127E69D-ABDC-41C8-92C0-78CDBD6EC86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5127E69D-ABDC-41C8-92C0-78CDBD6EC86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5127E69D-ABDC-41C8-92C0-78CDBD6EC86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5127E69D-ABDC-41C8-92C0-78CDBD6EC86B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C772AA-863F-4734-9E51-A1633A042E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C772AA-863F-4734-9E51-A1633A042E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C772AA-863F-4734-9E51-A1633A042E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C772AA-863F-4734-9E51-A1633A042E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1488761-9B6D-4BE5-A42F-F00215741898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1488761-9B6D-4BE5-A42F-F00215741898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1488761-9B6D-4BE5-A42F-F00215741898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1488761-9B6D-4BE5-A42F-F00215741898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

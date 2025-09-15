@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\bin\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.exe
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\bin\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.deps.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\bin\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\bin\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\bin\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\obj\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\obj\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\obj\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\obj\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\obj\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\obj\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\obj\Debug\net8.0\refint\197_1. Open-Closed Principle. Strategy design pattern.dll
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\obj\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.pdb
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\obj\Debug\net8.0\197_1. Open-Closed Principle. Strategy design pattern.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\6. Generic types & advanced use of methods\197_1. Open-Closed Principle. Strategy design pattern\obj\Debug\net8.0\ref\197_1. Open-Closed Principle. Strategy design pattern.dll

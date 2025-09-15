@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\bin\Debug\net8.0\153. Code inside the catch block.exe
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\bin\Debug\net8.0\153. Code inside the catch block.deps.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\bin\Debug\net8.0\153. Code inside the catch block.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\bin\Debug\net8.0\153. Code inside the catch block.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\bin\Debug\net8.0\153. Code inside the catch block.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\obj\Debug\net8.0\153. Code inside the catch block.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\obj\Debug\net8.0\153. Code inside the catch block.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\obj\Debug\net8.0\153. Code inside the catch block.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\obj\Debug\net8.0\153. Code inside the catch block.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\obj\Debug\net8.0\153. Code inside the catch block.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\obj\Debug\net8.0\153. Code inside the catch block.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\obj\Debug\net8.0\refint\153. Code inside the catch block.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\obj\Debug\net8.0\153. Code inside the catch block.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\obj\Debug\net8.0\153. Code inside the catch block.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\153. Code inside the catch block\obj\Debug\net8.0\ref\153. Code inside the catch block.dll
