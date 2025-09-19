@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D1F8C736-68AE-4926-AACD-4DBAA333D98C}|251. Reading CSV files\\251. Reading CSV files.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\251. reading csv files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F8C736-68AE-4926-AACD-4DBAA333D98C}|251. Reading CSV files\\251. Reading CSV files.csproj|solutionrelative:251. reading csv files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0897086-B999-46FA-8606-B4A8837F93FD}|250. CSV files\\250. CSV files.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\250. csv files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0897086-B999-46FA-8606-B4A8837F93FD}|250. CSV files\\250. CSV files.csproj|solutionrelative:250. csv files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD50C70-8812-4664-8DCA-F8ACB848030A}|249_2. Dispose method - implementation\\249_2. Dispose method - implementation.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\249_2. dispose method - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD50C70-8812-4664-8DCA-F8ACB848030A}|249_2. Dispose method - implementation\\249_2. Dispose method - implementation.csproj|solutionrelative:249_2. dispose method - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2E20A3-99B4-4B10-9683-8F846CA38FD3}|249_1. Dispose method - implementation\\249_1. Dispose method - implementation.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\249_1. dispose method - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2E20A3-99B4-4B10-9683-8F846CA38FD3}|249_1. Dispose method - implementation\\249_1. Dispose method - implementation.csproj|solutionrelative:249_1. dispose method - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{810D00B0-F269-4691-9A38-A75306090272}|249. Dispose method - implementation\\249. Dispose method - implementation.csproj|d:\\code\\udemy\\c#\\c# krytina\\8. dot net under the hood\\249. dispose method - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{810D00B0-F269-4691-9A38-A75306090272}|249. Dispose method - implementation\\249. Dispose method - implementation.csproj|solutionrelative:249. dispose method - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -104,30 +120,79 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\249. Dispose method - implementation\\Program.cs",
-              "RelativeDocumentMoniker": "249. Dispose method - implementation\\Program.cs",
-              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\249. Dispose method - implementation\\Program.cs",
-              "RelativeToolTip": "249. Dispose method - implementation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\251. Reading CSV files\\Program.cs",
+              "RelativeDocumentMoniker": "251. Reading CSV files\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\251. Reading CSV files\\Program.cs",
+              "RelativeToolTip": "251. Reading CSV files\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAWwEYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T12:51:18.199Z",
+              "WhenOpened": "2025-09-17T05:17:32.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\250. CSV files\\Program.cs",
+              "RelativeDocumentMoniker": "250. CSV files\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\250. CSV files\\Program.cs",
+              "RelativeToolTip": "250. CSV files\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:25:55.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\249_2. Dispose method - implementation\\Program.cs",
+              "RelativeDocumentMoniker": "249_2. Dispose method - implementation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\249_2. Dispose method - implementation\\Program.cs",
+              "RelativeToolTip": "249_2. Dispose method - implementation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:40:59.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\249_1. Dispose method - implementation\\Program.cs",
+              "RelativeDocumentMoniker": "249_1. Dispose method - implementation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\249_1. Dispose method - implementation\\Program.cs",
+              "RelativeToolTip": "249_1. Dispose method - implementation\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:35:11.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\249. Dispose method - implementation\\Program.cs",
+              "RelativeDocumentMoniker": "249. Dispose method - implementation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\249. Dispose method - implementation\\Program.cs",
+              "RelativeToolTip": "249. Dispose method - implementation\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T12:51:18.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\248. Dispose method - StreamReader\\Program.cs",
               "RelativeDocumentMoniker": "248. Dispose method - StreamReader\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\248. Dispose method - StreamReader\\Program.cs",
               "RelativeToolTip": "248. Dispose method - StreamReader\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T12:37:36.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\247. Dispose method -  StreamWriter\\Program.cs",
               "RelativeDocumentMoniker": "247. Dispose method -  StreamWriter\\Program.cs",
@@ -139,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\246. Dispose method - introduction\\Program.cs",
               "RelativeDocumentMoniker": "246. Dispose method - introduction\\Program.cs",
@@ -151,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\245. Finalizers\\Program.cs",
               "RelativeDocumentMoniker": "245. Finalizers\\Program.cs",
@@ -163,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\244. Memory leaks\\Program.cs",
               "RelativeDocumentMoniker": "244. Memory leaks\\Program.cs",
@@ -175,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\243. Garbage Collector - generations of objects\\Program.cs",
               "RelativeDocumentMoniker": "243. Garbage Collector - generations of objects\\Program.cs",
@@ -187,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\242. Garbage Collector - the Mark-and-Sweep algorithm\\Program.cs",
               "RelativeDocumentMoniker": "242. Garbage Collector - the Mark-and-Sweep algorithm\\Program.cs",
@@ -199,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\241. Garbage Collector - memory fragmentation and defragmentation\\Program.cs",
               "RelativeDocumentMoniker": "241. Garbage Collector - memory fragmentation and defragmentation\\Program.cs",
@@ -211,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\240. Garbage Collector - introduction\\Program.cs",
               "RelativeDocumentMoniker": "240. Garbage Collector - introduction\\Program.cs",
@@ -223,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\239. Boxing and unboxing - performance cost\\Program.cs",
               "RelativeDocumentMoniker": "239. Boxing and unboxing - performance cost\\Program.cs",
@@ -235,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\238. Boxing and unboxing\\Program.cs",
               "RelativeDocumentMoniker": "238. Boxing and unboxing\\Program.cs",
@@ -247,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\237. Unified type system. Boxing and unboxing\\Program.cs",
               "RelativeDocumentMoniker": "237. Unified type system. Boxing and unboxing\\Program.cs",
@@ -259,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\236. Using ref with reference types\\Program.cs",
               "RelativeDocumentMoniker": "236. Using ref with reference types\\Program.cs",
@@ -271,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\235. ref keyword\\Program.cs",
               "RelativeDocumentMoniker": "235. ref keyword\\Program.cs",
@@ -283,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\234. Value types vs reference types - practical tips\\Program.cs",
               "RelativeDocumentMoniker": "234. Value types vs reference types - practical tips\\Program.cs",
@@ -295,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\233. Value types vs reference types\\Program.cs",
               "RelativeDocumentMoniker": "233. Value types vs reference types\\Program.cs",
@@ -307,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\232. Value semantics vs reference semantics\\Program.cs",
               "RelativeDocumentMoniker": "232. Value semantics vs reference semantics\\Program.cs",
@@ -319,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\231. Memory of a program. The stack and the heap\\Program.cs",
               "RelativeDocumentMoniker": "231. Memory of a program. The stack and the heap\\Program.cs",
@@ -331,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\230. Common Language Runtime (CLR)\\Program.cs",
               "RelativeDocumentMoniker": "230. Common Language Runtime (CLR)\\Program.cs",
@@ -343,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\229. Common Intermediate Language (CIL)\\Program.cs",
               "RelativeDocumentMoniker": "229. Common Intermediate Language (CIL)\\Program.cs",
@@ -355,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\8. Dot Net Under The Hood\\228. Dot Net and C Sharp\\Program.cs",
               "RelativeDocumentMoniker": "228. Dot Net and C Sharp\\Program.cs",

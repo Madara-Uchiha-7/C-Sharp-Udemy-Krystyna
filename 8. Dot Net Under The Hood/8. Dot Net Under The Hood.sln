@@ -35,17 +35,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "242. Garbage Collector - th
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "243. Garbage Collector - generations of objects", "243. Garbage Collector - generations of objects\243. Garbage Collector - generations of objects.csproj", "{E98D0A46-9E84-41F1-A2A9-0DA9E93BBB33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "244. Memory leaks", "244. Memory leaks\244. Memory leaks.csproj", "{09675B7F-8D3B-4E8A-9AA7-F8F85B520CE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "244. Memory leaks", "244. Memory leaks\244. Memory leaks.csproj", "{09675B7F-8D3B-4E8A-9AA7-F8F85B520CE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "245. Finalizers", "245. Finalizers\245. Finalizers.csproj", "{F684F258-F909-4312-9BE2-AF203DE995B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "245. Finalizers", "245. Finalizers\245. Finalizers.csproj", "{F684F258-F909-4312-9BE2-AF203DE995B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "246. Dispose method - introduction", "246. Dispose method - introduction\246. Dispose method - introduction.csproj", "{D17CDC80-CA52-4BEE-9B3F-37C9D2C9CD31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "246. Dispose method - introduction", "246. Dispose method - introduction\246. Dispose method - introduction.csproj", "{D17CDC80-CA52-4BEE-9B3F-37C9D2C9CD31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "247. Dispose method -  StreamWriter", "247. Dispose method -  StreamWriter\247. Dispose method -  StreamWriter.csproj", "{C4005E5F-EA40-4CF2-BE07-FB5D0DAEE01B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "247. Dispose method -  StreamWriter", "247. Dispose method -  StreamWriter\247. Dispose method -  StreamWriter.csproj", "{C4005E5F-EA40-4CF2-BE07-FB5D0DAEE01B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "248. Dispose method - StreamReader", "248. Dispose method - StreamReader\248. Dispose method - StreamReader.csproj", "{A8655C2C-B296-4034-8D98-FE7125991386}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "248. Dispose method - StreamReader", "248. Dispose method - StreamReader\248. Dispose method - StreamReader.csproj", "{A8655C2C-B296-4034-8D98-FE7125991386}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "249. Dispose method - implementation", "249. Dispose method - implementation\249. Dispose method - implementation.csproj", "{810D00B0-F269-4691-9A38-A75306090272}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "249. Dispose method - implementation", "249. Dispose method - implementation\249. Dispose method - implementation.csproj", "{810D00B0-F269-4691-9A38-A75306090272}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "249_1. Dispose method - implementation", "249_1. Dispose method - implementation\249_1. Dispose method - implementation.csproj", "{DE2E20A3-99B4-4B10-9683-8F846CA38FD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "249_2. Dispose method - implementation", "249_2. Dispose method - implementation\249_2. Dispose method - implementation.csproj", "{3BD50C70-8812-4664-8DCA-F8ACB848030A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "250. CSV files", "250. CSV files\250. CSV files.csproj", "{C0897086-B999-46FA-8606-B4A8837F93FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "251. Reading CSV files", "251. Reading CSV files\251. Reading CSV files.csproj", "{D1F8C736-68AE-4926-AACD-4DBAA333D98C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +149,22 @@ Global
 		{810D00B0-F269-4691-9A38-A75306090272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{810D00B0-F269-4691-9A38-A75306090272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{810D00B0-F269-4691-9A38-A75306090272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2E20A3-99B4-4B10-9683-8F846CA38FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2E20A3-99B4-4B10-9683-8F846CA38FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2E20A3-99B4-4B10-9683-8F846CA38FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2E20A3-99B4-4B10-9683-8F846CA38FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD50C70-8812-4664-8DCA-F8ACB848030A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD50C70-8812-4664-8DCA-F8ACB848030A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD50C70-8812-4664-8DCA-F8ACB848030A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD50C70-8812-4664-8DCA-F8ACB848030A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0897086-B999-46FA-8606-B4A8837F93FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0897086-B999-46FA-8606-B4A8837F93FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0897086-B999-46FA-8606-B4A8837F93FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0897086-B999-46FA-8606-B4A8837F93FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F8C736-68AE-4926-AACD-4DBAA333D98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F8C736-68AE-4926-AACD-4DBAA333D98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F8C736-68AE-4926-AACD-4DBAA333D98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F8C736-68AE-4926-AACD-4DBAA333D98C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

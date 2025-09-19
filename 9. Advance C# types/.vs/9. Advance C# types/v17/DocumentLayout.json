@@ -1,77 +1,153 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\",
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{300662E9-B211-4F40-90F6-E1C28CC150EA}|270. IEquatable T interface\\270. IEquatable T interface.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\270. iequatable t interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53D28065-4D3F-4E86-87DC-46DB09C45E9F}|292. A class for querying APIs\\292. A class for querying APIs.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\292. a class for querying apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D28065-4D3F-4E86-87DC-46DB09C45E9F}|292. A class for querying APIs\\292. A class for querying APIs.csproj|solutionrelative:292. a class for querying apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4091C99-C675-45C2-9237-7E89F7ADC713}|291. Querying an API using C#\\291. Querying an API using C#.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\291. querying an api using c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4091C99-C675-45C2-9237-7E89F7ADC713}|291. Querying an API using C#\\291. Querying an API using C#.csproj|solutionrelative:291. querying an api using c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0176AF-0153-4D3A-A88C-151BA0DC20B7}|290. APIs\\290. APIs.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\290. apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0176AF-0153-4D3A-A88C-151BA0DC20B7}|290. APIs\\290. APIs.csproj|solutionrelative:290. apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA9D5F2-B8C9-4481-85A7-155137720AD9}|289. Generic type constraints related to nullability\\289. Generic type constraints related to nullability.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\289. generic type constraints related to nullability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA9D5F2-B8C9-4481-85A7-155137720AD9}|289. Generic type constraints related to nullability\\289. Generic type constraints related to nullability.csproj|solutionrelative:289. generic type constraints related to nullability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22ABF85-2210-4303-8171-93DF3EC38137}|288. Null-forgiving operator\\288. Null-forgiving operator.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\288. null-forgiving operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22ABF85-2210-4303-8171-93DF3EC38137}|288. Null-forgiving operator\\288. Null-forgiving operator.csproj|solutionrelative:288. null-forgiving operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280CFF43-6103-4BD4-85C1-D3BCB7E7FFEE}|287. Nullable reference types\\287. Nullable reference types.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\287. nullable reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280CFF43-6103-4BD4-85C1-D3BCB7E7FFEE}|287. Nullable reference types\\287. Nullable reference types.csproj|solutionrelative:287. nullable reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F64B6-033A-4052-856F-90C910912F76}|286. Nullable value types\\286. Nullable value types.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\286. nullable value types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57F64B6-033A-4052-856F-90C910912F76}|286. Nullable value types\\286. Nullable value types.csproj|solutionrelative:286. nullable value types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556A763D-8AE0-40D4-A6D5-C8FE2FC48555}|284. Records\\284. Records.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\284. records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556A763D-8AE0-40D4-A6D5-C8FE2FC48555}|284. Records\\284. Records.csproj|solutionrelative:284. records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F041847-AE07-4DF7-A10E-64309F0487A5}|285. Record structs\\285. Record structs.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\285. record structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F041847-AE07-4DF7-A10E-64309F0487A5}|285. Record structs\\285. Record structs.csproj|solutionrelative:285. record structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860913B0-490B-41EB-BE0A-3777337C90DD}|283. Benefits of immutable types\\283. Benefits of immutable types.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\283. benefits of immutable types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860913B0-490B-41EB-BE0A-3777337C90DD}|283. Benefits of immutable types\\283. Benefits of immutable types.csproj|solutionrelative:283. benefits of immutable types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7574E962-298B-45E9-9256-2CA2DF2F4DE8}|282. ValueTuples\\282. ValueTuples.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\282. valuetuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7574E962-298B-45E9-9256-2CA2DF2F4DE8}|282. ValueTuples\\282. ValueTuples.csproj|solutionrelative:282. valuetuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A74B3A4-F1D0-44E2-820A-A51771E8C36F}|281_1. Overriding the GetHashCode method\\281_1. Overriding the GetHashCode method.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\281_1. overriding the gethashcode method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A74B3A4-F1D0-44E2-820A-A51771E8C36F}|281_1. Overriding the GetHashCode method\\281_1. Overriding the GetHashCode method.csproj|solutionrelative:281_1. overriding the gethashcode method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED842004-5E19-40C2-B363-C4699F15334F}|279. Default implementation of the GetHashCode method\\279. Default implementation of the GetHashCode method.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\279. default implementation of the gethashcode method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED842004-5E19-40C2-B363-C4699F15334F}|279. Default implementation of the GetHashCode method\\279. Default implementation of the GetHashCode method.csproj|solutionrelative:279. default implementation of the gethashcode method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FE8206-AF9D-4CE1-81BD-B6E2D2C27E26}|280. When to override the GetHashCode method\\280. When to override the GetHashCode method.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\280. when to override the gethashcode method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FE8206-AF9D-4CE1-81BD-B6E2D2C27E26}|280. When to override the GetHashCode method\\280. When to override the GetHashCode method.csproj|solutionrelative:280. when to override the gethashcode method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6471B823-684F-4E59-8DAC-C241AC2344F4}|281. Overriding the GetHashCode method\\281. Overriding the GetHashCode method.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\281. overriding the gethashcode method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6471B823-684F-4E59-8DAC-C241AC2344F4}|281. Overriding the GetHashCode method\\281. Overriding the GetHashCode method.csproj|solutionrelative:281. overriding the gethashcode method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300662E9-B211-4F40-90F6-E1C28CC150EA}|270. IEquatable T interface\\270. IEquatable T interface.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\270. iequatable t interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300662E9-B211-4F40-90F6-E1C28CC150EA}|270. IEquatable T interface\\270. IEquatable T interface.csproj|solutionrelative:270. iequatable t interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8E063BD-61EE-4549-928F-501447EF848E}|269. Overriding the Equals method in structs\\269. Overriding the Equals method in structs.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\269. overriding the equals method in structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8E063BD-61EE-4549-928F-501447EF848E}|269. Overriding the Equals method in structs\\269. Overriding the Equals method in structs.csproj|solutionrelative:269. overriding the equals method in structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D67A6952-93BE-4FF3-8168-A5546BCCDF68}|275. == operator\\275. == operator.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\275. == operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67A6952-93BE-4FF3-8168-A5546BCCDF68}|275. == operator\\275. == operator.csproj|solutionrelative:275. == operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1AAA3CA-8EB4-4E5F-B4D4-91A1E667FB7D}|265. Readonly structs\\265. Readonly structs.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\265. readonly structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1AAA3CA-8EB4-4E5F-B4D4-91A1E667FB7D}|265. Readonly structs\\265. Readonly structs.csproj|solutionrelative:265. readonly structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E9581BA-91B5-4BE3-B67C-77D469F9EBEC}|276. Operators overloading\\276. Operators overloading.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\276. operators overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9581BA-91B5-4BE3-B67C-77D469F9EBEC}|276. Operators overloading\\276. Operators overloading.csproj|solutionrelative:276. operators overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C6C73CF-5345-406A-A151-7E824F97E04A}|266. A close look at the System.Object type. The ReferenceEquals method\\266. A close look at the System.Object type. The ReferenceEquals method.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\266. a close look at the system.object type. the referenceequals method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6C73CF-5345-406A-A151-7E824F97E04A}|266. A close look at the System.Object type. The ReferenceEquals method\\266. A close look at the System.Object type. The ReferenceEquals method.csproj|solutionrelative:266. a close look at the system.object type. the referenceequals method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1446FC0A-C497-4026-81CC-CE25DAC87B86}|268. Overriding the Equals method in classes\\268. Overriding the Equals method in classes.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\268. overriding the equals method in classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1446FC0A-C497-4026-81CC-CE25DAC87B86}|268. Overriding the Equals method in classes\\268. Overriding the Equals method in classes.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\268. overriding the equals method in classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1446FC0A-C497-4026-81CC-CE25DAC87B86}|268. Overriding the Equals method in classes\\268. Overriding the Equals method in classes.csproj|solutionrelative:268. overriding the equals method in classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A62F6C-31A1-4D2B-804C-2D3C523EE152}|267. Equals method\\267. Equals method.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\267. equals method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8E063BD-61EE-4549-928F-501447EF848E}|269. Overriding the Equals method in structs\\269. Overriding the Equals method in structs.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\269. overriding the equals method in structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E063BD-61EE-4549-928F-501447EF848E}|269. Overriding the Equals method in structs\\269. Overriding the Equals method in structs.csproj|solutionrelative:269. overriding the equals method in structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCC0B15-4F57-4BAC-9C88-59AB632E22EC}|277. Overloading of implicit and explicit conversion operators\\277. Overloading of implicit and explicit conversion operators.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\277. overloading of implicit and explicit conversion operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCC0B15-4F57-4BAC-9C88-59AB632E22EC}|277. Overloading of implicit and explicit conversion operators\\277. Overloading of implicit and explicit conversion operators.csproj|solutionrelative:277. overloading of implicit and explicit conversion operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930DF658-C4A2-438D-810C-F990552EDC0D}|278. Hash functions\\278. Hash functions.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\278. hash functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930DF658-C4A2-438D-810C-F990552EDC0D}|278. Hash functions\\278. Hash functions.csproj|solutionrelative:278. hash functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AAA3CA-8EB4-4E5F-B4D4-91A1E667FB7D}|265. Readonly structs\\265. Readonly structs.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\265. readonly structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AAA3CA-8EB4-4E5F-B4D4-91A1E667FB7D}|265. Readonly structs\\265. Readonly structs.csproj|solutionrelative:265. readonly structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6C73CF-5345-406A-A151-7E824F97E04A}|266. A close look at the System.Object type. The ReferenceEquals method\\266. A close look at the System.Object type. The ReferenceEquals method.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\266. a close look at the system.object type. the referenceequals method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6C73CF-5345-406A-A151-7E824F97E04A}|266. A close look at the System.Object type. The ReferenceEquals method\\266. A close look at the System.Object type. The ReferenceEquals method.csproj|solutionrelative:266. a close look at the system.object type. the referenceequals method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A62F6C-31A1-4D2B-804C-2D3C523EE152}|267. Equals method\\267. Equals method.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\267. equals method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3A62F6C-31A1-4D2B-804C-2D3C523EE152}|267. Equals method\\267. Equals method.csproj|solutionrelative:267. equals method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{532F4838-97EB-493E-B1FB-B2648858A72D}|264. \u0027with\u0027 expression\\264. \u0027with\u0027 expression.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\264. \u0027with\u0027 expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{532F4838-97EB-493E-B1FB-B2648858A72D}|264. \u0027with\u0027 expression\\264. \u0027with\u0027 expression.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\264. \u0027with\u0027 expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{532F4838-97EB-493E-B1FB-B2648858A72D}|264. \u0027with\u0027 expression\\264. \u0027with\u0027 expression.csproj|solutionrelative:264. \u0027with\u0027 expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{440D15DC-657A-44F5-B232-E78B9B4E02CF}|262. Why should we make structs immutable\\262. Why should we make structs immutable.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\262. why should we make structs immutable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{440D15DC-657A-44F5-B232-E78B9B4E02CF}|262. Why should we make structs immutable\\262. Why should we make structs immutable.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\262. why should we make structs immutable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{440D15DC-657A-44F5-B232-E78B9B4E02CF}|262. Why should we make structs immutable\\262. Why should we make structs immutable.csproj|solutionrelative:262. why should we make structs immutable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1024B75D-6584-4B35-B032-285F53243761}|263. Non-destructive mutation\\263. Non-destructive mutation.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\263. non-destructive mutation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1024B75D-6584-4B35-B032-285F53243761}|263. Non-destructive mutation\\263. Non-destructive mutation.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\263. non-destructive mutation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1024B75D-6584-4B35-B032-285F53243761}|263. Non-destructive mutation\\263. Non-destructive mutation.csproj|solutionrelative:263. non-destructive mutation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{734535B1-B802-41E5-813C-A1A272F3AE03}|262_1. Coding exercise\\262_1. Coding exercise.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\262_1. coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{734535B1-B802-41E5-813C-A1A272F3AE03}|262_1. Coding exercise\\262_1. Coding exercise.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\262_1. coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{734535B1-B802-41E5-813C-A1A272F3AE03}|262_1. Coding exercise\\262_1. Coding exercise.csproj|solutionrelative:262_1. coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1372E64C-EB74-4812-ABD2-576B1354E36B}|261. Choosing between structs and classes\\261. Choosing between structs and classes.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\261. choosing between structs and classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1372E64C-EB74-4812-ABD2-576B1354E36B}|261. Choosing between structs and classes\\261. Choosing between structs and classes.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\261. choosing between structs and classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1372E64C-EB74-4812-ABD2-576B1354E36B}|261. Choosing between structs and classes\\261. Choosing between structs and classes.csproj|solutionrelative:261. choosing between structs and classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39031617-454E-4F23-87DC-208424112B4D}|259. Structs vs Classes - crucial differences\\259. Structs vs Classes - crucial differences.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\259. structs vs classes - crucial differences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39031617-454E-4F23-87DC-208424112B4D}|259. Structs vs Classes - crucial differences\\259. Structs vs Classes - crucial differences.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\259. structs vs classes - crucial differences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39031617-454E-4F23-87DC-208424112B4D}|259. Structs vs Classes - crucial differences\\259. Structs vs Classes - crucial differences.csproj|solutionrelative:259. structs vs classes - crucial differences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0D02549-7222-4A6A-B349-2167770F4325}|260. Structs vs Classes - low-level differences\\260. Structs vs Classes - low-level differences.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\260. structs vs classes - low-level differences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0D02549-7222-4A6A-B349-2167770F4325}|260. Structs vs Classes - low-level differences\\260. Structs vs Classes - low-level differences.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\260. structs vs classes - low-level differences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0D02549-7222-4A6A-B349-2167770F4325}|260. Structs vs Classes - low-level differences\\260. Structs vs Classes - low-level differences.csproj|solutionrelative:260. structs vs classes - low-level differences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88F30C0D-A241-4C9D-8489-61293176DE00}|257. Limitations of attributes parameters types\\257. Limitations of attributes parameters types.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\257. limitations of attributes parameters types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88F30C0D-A241-4C9D-8489-61293176DE00}|257. Limitations of attributes parameters types\\257. Limitations of attributes parameters types.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\257. limitations of attributes parameters types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88F30C0D-A241-4C9D-8489-61293176DE00}|257. Limitations of attributes parameters types\\257. Limitations of attributes parameters types.csproj|solutionrelative:257. limitations of attributes parameters types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB9D18E4-2543-4251-A592-6A742303E3A2}|258. Structs\\258. Structs.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\258. structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB9D18E4-2543-4251-A592-6A742303E3A2}|258. Structs\\258. Structs.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\258. structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB9D18E4-2543-4251-A592-6A742303E3A2}|258. Structs\\258. Structs.csproj|solutionrelative:258. structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43DA1242-154B-458B-BA38-B11E44AFA093}|256_1. Coding Exercise\\256_1. Coding Exercise.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\256_1. coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43DA1242-154B-458B-BA38-B11E44AFA093}|256_1. Coding Exercise\\256_1. Coding Exercise.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\256_1. coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43DA1242-154B-458B-BA38-B11E44AFA093}|256_1. Coding Exercise\\256_1. Coding Exercise.csproj|solutionrelative:256_1. coding exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2589B4D1-E225-43EA-B4ED-5F63D748868A}|256. Attributes\\256. Attributes.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\256. attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2589B4D1-E225-43EA-B4ED-5F63D748868A}|256. Attributes\\256. Attributes.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\256. attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2589B4D1-E225-43EA-B4ED-5F63D748868A}|256. Attributes\\256. Attributes.csproj|solutionrelative:256. attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B8742E2-1907-4159-A5C2-8BE5D1036B68}|255. Reflection\\255. Reflection.csproj|c:\\users\\chinmayborkar\\source\\repos\\9. advance c# types\\255. reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B8742E2-1907-4159-A5C2-8BE5D1036B68}|255. Reflection\\255. Reflection.csproj|d:\\code\\udemy\\c#\\c# krytina\\9. advance c# types\\255. reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B8742E2-1907-4159-A5C2-8BE5D1036B68}|255. Reflection\\255. Reflection.csproj|solutionrelative:255. reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -88,46 +164,282 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\270. IEquatable T interface\\Program.cs",
-              "RelativeDocumentMoniker": "270. IEquatable T interface\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\270. IEquatable T interface\\Program.cs",
-              "RelativeToolTip": "270. IEquatable T interface\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\292. A class for querying APIs\\Program.cs",
+              "RelativeDocumentMoniker": "292. A class for querying APIs\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\292. A class for querying APIs\\Program.cs",
+              "RelativeToolTip": "292. A class for querying APIs\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T08:43:47.594Z",
+              "WhenOpened": "2025-09-19T11:10:05.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\269. Overriding the Equals method in structs\\Program.cs",
-              "RelativeDocumentMoniker": "269. Overriding the Equals method in structs\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\269. Overriding the Equals method in structs\\Program.cs",
-              "RelativeToolTip": "269. Overriding the Equals method in structs\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAwDAAAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\291. Querying an API using C#\\Program.cs",
+              "RelativeDocumentMoniker": "291. Querying an API using C#\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\291. Querying an API using C#\\Program.cs",
+              "RelativeToolTip": "291. Querying an API using C#\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T06:36:42.993Z"
+              "WhenOpened": "2025-09-19T10:58:13.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\290. APIs\\Program.cs",
+              "RelativeDocumentMoniker": "290. APIs\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\290. APIs\\Program.cs",
+              "RelativeToolTip": "290. APIs\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:46:53.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\289. Generic type constraints related to nullability\\Program.cs",
+              "RelativeDocumentMoniker": "289. Generic type constraints related to nullability\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\289. Generic type constraints related to nullability\\Program.cs",
+              "RelativeToolTip": "289. Generic type constraints related to nullability\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAUwFoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:22:34.286Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\268. Overriding the Equals method in classes\\Program.cs",
-              "RelativeDocumentMoniker": "268. Overriding the Equals method in classes\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\268. Overriding the Equals method in classes\\Program.cs",
-              "RelativeToolTip": "268. Overriding the Equals method in classes\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\288. Null-forgiving operator\\Program.cs",
+              "RelativeDocumentMoniker": "288. Null-forgiving operator\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\288. Null-forgiving operator\\Program.cs",
+              "RelativeToolTip": "288. Null-forgiving operator\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAiwHEAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T05:56:45.023Z"
+              "WhenOpened": "2025-09-19T10:00:48.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\267. Equals method\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\287. Nullable reference types\\Program.cs",
+              "RelativeDocumentMoniker": "287. Nullable reference types\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\287. Nullable reference types\\Program.cs",
+              "RelativeToolTip": "287. Nullable reference types\\Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwFUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:37:12.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\286. Nullable value types\\Program.cs",
+              "RelativeDocumentMoniker": "286. Nullable value types\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\286. Nullable value types\\Program.cs",
+              "RelativeToolTip": "286. Nullable value types\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwE0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:18:01.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\285. Record structs\\Program.cs",
+              "RelativeDocumentMoniker": "285. Record structs\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\285. Record structs\\Program.cs",
+              "RelativeToolTip": "285. Record structs\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T07:58:02.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\284. Records\\Program.cs",
+              "RelativeDocumentMoniker": "284. Records\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\284. Records\\Program.cs",
+              "RelativeToolTip": "284. Records\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAJIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:09:10.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\283. Benefits of immutable types\\Program.cs",
+              "RelativeDocumentMoniker": "283. Benefits of immutable types\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\283. Benefits of immutable types\\Program.cs",
+              "RelativeToolTip": "283. Benefits of immutable types\\Program.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwIIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:22:53.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\282. ValueTuples\\Program.cs",
+              "RelativeDocumentMoniker": "282. ValueTuples\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\282. ValueTuples\\Program.cs",
+              "RelativeToolTip": "282. ValueTuples\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwEgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:02:05.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\281_1. Overriding the GetHashCode method\\Program.cs",
+              "RelativeDocumentMoniker": "281_1. Overriding the GetHashCode method\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\281_1. Overriding the GetHashCode method\\Program.cs",
+              "RelativeToolTip": "281_1. Overriding the GetHashCode method\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCsAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:22:06.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\281. Overriding the GetHashCode method\\Program.cs",
+              "RelativeDocumentMoniker": "281. Overriding the GetHashCode method\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\281. Overriding the GetHashCode method\\Program.cs",
+              "RelativeToolTip": "281. Overriding the GetHashCode method\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:03:56.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\280. When to override the GetHashCode method\\Program.cs",
+              "RelativeDocumentMoniker": "280. When to override the GetHashCode method\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\280. When to override the GetHashCode method\\Program.cs",
+              "RelativeToolTip": "280. When to override the GetHashCode method\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:53:57.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\279. Default implementation of the GetHashCode method\\Program.cs",
+              "RelativeDocumentMoniker": "279. Default implementation of the GetHashCode method\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\279. Default implementation of the GetHashCode method\\Program.cs",
+              "RelativeToolTip": "279. Default implementation of the GetHashCode method\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:38:44.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\278. Hash functions\\Program.cs",
+              "RelativeDocumentMoniker": "278. Hash functions\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\278. Hash functions\\Program.cs",
+              "RelativeToolTip": "278. Hash functions\\Program.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwHsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:42:12.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\277. Overloading of implicit and explicit conversion operators\\Program.cs",
+              "RelativeDocumentMoniker": "277. Overloading of implicit and explicit conversion operators\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\277. Overloading of implicit and explicit conversion operators\\Program.cs",
+              "RelativeToolTip": "277. Overloading of implicit and explicit conversion operators\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:27:47.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\276. Operators overloading\\Program.cs",
+              "RelativeDocumentMoniker": "276. Operators overloading\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\276. Operators overloading\\Program.cs",
+              "RelativeToolTip": "276. Operators overloading\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:07:39.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\275. == operator\\Program.cs",
+              "RelativeDocumentMoniker": "275. == operator\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\275. == operator\\Program.cs",
+              "RelativeToolTip": "275. == operator\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:58:34.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\270. IEquatable T interface\\Program.cs",
+              "RelativeDocumentMoniker": "270. IEquatable T interface\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\270. IEquatable T interface\\Program.cs",
+              "RelativeToolTip": "270. IEquatable T interface\\Program.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAQwI4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:43:47.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\269. Overriding the Equals method in structs\\Program.cs",
+              "RelativeDocumentMoniker": "269. Overriding the Equals method in structs\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\269. Overriding the Equals method in structs\\Program.cs",
+              "RelativeToolTip": "269. Overriding the Equals method in structs\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:36:42.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\268. Overriding the Equals method in classes\\Program.cs",
+              "RelativeDocumentMoniker": "268. Overriding the Equals method in classes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\268. Overriding the Equals method in classes\\Program.cs",
+              "RelativeToolTip": "268. Overriding the Equals method in classes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:56:45.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\267. Equals method\\Program.cs",
               "RelativeDocumentMoniker": "267. Equals method\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\267. Equals method\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\267. Equals method\\Program.cs",
               "RelativeToolTip": "267. Equals method\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,11 +447,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\266. A close look at the System.Object type. The ReferenceEquals method\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\266. A close look at the System.Object type. The ReferenceEquals method\\Program.cs",
               "RelativeDocumentMoniker": "266. A close look at the System.Object type. The ReferenceEquals method\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\266. A close look at the System.Object type. The ReferenceEquals method\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\266. A close look at the System.Object type. The ReferenceEquals method\\Program.cs",
               "RelativeToolTip": "266. A close look at the System.Object type. The ReferenceEquals method\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,11 +459,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\265. Readonly structs\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\265. Readonly structs\\Program.cs",
               "RelativeDocumentMoniker": "265. Readonly structs\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\265. Readonly structs\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\265. Readonly structs\\Program.cs",
               "RelativeToolTip": "265. Readonly structs\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,11 +471,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\264. \u0027with\u0027 expression\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\264. \u0027with\u0027 expression\\Program.cs",
               "RelativeDocumentMoniker": "264. \u0027with\u0027 expression\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\264. \u0027with\u0027 expression\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\264. \u0027with\u0027 expression\\Program.cs",
               "RelativeToolTip": "264. \u0027with\u0027 expression\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,11 +483,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\263. Non-destructive mutation\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\263. Non-destructive mutation\\Program.cs",
               "RelativeDocumentMoniker": "263. Non-destructive mutation\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\263. Non-destructive mutation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\263. Non-destructive mutation\\Program.cs",
               "RelativeToolTip": "263. Non-destructive mutation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,11 +495,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\262_1. Coding exercise\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\262_1. Coding exercise\\Program.cs",
               "RelativeDocumentMoniker": "262_1. Coding exercise\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\262_1. Coding exercise\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\262_1. Coding exercise\\Program.cs",
               "RelativeToolTip": "262_1. Coding exercise\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,11 +507,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\262. Why should we make structs immutable\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\262. Why should we make structs immutable\\Program.cs",
               "RelativeDocumentMoniker": "262. Why should we make structs immutable\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\262. Why should we make structs immutable\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\262. Why should we make structs immutable\\Program.cs",
               "RelativeToolTip": "262. Why should we make structs immutable\\Program.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +519,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\261. Choosing between structs and classes\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\261. Choosing between structs and classes\\Program.cs",
               "RelativeDocumentMoniker": "261. Choosing between structs and classes\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\261. Choosing between structs and classes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\261. Choosing between structs and classes\\Program.cs",
               "RelativeToolTip": "261. Choosing between structs and classes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,11 +531,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\260. Structs vs Classes - low-level differences\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\260. Structs vs Classes - low-level differences\\Program.cs",
               "RelativeDocumentMoniker": "260. Structs vs Classes - low-level differences\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\260. Structs vs Classes - low-level differences\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\260. Structs vs Classes - low-level differences\\Program.cs",
               "RelativeToolTip": "260. Structs vs Classes - low-level differences\\Program.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,11 +543,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\259. Structs vs Classes - crucial differences\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\259. Structs vs Classes - crucial differences\\Program.cs",
               "RelativeDocumentMoniker": "259. Structs vs Classes - crucial differences\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\259. Structs vs Classes - crucial differences\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\259. Structs vs Classes - crucial differences\\Program.cs",
               "RelativeToolTip": "259. Structs vs Classes - crucial differences\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,11 +555,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\258. Structs\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\258. Structs\\Program.cs",
               "RelativeDocumentMoniker": "258. Structs\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\258. Structs\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\258. Structs\\Program.cs",
               "RelativeToolTip": "258. Structs\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +567,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\257. Limitations of attributes parameters types\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\257. Limitations of attributes parameters types\\Program.cs",
               "RelativeDocumentMoniker": "257. Limitations of attributes parameters types\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\257. Limitations of attributes parameters types\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\257. Limitations of attributes parameters types\\Program.cs",
               "RelativeToolTip": "257. Limitations of attributes parameters types\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +579,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\256_1. Coding Exercise\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\256_1. Coding Exercise\\Program.cs",
               "RelativeDocumentMoniker": "256_1. Coding Exercise\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\256_1. Coding Exercise\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\256_1. Coding Exercise\\Program.cs",
               "RelativeToolTip": "256_1. Coding Exercise\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,11 +591,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\256. Attributes\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\256. Attributes\\Program.cs",
               "RelativeDocumentMoniker": "256. Attributes\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\256. Attributes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\256. Attributes\\Program.cs",
               "RelativeToolTip": "256. Attributes\\Program.cs",
               "ViewState": "AgIAAGAAAAAAAAAAAAAkwG8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,11 +603,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\255. Reflection\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\255. Reflection\\Program.cs",
               "RelativeDocumentMoniker": "255. Reflection\\Program.cs",
-              "ToolTip": "C:\\Users\\ChinmayBorkar\\source\\repos\\9. Advance C# types\\255. Reflection\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\9. Advance C# types\\255. Reflection\\Program.cs",
               "RelativeToolTip": "255. Reflection\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\bin\Debug\net8.0\284. Records.exe
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\bin\Debug\net8.0\284. Records.deps.json
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\bin\Debug\net8.0\284. Records.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\bin\Debug\net8.0\284. Records.dll
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\bin\Debug\net8.0\284. Records.pdb
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\obj\Debug\net8.0\284. Records.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\obj\Debug\net8.0\284. Records.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\obj\Debug\net8.0\284. Records.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\obj\Debug\net8.0\284. Records.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\obj\Debug\net8.0\284. Records.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\obj\Debug\net8.0\284. Records.dll
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\obj\Debug\net8.0\refint\284. Records.dll
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\obj\Debug\net8.0\284. Records.pdb
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\obj\Debug\net8.0\284. Records.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\284. Records\obj\Debug\net8.0\ref\284. Records.dll

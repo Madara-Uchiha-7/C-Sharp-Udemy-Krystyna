@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "291. Querying an API using C#/1.0.0": {
+        "runtime": {
+          "291. Querying an API using C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "291. Querying an API using C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

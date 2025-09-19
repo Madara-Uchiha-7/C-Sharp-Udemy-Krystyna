@@ -3,41 +3,79 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "255. Reflection", "255. Reflection\255. Reflection.csproj", "{8B8742E2-1907-4159-A5C2-8BE5D1036B68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "255. Reflection", "255. Reflection\255. Reflection.csproj", "{8B8742E2-1907-4159-A5C2-8BE5D1036B68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "256. Attributes", "256. Attributes\256. Attributes.csproj", "{2589B4D1-E225-43EA-B4ED-5F63D748868A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "256. Attributes", "256. Attributes\256. Attributes.csproj", "{2589B4D1-E225-43EA-B4ED-5F63D748868A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "256_1. Coding Exercise", "256_1. Coding Exercise\256_1. Coding Exercise.csproj", "{43DA1242-154B-458B-BA38-B11E44AFA093}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "256_1. Coding Exercise", "256_1. Coding Exercise\256_1. Coding Exercise.csproj", "{43DA1242-154B-458B-BA38-B11E44AFA093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "257. Limitations of attributes parameters types", "257. Limitations of attributes parameters types\257. Limitations of attributes parameters types.csproj", "{88F30C0D-A241-4C9D-8489-61293176DE00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "257. Limitations of attributes parameters types", "257. Limitations of attributes parameters types\257. Limitations of attributes parameters types.csproj", "{88F30C0D-A241-4C9D-8489-61293176DE00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "258. Structs", "258. Structs\258. Structs.csproj", "{BB9D18E4-2543-4251-A592-6A742303E3A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "258. Structs", "258. Structs\258. Structs.csproj", "{BB9D18E4-2543-4251-A592-6A742303E3A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "259. Structs vs Classes - crucial differences", "259. Structs vs Classes - crucial differences\259. Structs vs Classes - crucial differences.csproj", "{39031617-454E-4F23-87DC-208424112B4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "259. Structs vs Classes - crucial differences", "259. Structs vs Classes - crucial differences\259. Structs vs Classes - crucial differences.csproj", "{39031617-454E-4F23-87DC-208424112B4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "260. Structs vs Classes - low-level differences", "260. Structs vs Classes - low-level differences\260. Structs vs Classes - low-level differences.csproj", "{C0D02549-7222-4A6A-B349-2167770F4325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "260. Structs vs Classes - low-level differences", "260. Structs vs Classes - low-level differences\260. Structs vs Classes - low-level differences.csproj", "{C0D02549-7222-4A6A-B349-2167770F4325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "261. Choosing between structs and classes", "261. Choosing between structs and classes\261. Choosing between structs and classes.csproj", "{1372E64C-EB74-4812-ABD2-576B1354E36B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "261. Choosing between structs and classes", "261. Choosing between structs and classes\261. Choosing between structs and classes.csproj", "{1372E64C-EB74-4812-ABD2-576B1354E36B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "262. Why should we make structs immutable", "262. Why should we make structs immutable\262. Why should we make structs immutable.csproj", "{440D15DC-657A-44F5-B232-E78B9B4E02CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "262. Why should we make structs immutable", "262. Why should we make structs immutable\262. Why should we make structs immutable.csproj", "{440D15DC-657A-44F5-B232-E78B9B4E02CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "262_1. Coding exercise", "262_1. Coding exercise\262_1. Coding exercise.csproj", "{734535B1-B802-41E5-813C-A1A272F3AE03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "262_1. Coding exercise", "262_1. Coding exercise\262_1. Coding exercise.csproj", "{734535B1-B802-41E5-813C-A1A272F3AE03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "263. Non-destructive mutation", "263. Non-destructive mutation\263. Non-destructive mutation.csproj", "{1024B75D-6584-4B35-B032-285F53243761}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "263. Non-destructive mutation", "263. Non-destructive mutation\263. Non-destructive mutation.csproj", "{1024B75D-6584-4B35-B032-285F53243761}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "264. 'with' expression", "264. 'with' expression\264. 'with' expression.csproj", "{532F4838-97EB-493E-B1FB-B2648858A72D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "264. 'with' expression", "264. 'with' expression\264. 'with' expression.csproj", "{532F4838-97EB-493E-B1FB-B2648858A72D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "265. Readonly structs", "265. Readonly structs\265. Readonly structs.csproj", "{D1AAA3CA-8EB4-4E5F-B4D4-91A1E667FB7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "265. Readonly structs", "265. Readonly structs\265. Readonly structs.csproj", "{D1AAA3CA-8EB4-4E5F-B4D4-91A1E667FB7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "266. A close look at the System.Object type. The ReferenceEquals method", "266. A close look at the System.Object type. The ReferenceEquals method\266. A close look at the System.Object type. The ReferenceEquals method.csproj", "{8C6C73CF-5345-406A-A151-7E824F97E04A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "266. A close look at the System.Object type. The ReferenceEquals method", "266. A close look at the System.Object type. The ReferenceEquals method\266. A close look at the System.Object type. The ReferenceEquals method.csproj", "{8C6C73CF-5345-406A-A151-7E824F97E04A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "267. Equals method", "267. Equals method\267. Equals method.csproj", "{B3A62F6C-31A1-4D2B-804C-2D3C523EE152}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "267. Equals method", "267. Equals method\267. Equals method.csproj", "{B3A62F6C-31A1-4D2B-804C-2D3C523EE152}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268. Overriding the Equals method in classes", "268. Overriding the Equals method in classes\268. Overriding the Equals method in classes.csproj", "{1446FC0A-C497-4026-81CC-CE25DAC87B86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "268. Overriding the Equals method in classes", "268. Overriding the Equals method in classes\268. Overriding the Equals method in classes.csproj", "{1446FC0A-C497-4026-81CC-CE25DAC87B86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "269. Overriding the Equals method in structs", "269. Overriding the Equals method in structs\269. Overriding the Equals method in structs.csproj", "{C8E063BD-61EE-4549-928F-501447EF848E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "269. Overriding the Equals method in structs", "269. Overriding the Equals method in structs\269. Overriding the Equals method in structs.csproj", "{C8E063BD-61EE-4549-928F-501447EF848E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "270. IEquatable T interface", "270. IEquatable T interface\270. IEquatable T interface.csproj", "{300662E9-B211-4F40-90F6-E1C28CC150EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "270. IEquatable T interface", "270. IEquatable T interface\270. IEquatable T interface.csproj", "{300662E9-B211-4F40-90F6-E1C28CC150EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "275. == operator", "275. == operator\275. == operator.csproj", "{D67A6952-93BE-4FF3-8168-A5546BCCDF68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "276. Operators overloading", "276. Operators overloading\276. Operators overloading.csproj", "{0E9581BA-91B5-4BE3-B67C-77D469F9EBEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "277. Overloading of implicit and explicit conversion operators", "277. Overloading of implicit and explicit conversion operators\277. Overloading of implicit and explicit conversion operators.csproj", "{9DCC0B15-4F57-4BAC-9C88-59AB632E22EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "278. Hash functions", "278. Hash functions\278. Hash functions.csproj", "{930DF658-C4A2-438D-810C-F990552EDC0D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "279. Default implementation of the GetHashCode method", "279. Default implementation of the GetHashCode method\279. Default implementation of the GetHashCode method.csproj", "{ED842004-5E19-40C2-B363-C4699F15334F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "280. When to override the GetHashCode method", "280. When to override the GetHashCode method\280. When to override the GetHashCode method.csproj", "{A1FE8206-AF9D-4CE1-81BD-B6E2D2C27E26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "281. Overriding the GetHashCode method", "281. Overriding the GetHashCode method\281. Overriding the GetHashCode method.csproj", "{6471B823-684F-4E59-8DAC-C241AC2344F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "281_1. Overriding the GetHashCode method", "281_1. Overriding the GetHashCode method\281_1. Overriding the GetHashCode method.csproj", "{9A74B3A4-F1D0-44E2-820A-A51771E8C36F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "282. ValueTuples", "282. ValueTuples\282. ValueTuples.csproj", "{7574E962-298B-45E9-9256-2CA2DF2F4DE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "283. Benefits of immutable types", "283. Benefits of immutable types\283. Benefits of immutable types.csproj", "{860913B0-490B-41EB-BE0A-3777337C90DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "284. Records", "284. Records\284. Records.csproj", "{556A763D-8AE0-40D4-A6D5-C8FE2FC48555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "285. Record structs", "285. Record structs\285. Record structs.csproj", "{6F041847-AE07-4DF7-A10E-64309F0487A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "286. Nullable value types", "286. Nullable value types\286. Nullable value types.csproj", "{D57F64B6-033A-4052-856F-90C910912F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "287. Nullable reference types", "287. Nullable reference types\287. Nullable reference types.csproj", "{280CFF43-6103-4BD4-85C1-D3BCB7E7FFEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "288. Null-forgiving operator", "288. Null-forgiving operator\288. Null-forgiving operator.csproj", "{C22ABF85-2210-4303-8171-93DF3EC38137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "289. Generic type constraints related to nullability", "289. Generic type constraints related to nullability\289. Generic type constraints related to nullability.csproj", "{BEA9D5F2-B8C9-4481-85A7-155137720AD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "290. APIs", "290. APIs\290. APIs.csproj", "{1B0176AF-0153-4D3A-A88C-151BA0DC20B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "291. Querying an API using C#", "291. Querying an API using C#\291. Querying an API using C#.csproj", "{C4091C99-C675-45C2-9237-7E89F7ADC713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "292. A class for querying APIs", "292. A class for querying APIs\292. A class for querying APIs.csproj", "{53D28065-4D3F-4E86-87DC-46DB09C45E9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,8 +155,87 @@ Global
 		{300662E9-B211-4F40-90F6-E1C28CC150EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{300662E9-B211-4F40-90F6-E1C28CC150EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{300662E9-B211-4F40-90F6-E1C28CC150EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67A6952-93BE-4FF3-8168-A5546BCCDF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67A6952-93BE-4FF3-8168-A5546BCCDF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67A6952-93BE-4FF3-8168-A5546BCCDF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67A6952-93BE-4FF3-8168-A5546BCCDF68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9581BA-91B5-4BE3-B67C-77D469F9EBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9581BA-91B5-4BE3-B67C-77D469F9EBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9581BA-91B5-4BE3-B67C-77D469F9EBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9581BA-91B5-4BE3-B67C-77D469F9EBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCC0B15-4F57-4BAC-9C88-59AB632E22EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCC0B15-4F57-4BAC-9C88-59AB632E22EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCC0B15-4F57-4BAC-9C88-59AB632E22EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCC0B15-4F57-4BAC-9C88-59AB632E22EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930DF658-C4A2-438D-810C-F990552EDC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930DF658-C4A2-438D-810C-F990552EDC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930DF658-C4A2-438D-810C-F990552EDC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930DF658-C4A2-438D-810C-F990552EDC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED842004-5E19-40C2-B363-C4699F15334F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED842004-5E19-40C2-B363-C4699F15334F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED842004-5E19-40C2-B363-C4699F15334F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED842004-5E19-40C2-B363-C4699F15334F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1FE8206-AF9D-4CE1-81BD-B6E2D2C27E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FE8206-AF9D-4CE1-81BD-B6E2D2C27E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FE8206-AF9D-4CE1-81BD-B6E2D2C27E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FE8206-AF9D-4CE1-81BD-B6E2D2C27E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6471B823-684F-4E59-8DAC-C241AC2344F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6471B823-684F-4E59-8DAC-C241AC2344F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6471B823-684F-4E59-8DAC-C241AC2344F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6471B823-684F-4E59-8DAC-C241AC2344F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A74B3A4-F1D0-44E2-820A-A51771E8C36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A74B3A4-F1D0-44E2-820A-A51771E8C36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A74B3A4-F1D0-44E2-820A-A51771E8C36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A74B3A4-F1D0-44E2-820A-A51771E8C36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7574E962-298B-45E9-9256-2CA2DF2F4DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7574E962-298B-45E9-9256-2CA2DF2F4DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7574E962-298B-45E9-9256-2CA2DF2F4DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7574E962-298B-45E9-9256-2CA2DF2F4DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{860913B0-490B-41EB-BE0A-3777337C90DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860913B0-490B-41EB-BE0A-3777337C90DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860913B0-490B-41EB-BE0A-3777337C90DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860913B0-490B-41EB-BE0A-3777337C90DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556A763D-8AE0-40D4-A6D5-C8FE2FC48555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556A763D-8AE0-40D4-A6D5-C8FE2FC48555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556A763D-8AE0-40D4-A6D5-C8FE2FC48555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556A763D-8AE0-40D4-A6D5-C8FE2FC48555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F041847-AE07-4DF7-A10E-64309F0487A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F041847-AE07-4DF7-A10E-64309F0487A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F041847-AE07-4DF7-A10E-64309F0487A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F041847-AE07-4DF7-A10E-64309F0487A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57F64B6-033A-4052-856F-90C910912F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57F64B6-033A-4052-856F-90C910912F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57F64B6-033A-4052-856F-90C910912F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57F64B6-033A-4052-856F-90C910912F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280CFF43-6103-4BD4-85C1-D3BCB7E7FFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280CFF43-6103-4BD4-85C1-D3BCB7E7FFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280CFF43-6103-4BD4-85C1-D3BCB7E7FFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280CFF43-6103-4BD4-85C1-D3BCB7E7FFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C22ABF85-2210-4303-8171-93DF3EC38137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22ABF85-2210-4303-8171-93DF3EC38137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22ABF85-2210-4303-8171-93DF3EC38137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22ABF85-2210-4303-8171-93DF3EC38137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA9D5F2-B8C9-4481-85A7-155137720AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA9D5F2-B8C9-4481-85A7-155137720AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA9D5F2-B8C9-4481-85A7-155137720AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA9D5F2-B8C9-4481-85A7-155137720AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0176AF-0153-4D3A-A88C-151BA0DC20B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0176AF-0153-4D3A-A88C-151BA0DC20B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0176AF-0153-4D3A-A88C-151BA0DC20B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0176AF-0153-4D3A-A88C-151BA0DC20B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4091C99-C675-45C2-9237-7E89F7ADC713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4091C99-C675-45C2-9237-7E89F7ADC713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4091C99-C675-45C2-9237-7E89F7ADC713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4091C99-C675-45C2-9237-7E89F7ADC713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D28065-4D3F-4E86-87DC-46DB09C45E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D28065-4D3F-4E86-87DC-46DB09C45E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D28065-4D3F-4E86-87DC-46DB09C45E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D28065-4D3F-4E86-87DC-46DB09C45E9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98623F72-4679-407A-97A3-566554CE7EEA}
 	EndGlobalSection
 EndGlobal

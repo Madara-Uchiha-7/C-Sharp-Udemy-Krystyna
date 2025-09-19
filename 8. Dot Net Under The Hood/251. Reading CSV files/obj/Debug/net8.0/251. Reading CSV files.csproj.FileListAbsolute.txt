@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\bin\Debug\net8.0\251. Reading CSV files.exe
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\bin\Debug\net8.0\251. Reading CSV files.deps.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\bin\Debug\net8.0\251. Reading CSV files.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\bin\Debug\net8.0\251. Reading CSV files.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\bin\Debug\net8.0\251. Reading CSV files.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\obj\Debug\net8.0\251. Reading CSV files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\obj\Debug\net8.0\251. Reading CSV files.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\obj\Debug\net8.0\251. Reading CSV files.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\obj\Debug\net8.0\251. Reading CSV files.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\obj\Debug\net8.0\251. Reading CSV files.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\obj\Debug\net8.0\251. Reading CSV files.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\obj\Debug\net8.0\refint\251. Reading CSV files.dll
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\obj\Debug\net8.0\251. Reading CSV files.pdb
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\obj\Debug\net8.0\251. Reading CSV files.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\8. Dot Net Under The Hood\251. Reading CSV files\obj\Debug\net8.0\ref\251. Reading CSV files.dll

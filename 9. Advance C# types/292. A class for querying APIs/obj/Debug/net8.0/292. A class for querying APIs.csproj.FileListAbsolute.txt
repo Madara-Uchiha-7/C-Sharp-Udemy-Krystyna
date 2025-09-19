@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\bin\Debug\net8.0\292. A class for querying APIs.exe
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\bin\Debug\net8.0\292. A class for querying APIs.deps.json
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\bin\Debug\net8.0\292. A class for querying APIs.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\bin\Debug\net8.0\292. A class for querying APIs.dll
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\bin\Debug\net8.0\292. A class for querying APIs.pdb
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\obj\Debug\net8.0\292. A class for querying APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\obj\Debug\net8.0\292. A class for querying APIs.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\obj\Debug\net8.0\292. A class for querying APIs.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\obj\Debug\net8.0\292. A class for querying APIs.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\obj\Debug\net8.0\292. A class for querying APIs.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\obj\Debug\net8.0\292. A class for querying APIs.dll
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\obj\Debug\net8.0\refint\292. A class for querying APIs.dll
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\obj\Debug\net8.0\292. A class for querying APIs.pdb
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\obj\Debug\net8.0\292. A class for querying APIs.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\292. A class for querying APIs\obj\Debug\net8.0\ref\292. A class for querying APIs.dll

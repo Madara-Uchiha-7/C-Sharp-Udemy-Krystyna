@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("257. Limitations of attributes parameters types")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01c4a59d7bc77c18d79ad78deaa4c6d11eaa4d82")]
 [assembly: System.Reflection.AssemblyProductAttribute("257. Limitations of attributes parameters types")]
 [assembly: System.Reflection.AssemblyTitleAttribute("257. Limitations of attributes parameters types")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

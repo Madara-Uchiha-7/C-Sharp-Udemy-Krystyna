@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\bin\Debug\net8.0\282. ValueTuples.exe
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\bin\Debug\net8.0\282. ValueTuples.deps.json
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\bin\Debug\net8.0\282. ValueTuples.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\bin\Debug\net8.0\282. ValueTuples.dll
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\bin\Debug\net8.0\282. ValueTuples.pdb
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\obj\Debug\net8.0\282. ValueTuples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\obj\Debug\net8.0\282. ValueTuples.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\obj\Debug\net8.0\282. ValueTuples.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\obj\Debug\net8.0\282. ValueTuples.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\obj\Debug\net8.0\282. ValueTuples.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\obj\Debug\net8.0\282. ValueTuples.dll
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\obj\Debug\net8.0\refint\282. ValueTuples.dll
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\obj\Debug\net8.0\282. ValueTuples.pdb
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\obj\Debug\net8.0\282. ValueTuples.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\9. Advance C# types\282. ValueTuples\obj\Debug\net8.0\ref\282. ValueTuples.dll

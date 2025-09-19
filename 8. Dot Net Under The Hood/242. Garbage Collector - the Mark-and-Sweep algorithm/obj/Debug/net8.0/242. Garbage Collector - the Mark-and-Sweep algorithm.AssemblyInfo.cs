@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("242. Garbage Collector - the Mark-and-Sweep algorithm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df625bd80cda518dd3983f00e8bbf424b2cf70d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01c4a59d7bc77c18d79ad78deaa4c6d11eaa4d82")]
 [assembly: System.Reflection.AssemblyProductAttribute("242. Garbage Collector - the Mark-and-Sweep algorithm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("242. Garbage Collector - the Mark-and-Sweep algorithm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
