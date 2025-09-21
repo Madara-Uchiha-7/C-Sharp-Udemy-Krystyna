@@ -1,0 +1,14 @@
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\obj\Debug\net8.0\399. A need for communication between objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\obj\Debug\net8.0\399. A need for communication between objects.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\obj\Debug\net8.0\399. A need for communication between objects.AssemblyInfo.cs
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\obj\Debug\net8.0\399. A need for communication between objects.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\bin\Debug\net8.0\399. A need for communication between objects.exe
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\bin\Debug\net8.0\399. A need for communication between objects.deps.json
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\bin\Debug\net8.0\399. A need for communication between objects.runtimeconfig.json
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\bin\Debug\net8.0\399. A need for communication between objects.dll
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\bin\Debug\net8.0\399. A need for communication between objects.pdb
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\obj\Debug\net8.0\399. A need for communication between objects.dll
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\obj\Debug\net8.0\refint\399. A need for communication between objects.dll
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\obj\Debug\net8.0\399. A need for communication between objects.pdb
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\obj\Debug\net8.0\399. A need for communication between objects.genruntimeconfig.cache
+C:\Users\chinm\source\repos\14. Events\399. A need for communication between objects\obj\Debug\net8.0\ref\399. A need for communication between objects.dll

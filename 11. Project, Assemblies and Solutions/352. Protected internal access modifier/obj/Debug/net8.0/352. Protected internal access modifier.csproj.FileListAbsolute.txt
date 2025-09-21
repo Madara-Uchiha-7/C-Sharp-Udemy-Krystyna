@@ -1,0 +1,5 @@
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\352. Protected internal access modifier\obj\Debug\net8.0\352. Protected internal access modifier.csproj.AssemblyReference.cache
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\352. Protected internal access modifier\obj\Debug\net8.0\352. Protected internal access modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\352. Protected internal access modifier\obj\Debug\net8.0\352. Protected internal access modifier.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\352. Protected internal access modifier\obj\Debug\net8.0\352. Protected internal access modifier.AssemblyInfo.cs
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\352. Protected internal access modifier\obj\Debug\net8.0\352. Protected internal access modifier.csproj.CoreCompileInputs.cache

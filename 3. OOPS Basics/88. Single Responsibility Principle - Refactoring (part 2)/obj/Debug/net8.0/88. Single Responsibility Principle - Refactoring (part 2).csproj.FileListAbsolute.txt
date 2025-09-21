@@ -1,0 +1,14 @@
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\bin\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).exe
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\bin\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).deps.json
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\bin\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).runtimeconfig.json
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\bin\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).dll
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\bin\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).pdb
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\obj\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\obj\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\obj\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).AssemblyInfo.cs
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\obj\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\obj\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).dll
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\obj\Debug\net8.0\refint\88. Single Responsibility Principle - Refactoring (part 2).dll
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\obj\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).pdb
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\obj\Debug\net8.0\88. Single Responsibility Principle - Refactoring (part 2).genruntimeconfig.cache
+C:\Users\chinm\source\repos\OOPS Basics\88. Single Responsibility Principle - Refactoring (part 2)\obj\Debug\net8.0\ref\88. Single Responsibility Principle - Refactoring (part 2).dll

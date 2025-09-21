@@ -1,0 +1,14 @@
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\obj\Debug\net8.0\81. Properties Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\obj\Debug\net8.0\81. Properties Exercise.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\obj\Debug\net8.0\81. Properties Exercise.AssemblyInfo.cs
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\obj\Debug\net8.0\81. Properties Exercise.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\bin\Debug\net8.0\81. Properties Exercise.exe
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\bin\Debug\net8.0\81. Properties Exercise.deps.json
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\bin\Debug\net8.0\81. Properties Exercise.runtimeconfig.json
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\bin\Debug\net8.0\81. Properties Exercise.dll
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\bin\Debug\net8.0\81. Properties Exercise.pdb
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\obj\Debug\net8.0\81. Properties Exercise.dll
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\obj\Debug\net8.0\refint\81. Properties Exercise.dll
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\obj\Debug\net8.0\81. Properties Exercise.pdb
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\obj\Debug\net8.0\81. Properties Exercise.genruntimeconfig.cache
+C:\Users\chinm\source\repos\OOPS Basics\81. Properties Exercise\obj\Debug\net8.0\ref\81. Properties Exercise.dll

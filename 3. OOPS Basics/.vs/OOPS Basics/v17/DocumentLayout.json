@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0BF662-97BC-40EB-A646-5C418F652709}|83. Computed properties\\83. Computed properties.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\83. computed properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0BF662-97BC-40EB-A646-5C418F652709}|83. Computed properties\\83. Computed properties.csproj|solutionrelative:83. computed properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DA52D5-9A70-4976-96D8-C64444F45F56}|90. Files, namespaces and the using directive\\90. Files, namespaces and the using directive.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\90. files, namespaces and the using directive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DA52D5-9A70-4976-96D8-C64444F45F56}|90. Files, namespaces and the using directive\\90. Files, namespaces and the using directive.csproj|solutionrelative:90. files, namespaces and the using directive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09222460-510A-43D3-A0D5-9BB1CF940544}|91. Global using directives\\91. Global using directives.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\91. global using directives\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09222460-510A-43D3-A0D5-9BB1CF940544}|91. Global using directives\\91. Global using directives.csproj|solutionrelative:91. global using directives\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3B085C-7167-45D2-B5FD-165D28C50924}|86. Single Responsibility Principle - Introduction\\86. Single Responsibility Principle - Introduction.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\86. single responsibility principle - introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3B085C-7167-45D2-B5FD-165D28C50924}|86. Single Responsibility Principle - Introduction\\86. Single Responsibility Principle - Introduction.csproj|solutionrelative:86. single responsibility principle - introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EB8412-9048-43F2-8B90-DFB385841867}|89. Single Responsibility Principle - Refactoring (part 3)\\89. Single Responsibility Principle - Refactoring (part 3).csproj|c:\\users\\chinm\\source\\repos\\oops basics\\89. single responsibility principle - refactoring (part 3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EB8412-9048-43F2-8B90-DFB385841867}|89. Single Responsibility Principle - Refactoring (part 3)\\89. Single Responsibility Principle - Refactoring (part 3).csproj|solutionrelative:89. single responsibility principle - refactoring (part 3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E12428-582A-4217-BD38-B38266A0322B}|88. Single Responsibility Principle - Refactoring (part 2)\\88. Single Responsibility Principle - Refactoring (part 2).csproj|c:\\users\\chinm\\source\\repos\\oops basics\\88. single responsibility principle - refactoring (part 2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E12428-582A-4217-BD38-B38266A0322B}|88. Single Responsibility Principle - Refactoring (part 2)\\88. Single Responsibility Principle - Refactoring (part 2).csproj|solutionrelative:88. single responsibility principle - refactoring (part 2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBBF264-AF98-4BAE-9FD4-3C9D9FBC552D}|87. Single Responsibility Principle - Refactoring (part 1)\\87. Single Responsibility Principle - Refactoring (part 1).csproj|c:\\users\\chinm\\source\\repos\\oops basics\\87. single responsibility principle - refactoring (part 1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBBF264-AF98-4BAE-9FD4-3C9D9FBC552D}|87. Single Responsibility Principle - Refactoring (part 1)\\87. Single Responsibility Principle - Refactoring (part 1).csproj|solutionrelative:87. single responsibility principle - refactoring (part 1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447A7429-7CA6-4FA2-B581-722A2C668177}|Exercise Join and Split\\Exercise Join and Split.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\exercise join and split\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447A7429-7CA6-4FA2-B581-722A2C668177}|Exercise Join and Split\\Exercise Join and Split.csproj|solutionrelative:exercise join and split\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA20790E-E274-4A47-9087-969D8C0420CC}|85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\85. static fields, properties and constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA20790E-E274-4A47-9087-969D8C0420CC}|85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj|solutionrelative:85. static fields, properties and constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38FD705-CA6D-4EC7-BC0F-0FA3C510AA09}|82. Object initializers\\82. Object initializers.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\82. object initializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38FD705-CA6D-4EC7-BC0F-0FA3C510AA09}|82. Object initializers\\82. Object initializers.csproj|solutionrelative:82. object initializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536DB31A-B668-4399-A7A8-D93089AA2D9B}|83. Computed properties Exercise\\83. Computed properties Exercise.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\83. computed properties exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536DB31A-B668-4399-A7A8-D93089AA2D9B}|83. Computed properties Exercise\\83. Computed properties Exercise.csproj|solutionrelative:83. computed properties exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E0E498-16FA-4F53-BF25-9ED353AA9605}|84. Static methods and classes\\84. Static methods and classes.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\84. static methods and classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E0E498-16FA-4F53-BF25-9ED353AA9605}|84. Static methods and classes\\84. Static methods and classes.csproj|solutionrelative:84. static methods and classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\91. Global using directives\\Program.cs",
+              "RelativeDocumentMoniker": "91. Global using directives\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\91. Global using directives\\Program.cs",
+              "RelativeToolTip": "91. Global using directives\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:22:45.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\90. Files, namespaces and the using directive\\Program.cs",
+              "RelativeDocumentMoniker": "90. Files, namespaces and the using directive\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\90. Files, namespaces and the using directive\\Program.cs",
+              "RelativeToolTip": "90. Files, namespaces and the using directive\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:42:56.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
+              "RelativeDocumentMoniker": "89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
+              "RelativeToolTip": "89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:35:03.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
+              "RelativeDocumentMoniker": "88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
+              "RelativeToolTip": "88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwFAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:09:51.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
+              "RelativeDocumentMoniker": "87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
+              "RelativeToolTip": "87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:50:27.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\86. Single Responsibility Principle - Introduction\\Program.cs",
+              "RelativeDocumentMoniker": "86. Single Responsibility Principle - Introduction\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\86. Single Responsibility Principle - Introduction\\Program.cs",
+              "RelativeToolTip": "86. Single Responsibility Principle - Introduction\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:15:17.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\Exercise Join and Split\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise Join and Split\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\Exercise Join and Split\\Program.cs",
+              "RelativeToolTip": "Exercise Join and Split\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:42:09.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\82. Object initializers\\Program.cs",
+              "RelativeDocumentMoniker": "82. Object initializers\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\82. Object initializers\\Program.cs",
+              "RelativeToolTip": "82. Object initializers\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T05:21:50.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\83. Computed properties Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "83. Computed properties Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\83. Computed properties Exercise\\Program.cs",
+              "RelativeToolTip": "83. Computed properties Exercise\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T05:21:23.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\83. Computed properties\\Program.cs",
+              "RelativeDocumentMoniker": "83. Computed properties\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\83. Computed properties\\Program.cs",
+              "RelativeToolTip": "83. Computed properties\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T05:21:16.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\84. Static methods and classes\\Program.cs",
+              "RelativeDocumentMoniker": "84. Static methods and classes\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\84. Static methods and classes\\Program.cs",
+              "RelativeToolTip": "84. Static methods and classes\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T05:21:04.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\85. Static fields, properties and constructors\\Program.cs",
+              "RelativeDocumentMoniker": "85. Static fields, properties and constructors\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\85. Static fields, properties and constructors\\Program.cs",
+              "RelativeToolTip": "85. Static fields, properties and constructors\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:57:35.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

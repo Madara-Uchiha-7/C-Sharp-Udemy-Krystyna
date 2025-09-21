@@ -1,0 +1,18 @@
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\bin\Debug\net8.0\349. Referencing types from another assembly.exe
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\bin\Debug\net8.0\349. Referencing types from another assembly.deps.json
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\bin\Debug\net8.0\349. Referencing types from another assembly.runtimeconfig.json
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\bin\Debug\net8.0\349. Referencing types from another assembly.dll
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\bin\Debug\net8.0\349. Referencing types from another assembly.pdb
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\bin\Debug\net8.0\349_1. Utilities.dll
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\bin\Debug\net8.0\349_1. Utilities.pdb
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\obj\Debug\net8.0\349. Referencing types from another assembly.csproj.AssemblyReference.cache
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\obj\Debug\net8.0\349. Referencing types from another assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\obj\Debug\net8.0\349. Referencing types from another assembly.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\obj\Debug\net8.0\349. Referencing types from another assembly.AssemblyInfo.cs
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\obj\Debug\net8.0\349. Referencing types from another assembly.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\obj\Debug\net8.0\349. Ref.DB6F2F45.Up2Date
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\obj\Debug\net8.0\349. Referencing types from another assembly.dll
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\obj\Debug\net8.0\refint\349. Referencing types from another assembly.dll
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\obj\Debug\net8.0\349. Referencing types from another assembly.pdb
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\obj\Debug\net8.0\349. Referencing types from another assembly.genruntimeconfig.cache
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349. Referencing types from another assembly\obj\Debug\net8.0\ref\349. Referencing types from another assembly.dll

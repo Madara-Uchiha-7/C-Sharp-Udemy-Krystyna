@@ -1,0 +1,11 @@
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349_1. Utilities\bin\Debug\net8.0\349_1. Utilities.deps.json
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349_1. Utilities\bin\Debug\net8.0\349_1. Utilities.dll
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349_1. Utilities\bin\Debug\net8.0\349_1. Utilities.pdb
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349_1. Utilities\obj\Debug\net8.0\349_1. Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349_1. Utilities\obj\Debug\net8.0\349_1. Utilities.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349_1. Utilities\obj\Debug\net8.0\349_1. Utilities.AssemblyInfo.cs
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349_1. Utilities\obj\Debug\net8.0\349_1. Utilities.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349_1. Utilities\obj\Debug\net8.0\349_1. Utilities.dll
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349_1. Utilities\obj\Debug\net8.0\refint\349_1. Utilities.dll
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349_1. Utilities\obj\Debug\net8.0\349_1. Utilities.pdb
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\349_1. Utilities\obj\Debug\net8.0\ref\349_1. Utilities.dll

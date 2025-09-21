@@ -1,0 +1,4 @@
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\351. Internal access modifier\obj\Debug\net8.0\351. Internal access modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\351. Internal access modifier\obj\Debug\net8.0\351. Internal access modifier.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\351. Internal access modifier\obj\Debug\net8.0\351. Internal access modifier.AssemblyInfo.cs
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\351. Internal access modifier\obj\Debug\net8.0\351. Internal access modifier.csproj.CoreCompileInputs.cache

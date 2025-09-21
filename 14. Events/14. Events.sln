@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "399. A need for communication between objects", "399. A need for communication between objects\399. A need for communication between objects.csproj", "{2F886825-7874-4C67-91AD-47AAC81B178D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "400. A need for the Observer design pattern", "400. A need for the Observer design pattern\400. A need for the Observer design pattern.csproj", "{5D08C2D6-A87F-4F91-B9F5-C9DC1257EF57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "401. Observer design pattern", "401. Observer design pattern\401. Observer design pattern.csproj", "{86C80B5C-DB34-43E4-B005-7B4533DD4DC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "402. Defining an event and subscribing to it", "402. Defining an event and subscribing to it\402. Defining an event and subscribing to it.csproj", "{669DA179-8DCE-4B70-95E4-99AA03640B34}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "402_1. Defining an event and subscribing to it", "402_1. Defining an event and subscribing to it\402_1. Defining an event and subscribing to it.csproj", "{8AE0E176-606C-40A8-8346-FA9DF7222D07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "403. Raising events", "403. Raising events\403. Raising events.csproj", "{39CC013F-B8C7-4191-AC99-A6BD5974B830}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "404. EventHandler delegate & EventArgs type", "404. EventHandler delegate & EventArgs type\404. EventHandler delegate & EventArgs type.csproj", "{95FD3A6C-FE79-4F73-9020-AFF11A3609DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "405. Event vs delegate members", "405. Event vs delegate members\405. Event vs delegate members.csproj", "{BEA75FAD-A697-41E5-912C-EF17A0B65965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "406. Memory leaks caused by events", "406. Memory leaks caused by events\406. Memory leaks caused by events.csproj", "{D245684C-BEDF-4F03-BFE4-1602D488FA35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F886825-7874-4C67-91AD-47AAC81B178D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F886825-7874-4C67-91AD-47AAC81B178D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F886825-7874-4C67-91AD-47AAC81B178D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F886825-7874-4C67-91AD-47AAC81B178D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D08C2D6-A87F-4F91-B9F5-C9DC1257EF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D08C2D6-A87F-4F91-B9F5-C9DC1257EF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D08C2D6-A87F-4F91-B9F5-C9DC1257EF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D08C2D6-A87F-4F91-B9F5-C9DC1257EF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C80B5C-DB34-43E4-B005-7B4533DD4DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C80B5C-DB34-43E4-B005-7B4533DD4DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C80B5C-DB34-43E4-B005-7B4533DD4DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C80B5C-DB34-43E4-B005-7B4533DD4DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669DA179-8DCE-4B70-95E4-99AA03640B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669DA179-8DCE-4B70-95E4-99AA03640B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669DA179-8DCE-4B70-95E4-99AA03640B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669DA179-8DCE-4B70-95E4-99AA03640B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE0E176-606C-40A8-8346-FA9DF7222D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE0E176-606C-40A8-8346-FA9DF7222D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE0E176-606C-40A8-8346-FA9DF7222D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE0E176-606C-40A8-8346-FA9DF7222D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CC013F-B8C7-4191-AC99-A6BD5974B830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CC013F-B8C7-4191-AC99-A6BD5974B830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CC013F-B8C7-4191-AC99-A6BD5974B830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CC013F-B8C7-4191-AC99-A6BD5974B830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95FD3A6C-FE79-4F73-9020-AFF11A3609DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FD3A6C-FE79-4F73-9020-AFF11A3609DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FD3A6C-FE79-4F73-9020-AFF11A3609DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FD3A6C-FE79-4F73-9020-AFF11A3609DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA75FAD-A697-41E5-912C-EF17A0B65965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA75FAD-A697-41E5-912C-EF17A0B65965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA75FAD-A697-41E5-912C-EF17A0B65965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA75FAD-A697-41E5-912C-EF17A0B65965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D245684C-BEDF-4F03-BFE4-1602D488FA35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D245684C-BEDF-4F03-BFE4-1602D488FA35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D245684C-BEDF-4F03-BFE4-1602D488FA35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D245684C-BEDF-4F03-BFE4-1602D488FA35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {634C1008-7F83-44FE-B8D7-F9AB6601AE97}
+	EndGlobalSection
+EndGlobal

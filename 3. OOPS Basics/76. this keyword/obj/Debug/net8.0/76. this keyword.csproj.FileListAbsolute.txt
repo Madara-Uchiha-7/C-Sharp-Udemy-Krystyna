@@ -1,0 +1,4 @@
+C:\Users\chinm\source\repos\OOPS Basics\76. this keyword\obj\Debug\net8.0\76. this keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\OOPS Basics\76. this keyword\obj\Debug\net8.0\76. this keyword.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\OOPS Basics\76. this keyword\obj\Debug\net8.0\76. this keyword.AssemblyInfo.cs
+C:\Users\chinm\source\repos\OOPS Basics\76. this keyword\obj\Debug\net8.0\76. this keyword.csproj.CoreCompileInputs.cache

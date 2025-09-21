@@ -1,0 +1,14 @@
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\bin\Debug\net8.0\90. Files, namespaces and the using directive.exe
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\bin\Debug\net8.0\90. Files, namespaces and the using directive.deps.json
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\bin\Debug\net8.0\90. Files, namespaces and the using directive.runtimeconfig.json
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\bin\Debug\net8.0\90. Files, namespaces and the using directive.dll
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\bin\Debug\net8.0\90. Files, namespaces and the using directive.pdb
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\obj\Debug\net8.0\90. Files, namespaces and the using directive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\obj\Debug\net8.0\90. Files, namespaces and the using directive.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\obj\Debug\net8.0\90. Files, namespaces and the using directive.AssemblyInfo.cs
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\obj\Debug\net8.0\90. Files, namespaces and the using directive.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\obj\Debug\net8.0\90. Files, namespaces and the using directive.dll
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\obj\Debug\net8.0\refint\90. Files, namespaces and the using directive.dll
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\obj\Debug\net8.0\90. Files, namespaces and the using directive.pdb
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\obj\Debug\net8.0\90. Files, namespaces and the using directive.genruntimeconfig.cache
+C:\Users\chinm\source\repos\OOPS Basics\90. Files, namespaces and the using directive\obj\Debug\net8.0\ref\90. Files, namespaces and the using directive.dll

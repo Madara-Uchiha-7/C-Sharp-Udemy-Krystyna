@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_349._Referencing_types_from_another_assembly</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="349_1. Utilities">
+      <HintPath>..\349_1. Utilities\bin\Debug\net8.0\349_1. Utilities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\chinm\source\repos\14. Events\403. Raising events\bin\Debug\net8.0\403. Raising events.exe
+C:\Users\chinm\source\repos\14. Events\403. Raising events\bin\Debug\net8.0\403. Raising events.deps.json
+C:\Users\chinm\source\repos\14. Events\403. Raising events\bin\Debug\net8.0\403. Raising events.runtimeconfig.json
+C:\Users\chinm\source\repos\14. Events\403. Raising events\bin\Debug\net8.0\403. Raising events.dll
+C:\Users\chinm\source\repos\14. Events\403. Raising events\bin\Debug\net8.0\403. Raising events.pdb
+C:\Users\chinm\source\repos\14. Events\403. Raising events\obj\Debug\net8.0\403. Raising events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\14. Events\403. Raising events\obj\Debug\net8.0\403. Raising events.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\14. Events\403. Raising events\obj\Debug\net8.0\403. Raising events.AssemblyInfo.cs
+C:\Users\chinm\source\repos\14. Events\403. Raising events\obj\Debug\net8.0\403. Raising events.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\14. Events\403. Raising events\obj\Debug\net8.0\403. Raising events.dll
+C:\Users\chinm\source\repos\14. Events\403. Raising events\obj\Debug\net8.0\refint\403. Raising events.dll
+C:\Users\chinm\source\repos\14. Events\403. Raising events\obj\Debug\net8.0\403. Raising events.pdb
+C:\Users\chinm\source\repos\14. Events\403. Raising events\obj\Debug\net8.0\403. Raising events.genruntimeconfig.cache
+C:\Users\chinm\source\repos\14. Events\403. Raising events\obj\Debug\net8.0\ref\403. Raising events.dll

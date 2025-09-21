@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chinm\\source\\repos\\14. Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D245684C-BEDF-4F03-BFE4-1602D488FA35}|406. Memory leaks caused by events\\406. Memory leaks caused by events.csproj|c:\\users\\chinm\\source\\repos\\14. events\\406. memory leaks caused by events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D245684C-BEDF-4F03-BFE4-1602D488FA35}|406. Memory leaks caused by events\\406. Memory leaks caused by events.csproj|solutionrelative:406. memory leaks caused by events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FD3A6C-FE79-4F73-9020-AFF11A3609DC}|404. EventHandler delegate \u0026 EventArgs type\\404. EventHandler delegate \u0026 EventArgs type.csproj|c:\\users\\chinm\\source\\repos\\14. events\\404. eventhandler delegate \u0026 eventargs type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FD3A6C-FE79-4F73-9020-AFF11A3609DC}|404. EventHandler delegate \u0026 EventArgs type\\404. EventHandler delegate \u0026 EventArgs type.csproj|solutionrelative:404. eventhandler delegate \u0026 eventargs type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA75FAD-A697-41E5-912C-EF17A0B65965}|405. Event vs delegate members\\405. Event vs delegate members.csproj|c:\\users\\chinm\\source\\repos\\14. events\\405. event vs delegate members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA75FAD-A697-41E5-912C-EF17A0B65965}|405. Event vs delegate members\\405. Event vs delegate members.csproj|solutionrelative:405. event vs delegate members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CC013F-B8C7-4191-AC99-A6BD5974B830}|403. Raising events\\403. Raising events.csproj|c:\\users\\chinm\\source\\repos\\14. events\\403. raising events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CC013F-B8C7-4191-AC99-A6BD5974B830}|403. Raising events\\403. Raising events.csproj|solutionrelative:403. raising events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE0E176-606C-40A8-8346-FA9DF7222D07}|402_1. Defining an event and subscribing to it\\402_1. Defining an event and subscribing to it.csproj|c:\\users\\chinm\\source\\repos\\14. events\\402_1. defining an event and subscribing to it\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE0E176-606C-40A8-8346-FA9DF7222D07}|402_1. Defining an event and subscribing to it\\402_1. Defining an event and subscribing to it.csproj|solutionrelative:402_1. defining an event and subscribing to it\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F886825-7874-4C67-91AD-47AAC81B178D}|399. A need for communication between objects\\399. A need for communication between objects.csproj|c:\\users\\chinm\\source\\repos\\14. events\\399. a need for communication between objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F886825-7874-4C67-91AD-47AAC81B178D}|399. A need for communication between objects\\399. A need for communication between objects.csproj|solutionrelative:399. a need for communication between objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669DA179-8DCE-4B70-95E4-99AA03640B34}|402. Defining an event and subscribing to it\\402. Defining an event and subscribing to it.csproj|c:\\users\\chinm\\source\\repos\\14. events\\402. defining an event and subscribing to it\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669DA179-8DCE-4B70-95E4-99AA03640B34}|402. Defining an event and subscribing to it\\402. Defining an event and subscribing to it.csproj|solutionrelative:402. defining an event and subscribing to it\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C80B5C-DB34-43E4-B005-7B4533DD4DC1}|401. Observer design pattern\\401. Observer design pattern.csproj|c:\\users\\chinm\\source\\repos\\14. events\\401. observer design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C80B5C-DB34-43E4-B005-7B4533DD4DC1}|401. Observer design pattern\\401. Observer design pattern.csproj|solutionrelative:401. observer design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D08C2D6-A87F-4F91-B9F5-C9DC1257EF57}|400. A need for the Observer design pattern\\400. A need for the Observer design pattern.csproj|c:\\users\\chinm\\source\\repos\\14. events\\400. a need for the observer design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D08C2D6-A87F-4F91-B9F5-C9DC1257EF57}|400. A need for the Observer design pattern\\400. A need for the Observer design pattern.csproj|solutionrelative:400. a need for the observer design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\14. Events\\406. Memory leaks caused by events\\Program.cs",
+              "RelativeDocumentMoniker": "406. Memory leaks caused by events\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\14. Events\\406. Memory leaks caused by events\\Program.cs",
+              "RelativeToolTip": "406. Memory leaks caused by events\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:59:45.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\14. Events\\405. Event vs delegate members\\Program.cs",
+              "RelativeDocumentMoniker": "405. Event vs delegate members\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\14. Events\\405. Event vs delegate members\\Program.cs",
+              "RelativeToolTip": "405. Event vs delegate members\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:50:46.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\14. Events\\404. EventHandler delegate \u0026 EventArgs type\\Program.cs",
+              "RelativeDocumentMoniker": "404. EventHandler delegate \u0026 EventArgs type\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\14. Events\\404. EventHandler delegate \u0026 EventArgs type\\Program.cs",
+              "RelativeToolTip": "404. EventHandler delegate \u0026 EventArgs type\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:02:05.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\14. Events\\403. Raising events\\Program.cs",
+              "RelativeDocumentMoniker": "403. Raising events\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\14. Events\\403. Raising events\\Program.cs",
+              "RelativeToolTip": "403. Raising events\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:08:33.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\14. Events\\402_1. Defining an event and subscribing to it\\Program.cs",
+              "RelativeDocumentMoniker": "402_1. Defining an event and subscribing to it\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\14. Events\\402_1. Defining an event and subscribing to it\\Program.cs",
+              "RelativeToolTip": "402_1. Defining an event and subscribing to it\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:59:40.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\14. Events\\402. Defining an event and subscribing to it\\Program.cs",
+              "RelativeDocumentMoniker": "402. Defining an event and subscribing to it\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\14. Events\\402. Defining an event and subscribing to it\\Program.cs",
+              "RelativeToolTip": "402. Defining an event and subscribing to it\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:45:58.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\14. Events\\401. Observer design pattern\\Program.cs",
+              "RelativeDocumentMoniker": "401. Observer design pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\14. Events\\401. Observer design pattern\\Program.cs",
+              "RelativeToolTip": "401. Observer design pattern\\Program.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAJMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:15:30.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\14. Events\\400. A need for the Observer design pattern\\Program.cs",
+              "RelativeDocumentMoniker": "400. A need for the Observer design pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\14. Events\\400. A need for the Observer design pattern\\Program.cs",
+              "RelativeToolTip": "400. A need for the Observer design pattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:13:34.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\14. Events\\399. A need for communication between objects\\Program.cs",
+              "RelativeDocumentMoniker": "399. A need for communication between objects\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\14. Events\\399. A need for communication between objects\\Program.cs",
+              "RelativeToolTip": "399. A need for communication between objects\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:13:33.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

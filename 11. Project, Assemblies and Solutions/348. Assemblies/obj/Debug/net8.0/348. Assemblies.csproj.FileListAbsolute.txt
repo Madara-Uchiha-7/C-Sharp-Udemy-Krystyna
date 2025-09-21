@@ -1,0 +1,4 @@
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\348. Assemblies\obj\Debug\net8.0\348. Assemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\348. Assemblies\obj\Debug\net8.0\348. Assemblies.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\348. Assemblies\obj\Debug\net8.0\348. Assemblies.AssemblyInfo.cs
+C:\Users\chinm\source\repos\11. Project, Assemblies and Solutions\348. Assemblies\obj\Debug\net8.0\348. Assemblies.csproj.CoreCompileInputs.cache

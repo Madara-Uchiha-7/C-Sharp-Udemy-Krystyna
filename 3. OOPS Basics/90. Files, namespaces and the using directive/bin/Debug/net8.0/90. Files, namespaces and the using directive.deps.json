@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "90. Files, namespaces and the using directive/1.0.0": {
+        "runtime": {
+          "90. Files, namespaces and the using directive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "90. Files, namespaces and the using directive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
