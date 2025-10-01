@@ -1,0 +1,19 @@
+class A
+{
+
+}
+class B : A
+{
+
+}
+class C : B
+{
+
+}
+class D : B
+{
+
+}
+We can still use the Class A object as a general type which will point to C and D because
+C and D inherits B which inherits A.
+

@@ -1,0 +1,10 @@
+All the classes are derived from System.Object type.
+So that we can access ToString() and GetType()
+
+Console.WriteLine(CustomClassObjectName);
+
+This will print the name of the class. 
+Because WriteLine Method takes the object as the argument 
+And in that logic it uses ToString() method.
+
+We can override this ToString method.

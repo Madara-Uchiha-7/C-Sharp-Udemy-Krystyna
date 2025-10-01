@@ -1,0 +1,14 @@
+1. You can assign null to the types. 
+
+2. You cannot use NULL with var keyword. 
+
+3. You can check if type is null or not as follows:
+objName != null 
+or 
+object is not null
+
+4. If someone overload the != operator then we cannot use it like point 3. 
+We cannot overload "is not" operator. 
+
+5. Not all types can be assigned null. For example int, Numbers, boolean and DateTime. 
+They have their own default values. 

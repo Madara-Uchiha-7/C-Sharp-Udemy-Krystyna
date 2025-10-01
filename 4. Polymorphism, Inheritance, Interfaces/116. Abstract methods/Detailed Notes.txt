@@ -1,0 +1,20 @@
+1. Abstract methods can be defined only in the abstract classes.
+
+access_modifier abstract type methodname();
+
+2. These methods does not have the implemenatations.
+
+3. That is their bodies are empty, so there will be no {} and there will be ; after ()
+
+4.  All the abstract methods are implicitly virtual. So adding virtual keyword will cause error.
+
+5. We must have to override these methods in all child non-abstract classes.
+
+6. We can skip the overriding of the abstract method if the child class is also abstract.
+
+
+Note:
+I added non abstract method in the abstract class that is a method with the implementation without the abstract keyword
+and virtual keyword.
+Then I got the compilation error in the derived classes. 
+To remove this error I added the same method which I added in the base class Without the override keyboard. 

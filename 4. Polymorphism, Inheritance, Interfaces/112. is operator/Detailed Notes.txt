@@ -1,0 +1,9 @@
+"hi" is string : True
+"hi" is object : True
+"hi" is int : False
+
+GeneralTypeName is ChildClassName : 
+This is also possible.  This way we can check if general type points to the derived class or not. 
+While downcasting if we try to downcast the GeneralTypeName to ChildClass while GeneralTypeName does not points to
+that ChildClass then error will come.
+In such cases this "is" operator in helpful.

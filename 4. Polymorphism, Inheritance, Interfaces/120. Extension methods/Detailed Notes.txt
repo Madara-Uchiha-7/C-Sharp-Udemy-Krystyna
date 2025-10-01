@@ -1,0 +1,27 @@
+1. String class is a sealed class.
+
+2. Lets say there is a class which does not have one method which you need to add it
+in that class.
+But what if ther class is from Standard Library or some open source library.
+Here we have 2 choices:
+    1. We can create own class derived from the class you want to extend.
+    and add the method. But their is a possibility that the parent class is sealed. 
+    2. Extension methods allows us to seemingly add methods to an existing
+    type without modifying this type's source code.
+
+3. Extension methods can only be defined in static classes.
+
+4. Extension method itself must have to static.
+
+5. It is a good practice to have a seperate class for each extended type. 
+
+public static class TypeNameExtensions
+{
+    public static return_type MethodName(this TypeInWhichYouWantToAddThisExtentionMethod input) => 
+        input.Split(Environment.NewLine).Length;
+}
+
+TypeInWhichYouWantToAddThisExtentionMethod: If you add a string, then it becomes the extension method for string type.
+
+The parameter of the extended type must always be the first parameter. 
+So if you want to add more parameters then they must be after it.

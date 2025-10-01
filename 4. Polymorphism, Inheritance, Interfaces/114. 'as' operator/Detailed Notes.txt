@@ -1,0 +1,9 @@
+"as" Operator can be used In the down Casting or Explicit Casting.
+
+DerivedClassName derivedClassVariableName = GeneralTypeName as DerivedClassName;
+
+If you're using this operator then exception will not come and result will simply be null. 
+While if you decide to go with other syntax then exception will come. 
+
+If you're using this operator then make sure to add the null checks. 
+

@@ -1,0 +1,4 @@
+1. General type is called as the upcasting. 
+
+2. If we assign the object of base class to the derived class then it is called the downcasting. 
+ChildClassA variableNameForChildClassA = (ChildClassA) generalType;

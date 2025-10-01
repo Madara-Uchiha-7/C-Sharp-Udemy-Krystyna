@@ -1,0 +1,6 @@
+1. We cannot derive more than one class. 
+That is, there cannot be two bese classes at the same time. 
+
+C->B->A is allowed but C->B and C->A is not.
+
+It is possible that two best classes can have same properties or methods which can cause the confusion. So this is not allowed. 

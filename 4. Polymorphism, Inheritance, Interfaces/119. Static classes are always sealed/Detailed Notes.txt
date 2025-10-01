@@ -1,0 +1,9 @@
+1. All static classes are implicitly sealed.
+So we can not have the classes derived from them.
+
+2. Static classes contains only static methods.
+and static methods can not be overriden (even if they does not belong to staic class).
+
+3. static methods are not called on instances.
+
+4. static classes can only contain static methods

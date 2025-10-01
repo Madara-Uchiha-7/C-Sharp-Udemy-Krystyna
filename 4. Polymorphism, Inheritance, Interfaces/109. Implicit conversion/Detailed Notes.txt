@@ -1,0 +1,8 @@
+1. C Sharp is statically typed language. So we cannot assign the value of one type to another type. 
+But int can be assigned to decimal. Because it is the loss less conversion and it happens implicitly.  
+
+
+
+
+
+

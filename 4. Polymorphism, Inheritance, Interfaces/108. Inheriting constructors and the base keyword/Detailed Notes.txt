@@ -1,0 +1,13 @@
+1. A default constructor is generated only when parameterized Constructor is not created. 
+
+2. If you create the object of derived class or you create the object of general type which points to the derived class 
+then the constructor of the parent class that is base class will be called before the child class constructor. 
+
+3. Point to will cause the error if base class has the parameterized constructor. 
+Code is in the Program.cs
+
+You need to pass the arguments of the constructor of the base class while creating the 
+new ChildClass()
+
+You need to create the minimum number of parameters in the derived class constructor which we can pass to the base class constructor. 
+

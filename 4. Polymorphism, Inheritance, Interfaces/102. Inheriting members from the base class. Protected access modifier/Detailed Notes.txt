@@ -1,0 +1,5 @@
+1. Protected access modifiers:
+The method which have a protected access modifiers will be available to the derived class only. 
+
+2. Child class or derived class cannot access the private members of the base class. 
+

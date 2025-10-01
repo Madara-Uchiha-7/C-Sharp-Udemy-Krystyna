@@ -1,0 +1,21 @@
+1. Interfaces are used to define a base type for the types exposing methods with same signature.
+
+2. We use interface for those classes which does not share the is-a relationship but share the same behaviour.
+
+3. Prefix with Letter I is the naming convention.
+
+4. In interfaces we only declare methods not the body of methods
+and each type implementing the interface will have the override them.
+
+5. When overriding the method in the child class,
+signature i.e. type, paramaters etc should be same as Interface methods.
+
+6. overrided methods in the child class has to be public.
+
+7. Methods defined in the interface are always implicitely virtual. So dont add virtual keyword manually here.
+
+8. Interfaces can not be instantiated. They are too abstract for that.
+
+9. we can use interface as the General Types as we did for inheritance
+
+10. The C# 8 : added a feature called default implemenations in interfaces. It is considered as the bad change or addition by many C# devs.

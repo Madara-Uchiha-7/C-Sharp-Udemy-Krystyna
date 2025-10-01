@@ -1,0 +1,23 @@
+1. One interface can extend another.
+
+2. So the class implementing the child interface will have to 
+declare all the methods,  i.e. of child and of parent interface.
+
+3. Interfaces can declare methods, properties, events, and indexers.
+
+4. Interfaces cannot contain instance fields, constructors, or destructors.
+
+5. From C# 8.0 onwards, interfaces can contain static members, including static methods, properties, 
+and fields. C# 11 further extends this to include static abstract members.
+
+6. All members of an interface are implicitly public and abstract by default. While C# 8.0 and later versions allow 
+explicit access modifiers (like private, protected, internal), a private member must have a default implementation.
+
+7. Explicit Implementation:
+This approach is used when a class implements multiple interfaces that contain members with the same name, to avoid naming conflicts.
+Syntax requires prefixing the member name with the interface name (e.g., void IFile.ReadFile()).
+
+Explicitly implemented members do not have an access modifier. They can only be accessed by casting the object to the interface type. 
+
+
+

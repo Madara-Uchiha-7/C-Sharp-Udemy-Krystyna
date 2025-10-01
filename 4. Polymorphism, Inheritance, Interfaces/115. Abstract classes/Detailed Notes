@@ -1,0 +1,16 @@
+If you have a class which is a base class but it basically serve as a skeleton for a purpose for the derived classes
+That is Ingredient class is useful for us to have it as it defines things common for any
+kind of ingredient. So, basically you should not be able to create the object of Ingredient itself.
+So it is better to make that class abstract.
+
+Abstract classes can not be instantiated.
+
+They only serve as the base classes for other, more concrete types. You can define it using "abstract" keyword.
+
+access_modifier abstract class ClassName
+{
+
+}
+
+Note that base class can also be still used as a general type. 
+

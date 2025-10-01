@@ -1,0 +1,24 @@
+1. A class whose members are inherited is called base class. 
+2. A class that inherits those members is called derived class. 
+
+class Ingredient
+{
+
+}
+class Pizza : Ingredient
+{
+
+}
+class Sandwich : Ingredient
+{
+
+}
+
+Ingredient is a base class.
+
+Pizza and Sandwich are derived classes.
+
+Pizza is a Ingredient.
+Sandwich is a Ingredient. 
+
+So, this shows us that inheritence is a "is a" relationship.

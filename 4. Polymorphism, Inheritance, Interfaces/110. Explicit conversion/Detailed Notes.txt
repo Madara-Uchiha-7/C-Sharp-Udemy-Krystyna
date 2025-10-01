@@ -1,0 +1,6 @@
+Explicit conversion:
+
+TyepA variableNameForTypeA = (TypeA) variableNameForTypeB/value;
+
+int to string will not work. 
+You will need to use ToString() for that.

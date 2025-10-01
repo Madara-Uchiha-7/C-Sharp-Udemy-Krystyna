@@ -1,0 +1,20 @@
+1. Only virtual and overriden methods can be sealed.
+
+2. You can seal the class also.
+
+3. Use "sealed" keyword.
+access_modifier sealed class className { }
+access_modifier sealed override type methoName() { }
+
+4.  A sealed class cannot be inherited by any other class. Attempting to derive a class from a sealed class will result in a compile-time error.
+
+5.A sealed method, which must also be an override of a virtual method in a base class, 
+cannot be further overridden by any subsequent derived classes in the inheritance chain.
+
+I.e if class A has a derived class B. Class C is the derived class from class B.
+If class B override the class A method, and if class B seals that method then class C can not use class A method.
+
+The sealed keyword can only be applied to a method that is already overriding a virtual or abstract method from a base class. 
+It cannot be applied to a method that is not marked override.
+
+sealed methods are declared in derived classes to stop the inheritance of a specific method's implementation.

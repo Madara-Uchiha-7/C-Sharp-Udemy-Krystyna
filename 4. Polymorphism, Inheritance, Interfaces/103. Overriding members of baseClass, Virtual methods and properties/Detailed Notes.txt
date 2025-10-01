@@ -1,0 +1,21 @@
+1. Base class object can point to the derived class object. 
+BaseClassName objectName = new DerivedClassName();  
+
+Here objectName will be called as the General Type.
+
+2. If you want to access the derived class properties using the general type, then:
+    1. Same property should be present in the base class. 
+
+    2. You need to make base class property virtual. 
+       Virtual tells the compiler that this property may get overridden in the derived class. 
+      
+      Syntax : access_modifier virtual type propertyName
+
+    3. Add override keyword to that property in the derived class. We can skip this keyword. 
+      If we do so, then general type will use the base class property even if it has a virtual keyword present. 
+
+      Syntax : access_modifier override type propertyName
+
+3. Point two applies for the methods also. 
+
+4. We cannot have the virtual fields. 
