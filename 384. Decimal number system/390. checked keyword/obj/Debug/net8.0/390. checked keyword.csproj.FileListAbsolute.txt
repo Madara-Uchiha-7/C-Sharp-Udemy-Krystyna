@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\bin\Debug\net8.0\390. checked keyword.exe
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\bin\Debug\net8.0\390. checked keyword.deps.json
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\bin\Debug\net8.0\390. checked keyword.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\bin\Debug\net8.0\390. checked keyword.dll
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\bin\Debug\net8.0\390. checked keyword.pdb
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\obj\Debug\net8.0\390. checked keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\obj\Debug\net8.0\390. checked keyword.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\obj\Debug\net8.0\390. checked keyword.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\obj\Debug\net8.0\390. checked keyword.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\obj\Debug\net8.0\390. checked keyword.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\obj\Debug\net8.0\390. checked keyword.dll
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\obj\Debug\net8.0\refint\390. checked keyword.dll
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\obj\Debug\net8.0\390. checked keyword.pdb
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\obj\Debug\net8.0\390. checked keyword.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\390. checked keyword\obj\Debug\net8.0\ref\390. checked keyword.dll

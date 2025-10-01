@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\bin\Debug\net8.0\396. Smart usage of binary floating point numbers.exe
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\bin\Debug\net8.0\396. Smart usage of binary floating point numbers.deps.json
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\bin\Debug\net8.0\396. Smart usage of binary floating point numbers.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\bin\Debug\net8.0\396. Smart usage of binary floating point numbers.dll
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\bin\Debug\net8.0\396. Smart usage of binary floating point numbers.pdb
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\obj\Debug\net8.0\396. Smart usage of binary floating point numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\obj\Debug\net8.0\396. Smart usage of binary floating point numbers.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\obj\Debug\net8.0\396. Smart usage of binary floating point numbers.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\obj\Debug\net8.0\396. Smart usage of binary floating point numbers.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\obj\Debug\net8.0\396. Smart usage of binary floating point numbers.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\obj\Debug\net8.0\396. Smart usage of binary floating point numbers.dll
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\obj\Debug\net8.0\refint\396. Smart usage of binary floating point numbers.dll
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\obj\Debug\net8.0\396. Smart usage of binary floating point numbers.pdb
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\obj\Debug\net8.0\396. Smart usage of binary floating point numbers.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\396. Smart usage of binary floating point numbers\obj\Debug\net8.0\ref\396. Smart usage of binary floating point numbers.dll

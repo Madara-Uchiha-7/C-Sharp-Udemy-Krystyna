@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\bin\Debug\net8.0\395. double and float.exe
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\bin\Debug\net8.0\395. double and float.deps.json
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\bin\Debug\net8.0\395. double and float.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\bin\Debug\net8.0\395. double and float.dll
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\bin\Debug\net8.0\395. double and float.pdb
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\obj\Debug\net8.0\395. double and float.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\obj\Debug\net8.0\395. double and float.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\obj\Debug\net8.0\395. double and float.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\obj\Debug\net8.0\395. double and float.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\obj\Debug\net8.0\395. double and float.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\obj\Debug\net8.0\395. double and float.dll
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\obj\Debug\net8.0\refint\395. double and float.dll
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\obj\Debug\net8.0\395. double and float.pdb
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\obj\Debug\net8.0\395. double and float.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\395. double and float\obj\Debug\net8.0\ref\395. double and float.dll

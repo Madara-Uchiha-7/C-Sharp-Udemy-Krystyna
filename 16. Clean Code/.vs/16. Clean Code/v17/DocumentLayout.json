@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9767B068-C9E6-47AE-A4EB-2F882292911F}|463. Tech debt\\463. Tech debt.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\463. tech debt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9767B068-C9E6-47AE-A4EB-2F882292911F}|463. Tech debt\\463. Tech debt.csproj|solutionrelative:463. tech debt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D8BAD-D1B8-46EB-AE7D-6B4EF1D287A1}|462. Bad decisions related to code quality\\462. Bad decisions related to code quality.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\462. bad decisions related to code quality\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0D8BAD-D1B8-46EB-AE7D-6B4EF1D287A1}|462. Bad decisions related to code quality\\462. Bad decisions related to code quality.csproj|solutionrelative:462. bad decisions related to code quality\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50316087-5180-4325-A507-30659115C6DB}|461. Importance of Clean Code\\461. Importance of Clean Code.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\461. importance of clean code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50316087-5180-4325-A507-30659115C6DB}|461. Importance of Clean Code\\461. Importance of Clean Code.csproj|solutionrelative:461. importance of clean code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\463. Tech debt\\Program.cs",
+              "RelativeDocumentMoniker": "463. Tech debt\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\463. Tech debt\\Program.cs",
+              "RelativeToolTip": "463. Tech debt\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:03:28.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\462. Bad decisions related to code quality\\Program.cs",
+              "RelativeDocumentMoniker": "462. Bad decisions related to code quality\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\462. Bad decisions related to code quality\\Program.cs",
+              "RelativeToolTip": "462. Bad decisions related to code quality\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:58:15.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\461. Importance of Clean Code\\Program.cs",
+              "RelativeDocumentMoniker": "461. Importance of Clean Code\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\461. Importance of Clean Code\\Program.cs",
+              "RelativeToolTip": "461. Importance of Clean Code\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:52:16.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

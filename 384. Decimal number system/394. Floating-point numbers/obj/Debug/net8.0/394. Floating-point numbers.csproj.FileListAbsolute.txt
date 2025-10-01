@@ -1,0 +1,5 @@
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\394. Floating-point numbers\obj\Debug\net8.0\394. Floating-point numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\394. Floating-point numbers\obj\Debug\net8.0\394. Floating-point numbers.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\394. Floating-point numbers\obj\Debug\net8.0\394. Floating-point numbers.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\394. Floating-point numbers\obj\Debug\net8.0\394. Floating-point numbers.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\384. Decimal number system\394. Floating-point numbers\obj\Debug\net8.0\394. Floating-point numbers.sourcelink.json

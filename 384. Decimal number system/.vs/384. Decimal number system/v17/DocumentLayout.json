@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32B6CE2F-99F9-494B-A5BD-A31AA2D298B1}|397. Decimal\\397. Decimal.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\397. decimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B6CE2F-99F9-494B-A5BD-A31AA2D298B1}|397. Decimal\\397. Decimal.csproj|solutionrelative:397. decimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98364E-C945-4E20-B5E7-87145D86BC79}|395. double and float\\395. double and float.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\395. double and float\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D98364E-C945-4E20-B5E7-87145D86BC79}|395. double and float\\395. double and float.csproj|solutionrelative:395. double and float\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9D363D-5E10-48C8-A834-0FA428FF5501}|396. Smart usage of binary floating point numbers\\396. Smart usage of binary floating point numbers.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\396. smart usage of binary floating point numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9D363D-5E10-48C8-A834-0FA428FF5501}|396. Smart usage of binary floating point numbers\\396. Smart usage of binary floating point numbers.csproj|solutionrelative:396. smart usage of binary floating point numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C6EF2A-F48E-4872-B38D-9E584DE74EBD}|393. Integral numeric types overview\\393. Integral numeric types overview.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\393. integral numeric types overview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C6EF2A-F48E-4872-B38D-9E584DE74EBD}|393. Integral numeric types overview\\393. Integral numeric types overview.csproj|solutionrelative:393. integral numeric types overview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C447EB8E-8946-4363-84A1-C61C7B74F87D}|394. Floating-point numbers\\394. Floating-point numbers.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\394. floating-point numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C447EB8E-8946-4363-84A1-C61C7B74F87D}|394. Floating-point numbers\\394. Floating-point numbers.csproj|solutionrelative:394. floating-point numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CAAB97-E45D-42DE-B4F8-44F12E953204}|392. Scope of the checked context. unechecked keyword\\392. Scope of the checked context. unechecked keyword.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\392. scope of the checked context. unechecked keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CAAB97-E45D-42DE-B4F8-44F12E953204}|392. Scope of the checked context. unechecked keyword\\392. Scope of the checked context. unechecked keyword.csproj|solutionrelative:392. scope of the checked context. unechecked keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CDF01D-D600-4FA3-ADE2-B4C5965EDE99}|391. Checked context - when to use it\\391. Checked context - when to use it.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\391. checked context - when to use it\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CDF01D-D600-4FA3-ADE2-B4C5965EDE99}|391. Checked context - when to use it\\391. Checked context - when to use it.csproj|solutionrelative:391. checked context - when to use it\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C977870-1214-4D61-9C30-5F3D7E11709A}|390. checked keyword\\390. checked keyword.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\390. checked keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C977870-1214-4D61-9C30-5F3D7E11709A}|390. checked keyword\\390. checked keyword.csproj|solutionrelative:390. checked keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F34C9C-CEC8-4614-AC2D-3965A6B466D1}|389. Numeric overflow \u0026 silent failures\\389. Numeric overflow \u0026 silent failures.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\389. numeric overflow \u0026 silent failures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F34C9C-CEC8-4614-AC2D-3965A6B466D1}|389. Numeric overflow \u0026 silent failures\\389. Numeric overflow \u0026 silent failures.csproj|solutionrelative:389. numeric overflow \u0026 silent failures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9ED9A00-3BD6-443E-8DCB-46CD6B8A3F0B}|387. Numbers in memory. Integer\\387. Numbers in memory. Integer.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\387. numbers in memory. integer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9ED9A00-3BD6-443E-8DCB-46CD6B8A3F0B}|387. Numbers in memory. Integer\\387. Numbers in memory. Integer.csproj|solutionrelative:387. numbers in memory. integer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD77D26-5C80-4BEA-9FBB-E96BB26F5189}|388. Adding binary numbers\\388. Adding binary numbers.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\388. adding binary numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD77D26-5C80-4BEA-9FBB-E96BB26F5189}|388. Adding binary numbers\\388. Adding binary numbers.csproj|solutionrelative:388. adding binary numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D321757-5D5A-45B4-AE69-7BCCCACA9EC8}|386. Maximal numbers on a given number of digits\\386. Maximal numbers on a given number of digits.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\386. maximal numbers on a given number of digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D321757-5D5A-45B4-AE69-7BCCCACA9EC8}|386. Maximal numbers on a given number of digits\\386. Maximal numbers on a given number of digits.csproj|solutionrelative:386. maximal numbers on a given number of digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08313354-0333-4947-BDB5-A4CA721E0F64}|385. Binary number system\\385. Binary number system.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\385. binary number system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08313354-0333-4947-BDB5-A4CA721E0F64}|385. Binary number system\\385. Binary number system.csproj|solutionrelative:385. binary number system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836A3B02-CA84-40D8-BE6E-B9441DD5D0D5}|384. Decimal number system\\384. Decimal number system.csproj|d:\\code\\udemy\\c#\\c# krytina\\384. decimal number system\\384. decimal number system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836A3B02-CA84-40D8-BE6E-B9441DD5D0D5}|384. Decimal number system\\384. Decimal number system.csproj|solutionrelative:384. decimal number system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\397. Decimal\\Program.cs",
+              "RelativeDocumentMoniker": "397. Decimal\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\397. Decimal\\Program.cs",
+              "RelativeToolTip": "397. Decimal\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAmwFwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T08:10:26.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\396. Smart usage of binary floating point numbers\\Program.cs",
+              "RelativeDocumentMoniker": "396. Smart usage of binary floating point numbers\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\396. Smart usage of binary floating point numbers\\Program.cs",
+              "RelativeToolTip": "396. Smart usage of binary floating point numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:59:44.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\395. double and float\\Program.cs",
+              "RelativeDocumentMoniker": "395. double and float\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\395. double and float\\Program.cs",
+              "RelativeToolTip": "395. double and float\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:50:01.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\394. Floating-point numbers\\Program.cs",
+              "RelativeDocumentMoniker": "394. Floating-point numbers\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\394. Floating-point numbers\\Program.cs",
+              "RelativeToolTip": "394. Floating-point numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T15:51:55.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\393. Integral numeric types overview\\Program.cs",
+              "RelativeDocumentMoniker": "393. Integral numeric types overview\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\393. Integral numeric types overview\\Program.cs",
+              "RelativeToolTip": "393. Integral numeric types overview\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:36:32.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\392. Scope of the checked context. unechecked keyword\\Program.cs",
+              "RelativeDocumentMoniker": "392. Scope of the checked context. unechecked keyword\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\392. Scope of the checked context. unechecked keyword\\Program.cs",
+              "RelativeToolTip": "392. Scope of the checked context. unechecked keyword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:28:33.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\391. Checked context - when to use it\\Program.cs",
+              "RelativeDocumentMoniker": "391. Checked context - when to use it\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\391. Checked context - when to use it\\Program.cs",
+              "RelativeToolTip": "391. Checked context - when to use it\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwDkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:22:59.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\390. checked keyword\\Program.cs",
+              "RelativeDocumentMoniker": "390. checked keyword\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\390. checked keyword\\Program.cs",
+              "RelativeToolTip": "390. checked keyword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:18:12.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\389. Numeric overflow \u0026 silent failures\\Program.cs",
+              "RelativeDocumentMoniker": "389. Numeric overflow \u0026 silent failures\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\389. Numeric overflow \u0026 silent failures\\Program.cs",
+              "RelativeToolTip": "389. Numeric overflow \u0026 silent failures\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:42:46.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\388. Adding binary numbers\\Program.cs",
+              "RelativeDocumentMoniker": "388. Adding binary numbers\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\388. Adding binary numbers\\Program.cs",
+              "RelativeToolTip": "388. Adding binary numbers\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:35:25.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\387. Numbers in memory. Integer\\Program.cs",
+              "RelativeDocumentMoniker": "387. Numbers in memory. Integer\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\387. Numbers in memory. Integer\\Program.cs",
+              "RelativeToolTip": "387. Numbers in memory. Integer\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:30:28.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\386. Maximal numbers on a given number of digits\\Program.cs",
+              "RelativeDocumentMoniker": "386. Maximal numbers on a given number of digits\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\386. Maximal numbers on a given number of digits\\Program.cs",
+              "RelativeToolTip": "386. Maximal numbers on a given number of digits\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:23:29.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\385. Binary number system\\Program.cs",
+              "RelativeDocumentMoniker": "385. Binary number system\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\385. Binary number system\\Program.cs",
+              "RelativeToolTip": "385. Binary number system\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:20:11.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\384. Decimal number system\\Program.cs",
+              "RelativeDocumentMoniker": "384. Decimal number system\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\384. Decimal number system\\384. Decimal number system\\Program.cs",
+              "RelativeToolTip": "384. Decimal number system\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:11:01.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
