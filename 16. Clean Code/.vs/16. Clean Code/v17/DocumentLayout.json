@@ -3,6 +3,130 @@
   "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0785D897-1777-4BC9-AEAD-5EB653E671C0}|504. The benefits of composition\\504. The benefits of composition.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\504. the benefits of composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0785D897-1777-4BC9-AEAD-5EB653E671C0}|504. The benefits of composition\\504. The benefits of composition.csproj|solutionrelative:504. the benefits of composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235ABCAB-EE74-4AC4-919B-71F916C1F356}|503. Replacing inheritance with composition\\503. Replacing inheritance with composition.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\503. replacing inheritance with composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235ABCAB-EE74-4AC4-919B-71F916C1F356}|503. Replacing inheritance with composition\\503. Replacing inheritance with composition.csproj|solutionrelative:503. replacing inheritance with composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6F5DB7-FD8D-4CA8-A891-8DF8063161B5}|502. The issues of inheritance\\502. The issues of inheritance.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\502. the issues of inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6F5DB7-FD8D-4CA8-A891-8DF8063161B5}|502. The issues of inheritance\\502. The issues of inheritance.csproj|solutionrelative:502. the issues of inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35676B0-5413-470D-BCDC-DC973B08C7FB}|501. Composition over inheritance\\501. Composition over inheritance.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\501. composition over inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35676B0-5413-470D-BCDC-DC973B08C7FB}|501. Composition over inheritance\\501. Composition over inheritance.csproj|solutionrelative:501. composition over inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01E9F7B-A0A4-40CE-8E1E-26B2B7F52A94}|500. When to make methods static Public methods\\500. When to make methods static Public methods.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\500. when to make methods static public methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01E9F7B-A0A4-40CE-8E1E-26B2B7F52A94}|500. When to make methods static Public methods\\500. When to make methods static Public methods.csproj|solutionrelative:500. when to make methods static public methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870BFF95-4D7C-41B2-9BF4-7EE7590FE563}|499. The risk of making public methods static\\499. The risk of making public methods static.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\499. the risk of making public methods static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870BFF95-4D7C-41B2-9BF4-7EE7590FE563}|499. The risk of making public methods static\\499. The risk of making public methods static.csproj|solutionrelative:499. the risk of making public methods static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A989A316-4A14-47E8-A6D3-C5D124071174}|498. When to make methods static Private methods\\498. When to make methods static Private methods.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\498. when to make methods static private methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A989A316-4A14-47E8-A6D3-C5D124071174}|498. When to make methods static Private methods\\498. When to make methods static Private methods.csproj|solutionrelative:498. when to make methods static private methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA511EF2-AD9F-474C-942F-E7D33792BE67}|497. The reasonable comments\\497. The reasonable comments.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\497. the reasonable comments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA511EF2-AD9F-474C-942F-E7D33792BE67}|497. The reasonable comments\\497. The reasonable comments.csproj|solutionrelative:497. the reasonable comments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B30A65B-F79A-4C0D-A6D5-66B27D36DB90}|496. The worst comments\\496. The worst comments.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\496. the worst comments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B30A65B-F79A-4C0D-A6D5-66B27D36DB90}|496. The worst comments\\496. The worst comments.csproj|solutionrelative:496. the worst comments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6790A4-E9FD-4B7F-A610-1035C0C06E68}|495. Comments\\495. Comments.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\495. comments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6790A4-E9FD-4B7F-A610-1035C0C06E68}|495. Comments\\495. Comments.csproj|solutionrelative:495. comments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEC8C95-20E1-4E4A-A55A-87FBABF9A50C}|494. Refactoring case study - methods - body\\494. Refactoring case study - methods - body.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\494. refactoring case study - methods - body\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEC8C95-20E1-4E4A-A55A-87FBABF9A50C}|494. Refactoring case study - methods - body\\494. Refactoring case study - methods - body.csproj|solutionrelative:494. refactoring case study - methods - body\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0F7484-FD88-4928-8186-E9FEFAF525FC}|493. Refactoring case study - methods - signature\\493. Refactoring case study - methods - signature.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\493. refactoring case study - methods - signature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB0F7484-FD88-4928-8186-E9FEFAF525FC}|493. Refactoring case study - methods - signature\\493. Refactoring case study - methods - signature.csproj|solutionrelative:493. refactoring case study - methods - signature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802DE1B5-719B-4B16-836D-B660BE1CC99C}|492. Refactoring case study - methods - introduction\\492. Refactoring case study - methods - introduction.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\492. refactoring case study - methods - introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802DE1B5-719B-4B16-836D-B660BE1CC99C}|492. Refactoring case study - methods - introduction\\492. Refactoring case study - methods - introduction.csproj|solutionrelative:492. refactoring case study - methods - introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177519DB-737D-4EA2-8D16-65EE007AB111}|486. Small methods\\486. Small methods.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\486. small methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177519DB-737D-4EA2-8D16-65EE007AB111}|486. Small methods\\486. Small methods.csproj|solutionrelative:486. small methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CDEB1C-465B-4B1D-8101-0CB6DDA9FF0A}|485. Fewer parameters - avoiding boolean parameters\\485. Fewer parameters - avoiding boolean parameters.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\485. fewer parameters - avoiding boolean parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CDEB1C-465B-4B1D-8101-0CB6DDA9FF0A}|485. Fewer parameters - avoiding boolean parameters\\485. Fewer parameters - avoiding boolean parameters.csproj|solutionrelative:485. fewer parameters - avoiding boolean parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A62A2B-3FE1-4EC2-B6DC-56D2C6039A3A}|484. Fewer parameters - bundling related parameters\\484. Fewer parameters - bundling related parameters.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\484. fewer parameters - bundling related parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A62A2B-3FE1-4EC2-B6DC-56D2C6039A3A}|484. Fewer parameters - bundling related parameters\\484. Fewer parameters - bundling related parameters.csproj|solutionrelative:484. fewer parameters - bundling related parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FBEC29-6291-4506-96F2-5A3F768A19CD}|483. Fewer parameters - splitting the method\\483. Fewer parameters - splitting the method.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\483. fewer parameters - splitting the method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FBEC29-6291-4506-96F2-5A3F768A19CD}|483. Fewer parameters - splitting the method\\483. Fewer parameters - splitting the method.csproj|solutionrelative:483. fewer parameters - splitting the method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD536CB-4066-4371-824D-FDFB7D464185}|482. Number of parameters\\482. Number of parameters.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\482. number of parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD536CB-4066-4371-824D-FDFB7D464185}|482. Number of parameters\\482. Number of parameters.csproj|solutionrelative:482. number of parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B8CABC-7A89-45B0-AD07-96E4FD2A7F55}|481. Good signatures of methods\\481. Good signatures of methods.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\481. good signatures of methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B8CABC-7A89-45B0-AD07-96E4FD2A7F55}|481. Good signatures of methods\\481. Good signatures of methods.csproj|solutionrelative:481. good signatures of methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689EA70E-D0D5-4EEC-80D2-136C39AD6E0C}|479. Context\\479. Context.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\479. context\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689EA70E-D0D5-4EEC-80D2-136C39AD6E0C}|479. Context\\479. Context.csproj|solutionrelative:479. context\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116B0C9-B5FE-440C-A91F-129A2FF3C070}|478. Reasonable abbreviations. Conventional names\\478. Reasonable abbreviations. Conventional names.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\478. reasonable abbreviations. conventional names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B116B0C9-B5FE-440C-A91F-129A2FF3C070}|478. Reasonable abbreviations. Conventional names\\478. Reasonable abbreviations. Conventional names.csproj|solutionrelative:478. reasonable abbreviations. conventional names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95273834-C05C-4BC1-A5A6-42DA194AEB7E}|477. Bad names - abbreviations\\477. Bad names - abbreviations.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\477. bad names - abbreviations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95273834-C05C-4BC1-A5A6-42DA194AEB7E}|477. Bad names - abbreviations\\477. Bad names - abbreviations.csproj|solutionrelative:477. bad names - abbreviations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64214588-644E-4C55-863D-A2A8F6F46086}|472. Principle of the least surprise\\472. Principle of the least surprise.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\472. principle of the least surprise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64214588-644E-4C55-863D-A2A8F6F46086}|472. Principle of the least surprise\\472. Principle of the least surprise.csproj|solutionrelative:472. principle of the least surprise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B487BD-FC60-4BB5-9CC0-48E0D2EC9AA6}|475. Bad names - Hungarian notation\\475. Bad names - Hungarian notation.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\475. bad names - hungarian notation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B487BD-FC60-4BB5-9CC0-48E0D2EC9AA6}|475. Bad names - Hungarian notation\\475. Bad names - Hungarian notation.csproj|solutionrelative:475. bad names - hungarian notation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F52A84-55A6-4CFD-B13E-5C856C22DB6E}|470. Long and short names\\470. Long and short names.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\470. long and short names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F52A84-55A6-4CFD-B13E-5C856C22DB6E}|470. Long and short names\\470. Long and short names.csproj|solutionrelative:470. long and short names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE830C2-ADAE-4D26-8675-27BDA994074F}|469. Expressive names\\469. Expressive names.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\469. expressive names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE830C2-ADAE-4D26-8675-27BDA994074F}|469. Expressive names\\469. Expressive names.csproj|solutionrelative:469. expressive names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC79D932-D36F-44F4-A48C-F73685C314C8}|468. Dealing with problematic naming\\468. Dealing with problematic naming.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\468. dealing with problematic naming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC79D932-D36F-44F4-A48C-F73685C314C8}|468. Dealing with problematic naming\\468. Dealing with problematic naming.csproj|solutionrelative:468. dealing with problematic naming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B1976C-39B3-4567-BD76-A8A45F0DD0C9}|467. Renaming. The Boy Scout Rule\\467. Renaming. The Boy Scout Rule.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\467. renaming. the boy scout rule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B1976C-39B3-4567-BD76-A8A45F0DD0C9}|467. Renaming. The Boy Scout Rule\\467. Renaming. The Boy Scout Rule.csproj|solutionrelative:467. renaming. the boy scout rule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A882391-A641-42E0-9677-FCEB0044CD30}|466. The importance of meaningful names\\466. The importance of meaningful names.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\466. the importance of meaningful names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A882391-A641-42E0-9677-FCEB0044CD30}|466. The importance of meaningful names\\466. The importance of meaningful names.csproj|solutionrelative:466. the importance of meaningful names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D28748-187C-4FA8-9E54-9F128F5662A4}|465. What is clean code\\465. What is clean code.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\465. what is clean code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D28748-187C-4FA8-9E54-9F128F5662A4}|465. What is clean code\\465. What is clean code.csproj|solutionrelative:465. what is clean code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C119CD76-FDC8-41F6-8950-9B6076B3305B}|464. Being professional\\464. Being professional.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\464. being professional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C119CD76-FDC8-41F6-8950-9B6076B3305B}|464. Being professional\\464. Being professional.csproj|solutionrelative:464. being professional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9767B068-C9E6-47AE-A4EB-2F882292911F}|463. Tech debt\\463. Tech debt.csproj|d:\\code\\udemy\\c#\\c# krytina\\16. clean code\\463. tech debt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9767B068-C9E6-47AE-A4EB-2F882292911F}|463. Tech debt\\463. Tech debt.csproj|solutionrelative:463. tech debt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,18 +152,394 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\504. The benefits of composition\\Program.cs",
+              "RelativeDocumentMoniker": "504. The benefits of composition\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\504. The benefits of composition\\Program.cs",
+              "RelativeToolTip": "504. The benefits of composition\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:31:15.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\503. Replacing inheritance with composition\\Program.cs",
+              "RelativeDocumentMoniker": "503. Replacing inheritance with composition\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\503. Replacing inheritance with composition\\Program.cs",
+              "RelativeToolTip": "503. Replacing inheritance with composition\\Program.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAUwKoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:45:34.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\502. The issues of inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "502. The issues of inheritance\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\502. The issues of inheritance\\Program.cs",
+              "RelativeToolTip": "502. The issues of inheritance\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:36:08.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\501. Composition over inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "501. Composition over inheritance\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\501. Composition over inheritance\\Program.cs",
+              "RelativeToolTip": "501. Composition over inheritance\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:31:22.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\500. When to make methods static Public methods\\Program.cs",
+              "RelativeDocumentMoniker": "500. When to make methods static Public methods\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\500. When to make methods static Public methods\\Program.cs",
+              "RelativeToolTip": "500. When to make methods static Public methods\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA0wDMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T06:50:44.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\499. The risk of making public methods static\\Program.cs",
+              "RelativeDocumentMoniker": "499. The risk of making public methods static\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\499. The risk of making public methods static\\Program.cs",
+              "RelativeToolTip": "499. The risk of making public methods static\\Program.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwHEAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:32:16.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\498. When to make methods static Private methods\\Program.cs",
+              "RelativeDocumentMoniker": "498. When to make methods static Private methods\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\498. When to make methods static Private methods\\Program.cs",
+              "RelativeToolTip": "498. When to make methods static Private methods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:29:29.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\497. The reasonable comments\\Program.cs",
+              "RelativeDocumentMoniker": "497. The reasonable comments\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\497. The reasonable comments\\Program.cs",
+              "RelativeToolTip": "497. The reasonable comments\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:19:03.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\496. The worst comments\\Program.cs",
+              "RelativeDocumentMoniker": "496. The worst comments\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\496. The worst comments\\Program.cs",
+              "RelativeToolTip": "496. The worst comments\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:14:19.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\495. Comments\\Program.cs",
+              "RelativeDocumentMoniker": "495. Comments\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\495. Comments\\Program.cs",
+              "RelativeToolTip": "495. Comments\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:09:41.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\494. Refactoring case study - methods - body\\Program.cs",
+              "RelativeDocumentMoniker": "494. Refactoring case study - methods - body\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\494. Refactoring case study - methods - body\\Program.cs",
+              "RelativeToolTip": "494. Refactoring case study - methods - body\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:45:22.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\493. Refactoring case study - methods - signature\\Program.cs",
+              "RelativeDocumentMoniker": "493. Refactoring case study - methods - signature\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\493. Refactoring case study - methods - signature\\Program.cs",
+              "RelativeToolTip": "493. Refactoring case study - methods - signature\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:40:02.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\492. Refactoring case study - methods - introduction\\Program.cs",
+              "RelativeDocumentMoniker": "492. Refactoring case study - methods - introduction\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\492. Refactoring case study - methods - introduction\\Program.cs",
+              "RelativeToolTip": "492. Refactoring case study - methods - introduction\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:23:30.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\486. Small methods\\Program.cs",
+              "RelativeDocumentMoniker": "486. Small methods\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\486. Small methods\\Program.cs",
+              "RelativeToolTip": "486. Small methods\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:12:51.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\485. Fewer parameters - avoiding boolean parameters\\Program.cs",
+              "RelativeDocumentMoniker": "485. Fewer parameters - avoiding boolean parameters\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\485. Fewer parameters - avoiding boolean parameters\\Program.cs",
+              "RelativeToolTip": "485. Fewer parameters - avoiding boolean parameters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:08:32.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\484. Fewer parameters - bundling related parameters\\Program.cs",
+              "RelativeDocumentMoniker": "484. Fewer parameters - bundling related parameters\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\484. Fewer parameters - bundling related parameters\\Program.cs",
+              "RelativeToolTip": "484. Fewer parameters - bundling related parameters\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:03:06.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\483. Fewer parameters - splitting the method\\Program.cs",
+              "RelativeDocumentMoniker": "483. Fewer parameters - splitting the method\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\483. Fewer parameters - splitting the method\\Program.cs",
+              "RelativeToolTip": "483. Fewer parameters - splitting the method\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:59:19.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\482. Number of parameters\\Program.cs",
+              "RelativeDocumentMoniker": "482. Number of parameters\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\482. Number of parameters\\Program.cs",
+              "RelativeToolTip": "482. Number of parameters\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:54:09.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\481. Good signatures of methods\\Program.cs",
+              "RelativeDocumentMoniker": "481. Good signatures of methods\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\481. Good signatures of methods\\Program.cs",
+              "RelativeToolTip": "481. Good signatures of methods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:48:45.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\479. Context\\Program.cs",
+              "RelativeDocumentMoniker": "479. Context\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\479. Context\\Program.cs",
+              "RelativeToolTip": "479. Context\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:12:41.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\478. Reasonable abbreviations. Conventional names\\Program.cs",
+              "RelativeDocumentMoniker": "478. Reasonable abbreviations. Conventional names\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\478. Reasonable abbreviations. Conventional names\\Program.cs",
+              "RelativeToolTip": "478. Reasonable abbreviations. Conventional names\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:39:40.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\477. Bad names - abbreviations\\Program.cs",
+              "RelativeDocumentMoniker": "477. Bad names - abbreviations\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\477. Bad names - abbreviations\\Program.cs",
+              "RelativeToolTip": "477. Bad names - abbreviations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:18:43.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\475. Bad names - Hungarian notation\\Program.cs",
+              "RelativeDocumentMoniker": "475. Bad names - Hungarian notation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\475. Bad names - Hungarian notation\\Program.cs",
+              "RelativeToolTip": "475. Bad names - Hungarian notation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:13:06.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\472. Principle of the least surprise\\Program.cs",
+              "RelativeDocumentMoniker": "472. Principle of the least surprise\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\472. Principle of the least surprise\\Program.cs",
+              "RelativeToolTip": "472. Principle of the least surprise\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:57:23.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\470. Long and short names\\Program.cs",
+              "RelativeDocumentMoniker": "470. Long and short names\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\470. Long and short names\\Program.cs",
+              "RelativeToolTip": "470. Long and short names\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:38:43.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\469. Expressive names\\Program.cs",
+              "RelativeDocumentMoniker": "469. Expressive names\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\469. Expressive names\\Program.cs",
+              "RelativeToolTip": "469. Expressive names\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:21:49.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\468. Dealing with problematic naming\\Program.cs",
+              "RelativeDocumentMoniker": "468. Dealing with problematic naming\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\468. Dealing with problematic naming\\Program.cs",
+              "RelativeToolTip": "468. Dealing with problematic naming\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:10:34.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\467. Renaming. The Boy Scout Rule\\Program.cs",
+              "RelativeDocumentMoniker": "467. Renaming. The Boy Scout Rule\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\467. Renaming. The Boy Scout Rule\\Program.cs",
+              "RelativeToolTip": "467. Renaming. The Boy Scout Rule\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswDcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:05:46.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\466. The importance of meaningful names\\Program.cs",
+              "RelativeDocumentMoniker": "466. The importance of meaningful names\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\466. The importance of meaningful names\\Program.cs",
+              "RelativeToolTip": "466. The importance of meaningful names\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:02:25.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\465. What is clean code\\Program.cs",
+              "RelativeDocumentMoniker": "465. What is clean code\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\465. What is clean code\\Program.cs",
+              "RelativeToolTip": "465. What is clean code\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:55:13.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\464. Being professional\\Program.cs",
+              "RelativeDocumentMoniker": "464. Being professional\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\464. Being professional\\Program.cs",
+              "RelativeToolTip": "464. Being professional\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:51:37.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\463. Tech debt\\Program.cs",
               "RelativeDocumentMoniker": "463. Tech debt\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\463. Tech debt\\Program.cs",
               "RelativeToolTip": "463. Tech debt\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:03:28.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:03:28.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\462. Bad decisions related to code quality\\Program.cs",
               "RelativeDocumentMoniker": "462. Bad decisions related to code quality\\Program.cs",
@@ -47,12 +547,11 @@
               "RelativeToolTip": "462. Bad decisions related to code quality\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T05:58:15.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T05:58:15.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\16. Clean Code\\461. Importance of Clean Code\\Program.cs",
               "RelativeDocumentMoniker": "461. Importance of Clean Code\\Program.cs",
@@ -60,8 +559,7 @@
               "RelativeToolTip": "461. Importance of Clean Code\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T05:52:16.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T05:52:16.791Z"
             }
           ]
         }

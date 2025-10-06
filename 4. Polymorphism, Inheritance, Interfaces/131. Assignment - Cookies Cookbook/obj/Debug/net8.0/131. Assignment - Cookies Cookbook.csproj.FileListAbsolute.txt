@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\bin\Debug\net8.0\131. Assignment - Cookies Cookbook.exe
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\bin\Debug\net8.0\131. Assignment - Cookies Cookbook.deps.json
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\bin\Debug\net8.0\131. Assignment - Cookies Cookbook.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\bin\Debug\net8.0\131. Assignment - Cookies Cookbook.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\bin\Debug\net8.0\131. Assignment - Cookies Cookbook.pdb
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\obj\Debug\net8.0\131. Assignment - Cookies Cookbook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\obj\Debug\net8.0\131. Assignment - Cookies Cookbook.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\obj\Debug\net8.0\131. Assignment - Cookies Cookbook.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\obj\Debug\net8.0\131. Assignment - Cookies Cookbook.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\obj\Debug\net8.0\131. Assignment - Cookies Cookbook.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\obj\Debug\net8.0\131. Assignment - Cookies Cookbook.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\obj\Debug\net8.0\refint\131. Assignment - Cookies Cookbook.dll
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\obj\Debug\net8.0\131. Assignment - Cookies Cookbook.pdb
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\obj\Debug\net8.0\131. Assignment - Cookies Cookbook.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\4. Polymorphism, Inheritance, Interfaces\131. Assignment - Cookies Cookbook\obj\Debug\net8.0\ref\131. Assignment - Cookies Cookbook.dll

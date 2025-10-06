@@ -1,0 +1,5 @@
+D:\Code\Udemy\C#\C# Krytina\16. Clean Code\501. Composition over inheritance\obj\Debug\net8.0\501. Composition over inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\16. Clean Code\501. Composition over inheritance\obj\Debug\net8.0\501. Composition over inheritance.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\16. Clean Code\501. Composition over inheritance\obj\Debug\net8.0\501. Composition over inheritance.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\16. Clean Code\501. Composition over inheritance\obj\Debug\net8.0\501. Composition over inheritance.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\16. Clean Code\501. Composition over inheritance\obj\Debug\net8.0\501. Composition over inheritance.sourcelink.json

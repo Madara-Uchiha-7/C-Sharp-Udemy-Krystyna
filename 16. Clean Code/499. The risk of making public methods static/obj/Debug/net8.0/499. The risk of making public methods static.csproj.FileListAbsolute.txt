@@ -1,0 +1,5 @@
+D:\Code\Udemy\C#\C# Krytina\16. Clean Code\499. The risk of making public methods static\obj\Debug\net8.0\499. The risk of making public methods static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\16. Clean Code\499. The risk of making public methods static\obj\Debug\net8.0\499. The risk of making public methods static.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\16. Clean Code\499. The risk of making public methods static\obj\Debug\net8.0\499. The risk of making public methods static.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\16. Clean Code\499. The risk of making public methods static\obj\Debug\net8.0\499. The risk of making public methods static.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\16. Clean Code\499. The risk of making public methods static\obj\Debug\net8.0\499. The risk of making public methods static.sourcelink.json

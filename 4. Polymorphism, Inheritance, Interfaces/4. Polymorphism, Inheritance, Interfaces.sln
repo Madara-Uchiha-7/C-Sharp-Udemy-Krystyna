@@ -69,7 +69,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "123. Interfaces vs abstract
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "124. JSON", "124. JSON\124. JSON.csproj", "{5EBAAA3F-B2B2-4E75-AE7C-0F3904815268}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125. Assignment - Cookies Cookbook - Description and requirements", "125. Assignment - Cookies Cookbook - Description and requirements\125. Assignment - Cookies Cookbook - Description and requirements.csproj", "{84D5FB90-FE3A-4825-802C-73AE6729EBBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "125. Assignment - Cookies Cookbook - Description and requirements", "125. Assignment - Cookies Cookbook - Description and requirements\125. Assignment - Cookies Cookbook - Description and requirements.csproj", "{84D5FB90-FE3A-4825-802C-73AE6729EBBB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "131. Assignment - My way", "131. Assignment - Cookies Cookbook\131. Assignment - My way.csproj", "{751A06FE-B997-4ACC-9BFB-0C10148A89FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "131. Teachers way", "131. Teachers way\131. Teachers way.csproj", "{4B027193-8B25-47CE-92D2-A5D26AFD379D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "132. Assignment Teachers way", "132. Assignment Teachers way\132. Assignment Teachers way.csproj", "{3EA10282-5FE6-4B53-BD43-CAE0A051D550}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +219,18 @@ Global
 		{84D5FB90-FE3A-4825-802C-73AE6729EBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84D5FB90-FE3A-4825-802C-73AE6729EBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84D5FB90-FE3A-4825-802C-73AE6729EBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751A06FE-B997-4ACC-9BFB-0C10148A89FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751A06FE-B997-4ACC-9BFB-0C10148A89FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751A06FE-B997-4ACC-9BFB-0C10148A89FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751A06FE-B997-4ACC-9BFB-0C10148A89FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B027193-8B25-47CE-92D2-A5D26AFD379D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B027193-8B25-47CE-92D2-A5D26AFD379D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B027193-8B25-47CE-92D2-A5D26AFD379D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B027193-8B25-47CE-92D2-A5D26AFD379D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA10282-5FE6-4B53-BD43-CAE0A051D550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA10282-5FE6-4B53-BD43-CAE0A051D550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA10282-5FE6-4B53-BD43-CAE0A051D550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA10282-5FE6-4B53-BD43-CAE0A051D550}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA10282-5FE6-4B53-BD43-CAE0A051D550}|132. Assignment Teachers way\\132. Assignment Teachers way.csproj|d:\\code\\udemy\\c#\\c# krytina\\4. polymorphism, inheritance, interfaces\\132. assignment teachers way\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA10282-5FE6-4B53-BD43-CAE0A051D550}|132. Assignment Teachers way\\132. Assignment Teachers way.csproj|solutionrelative:132. assignment teachers way\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA10282-5FE6-4B53-BD43-CAE0A051D550}|132. Assignment Teachers way\\132. Assignment Teachers way.csproj|d:\\code\\udemy\\c#\\c# krytina\\4. polymorphism, inheritance, interfaces\\132. assignment teachers way\\recipesuserinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA10282-5FE6-4B53-BD43-CAE0A051D550}|132. Assignment Teachers way\\132. Assignment Teachers way.csproj|solutionrelative:132. assignment teachers way\\recipesuserinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA10282-5FE6-4B53-BD43-CAE0A051D550}|132. Assignment Teachers way\\132. Assignment Teachers way.csproj|d:\\code\\udemy\\c#\\c# krytina\\4. polymorphism, inheritance, interfaces\\132. assignment teachers way\\recipesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA10282-5FE6-4B53-BD43-CAE0A051D550}|132. Assignment Teachers way\\132. Assignment Teachers way.csproj|solutionrelative:132. assignment teachers way\\recipesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA10282-5FE6-4B53-BD43-CAE0A051D550}|132. Assignment Teachers way\\132. Assignment Teachers way.csproj|d:\\code\\udemy\\c#\\c# krytina\\4. polymorphism, inheritance, interfaces\\132. assignment teachers way\\irecipesuserinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA10282-5FE6-4B53-BD43-CAE0A051D550}|132. Assignment Teachers way\\132. Assignment Teachers way.csproj|solutionrelative:132. assignment teachers way\\irecipesuserinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B027193-8B25-47CE-92D2-A5D26AFD379D}|131. Teachers way\\131. Teachers way.csproj|d:\\code\\udemy\\c#\\c# krytina\\4. polymorphism, inheritance, interfaces\\131. teachers way\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B027193-8B25-47CE-92D2-A5D26AFD379D}|131. Teachers way\\131. Teachers way.csproj|solutionrelative:131. teachers way\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751A06FE-B997-4ACC-9BFB-0C10148A89FF}|131. Assignment - Cookies Cookbook\\131. Assignment - Cookies Cookbook.csproj|d:\\code\\udemy\\c#\\c# krytina\\4. polymorphism, inheritance, interfaces\\131. assignment - cookies cookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751A06FE-B997-4ACC-9BFB-0C10148A89FF}|131. Assignment - Cookies Cookbook\\131. Assignment - Cookies Cookbook.csproj|solutionrelative:131. assignment - cookies cookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751A06FE-B997-4ACC-9BFB-0C10148A89FF}|131. Assignment - Cookies Cookbook\\131. Assignment - Cookies Cookbook.csproj|d:\\code\\udemy\\c#\\c# krytina\\4. polymorphism, inheritance, interfaces\\131. assignment - cookies cookbook\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751A06FE-B997-4ACC-9BFB-0C10148A89FF}|131. Assignment - Cookies Cookbook\\131. Assignment - Cookies Cookbook.csproj|solutionrelative:131. assignment - cookies cookbook\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D5FB90-FE3A-4825-802C-73AE6729EBBB}|125. Assignment - Cookies Cookbook - Description and requirements\\125. Assignment - Cookies Cookbook - Description and requirements.csproj|d:\\code\\udemy\\c#\\c# krytina\\4. polymorphism, inheritance, interfaces\\125. assignment - cookies cookbook - description and requirements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D5FB90-FE3A-4825-802C-73AE6729EBBB}|125. Assignment - Cookies Cookbook - Description and requirements\\125. Assignment - Cookies Cookbook - Description and requirements.csproj|solutionrelative:125. assignment - cookies cookbook - description and requirements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRecipesUserInteraction.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\132. Assignment Teachers way\\IRecipesUserInteraction.cs",
+              "RelativeDocumentMoniker": "132. Assignment Teachers way\\IRecipesUserInteraction.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\132. Assignment Teachers way\\IRecipesUserInteraction.cs",
+              "RelativeToolTip": "132. Assignment Teachers way\\IRecipesUserInteraction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:39:30.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipesRepository.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\132. Assignment Teachers way\\RecipesRepository.cs",
+              "RelativeDocumentMoniker": "132. Assignment Teachers way\\RecipesRepository.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\132. Assignment Teachers way\\RecipesRepository.cs",
+              "RelativeToolTip": "132. Assignment Teachers way\\RecipesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:37:52.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipesUserInteraction.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\132. Assignment Teachers way\\RecipesUserInteraction.cs",
+              "RelativeDocumentMoniker": "132. Assignment Teachers way\\RecipesUserInteraction.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\132. Assignment Teachers way\\RecipesUserInteraction.cs",
+              "RelativeToolTip": "132. Assignment Teachers way\\RecipesUserInteraction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:37:37.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\132. Assignment Teachers way\\Program.cs",
+              "RelativeDocumentMoniker": "132. Assignment Teachers way\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\132. Assignment Teachers way\\Program.cs",
+              "RelativeToolTip": "132. Assignment Teachers way\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwEoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:34:24.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\131. Teachers way\\Program.cs",
+              "RelativeDocumentMoniker": "131. Teachers way\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\131. Teachers way\\Program.cs",
+              "RelativeToolTip": "131. Teachers way\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAswFsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:06:09.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\131. Assignment - Cookies Cookbook\\Ingredient.cs",
+              "RelativeDocumentMoniker": "131. Assignment - Cookies Cookbook\\Ingredient.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\131. Assignment - Cookies Cookbook\\Ingredient.cs",
+              "RelativeToolTip": "131. Assignment - Cookies Cookbook\\Ingredient.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:13:01.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\131. Assignment - Cookies Cookbook\\Program.cs",
+              "RelativeDocumentMoniker": "131. Assignment - Cookies Cookbook\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\131. Assignment - Cookies Cookbook\\Program.cs",
+              "RelativeToolTip": "131. Assignment - Cookies Cookbook\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:59:25.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\125. Assignment - Cookies Cookbook - Description and requirements\\Program.cs",
+              "RelativeDocumentMoniker": "125. Assignment - Cookies Cookbook - Description and requirements\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\4. Polymorphism, Inheritance, Interfaces\\125. Assignment - Cookies Cookbook - Description and requirements\\Program.cs",
+              "RelativeToolTip": "125. Assignment - Cookies Cookbook - Description and requirements\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvysAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:57:12.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

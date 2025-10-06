@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("463. Tech debt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2950929fb2cdbcf714ce5dce1c70ebb9fd42c253")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea30797cdb8004c9050ed6671f507628992ed91a")]
 [assembly: System.Reflection.AssemblyProductAttribute("463. Tech debt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("463. Tech debt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
