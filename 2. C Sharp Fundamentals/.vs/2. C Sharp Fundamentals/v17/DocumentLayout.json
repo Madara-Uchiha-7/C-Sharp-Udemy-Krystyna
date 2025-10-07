@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE4C91B-8C60-4038-8524-4BC5A5E71723}|59. out keyword\\59. out keyword.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\59. out keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE4C91B-8C60-4038-8524-4BC5A5E71723}|59. out keyword\\59. out keyword.csproj|solutionrelative:59. out keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B9C08B-0A4B-4D73-90B7-6426C5880C38}|51_1. Assignment\\51_1. Assignment.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\51_1. assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B9C08B-0A4B-4D73-90B7-6426C5880C38}|51_1. Assignment\\51_1. Assignment.csproj|solutionrelative:51_1. assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867AF052-6B19-4B2C-995D-452508B46C2C}|31. Methods - part 1 - void methods\\31. Methods - part 1 - void methods.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\31. methods - part 1 - void methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867AF052-6B19-4B2C-995D-452508B46C2C}|31. Methods - part 1 - void methods\\31. Methods - part 1 - void methods.csproj|solutionrelative:31. methods - part 1 - void methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78387B0-DCEB-4A27-8A39-C5408B8A93DA}|60. TryParse method\\60. TryParse method.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\60. tryparse method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78387B0-DCEB-4A27-8A39-C5408B8A93DA}|60. TryParse method\\60. TryParse method.csproj|solutionrelative:60. tryparse method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171043F-97BA-4F09-BAF4-FD524DD042BC}|51. Break\\51. Break.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\51. break\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3171043F-97BA-4F09-BAF4-FD524DD042BC}|51. Break\\51. Break.csproj|solutionrelative:51. break\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45970633-040D-4132-B7F5-DDDD2AF133D3}|58. Lists\\58. Lists.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\58. lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45970633-040D-4132-B7F5-DDDD2AF133D3}|58. Lists\\58. Lists.csproj|solutionrelative:58. lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2564C216-B270-441E-A9DF-145D3602CEC0}|57. Foreach loop\\57. Foreach loop.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\57. foreach loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2564C216-B270-441E-A9DF-145D3602CEC0}|57. Foreach loop\\57. Foreach loop.csproj|solutionrelative:57. foreach loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF64F0A-EF67-4913-9DF7-010B989E3764}|55. Arrays\\55. Arrays.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\55. arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF64F0A-EF67-4913-9DF7-010B989E3764}|55. Arrays\\55. Arrays.csproj|solutionrelative:55. arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE12300-BB4E-42D5-BB19-3AB4E95D6914}|56. Multi-dimensional arrays\\56. Multi-dimensional arrays.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\56. multi-dimensional arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE12300-BB4E-42D5-BB19-3AB4E95D6914}|56. Multi-dimensional arrays\\56. Multi-dimensional arrays.csproj|solutionrelative:56. multi-dimensional arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226F552D-9E83-42DB-B530-A30D806FB76B}|44. Char\\44. Char.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\44. char\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226F552D-9E83-42DB-B530-A30D806FB76B}|44. Char\\44. Char.csproj|solutionrelative:44. char\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F29F857-0ED6-42BC-8BDC-FAF2EC1A2F1A}|45. A need for loops\\45. A need for loops.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\45. a need for loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F29F857-0ED6-42BC-8BDC-FAF2EC1A2F1A}|45. A need for loops\\45. A need for loops.csproj|solutionrelative:45. a need for loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3B3F9-029F-44CC-9D6C-17E9F2EC53B1}|49. Do while loop\\49. Do while loop.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\49. do while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA3B3F9-029F-44CC-9D6C-17E9F2EC53B1}|49. Do while loop\\49. Do while loop.csproj|solutionrelative:49. do while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E351CA-4D23-49E0-AD11-1D29335BA86D}|46. While loop - part 1\\46. While loop - part 1.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\46. while loop - part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E351CA-4D23-49E0-AD11-1D29335BA86D}|46. While loop - part 1\\46. While loop - part 1.csproj|solutionrelative:46. while loop - part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159A6EB6-BB06-4DC5-8A84-02E5FE05EFDD}|50. For loop\\50. For loop.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\50. for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159A6EB6-BB06-4DC5-8A84-02E5FE05EFDD}|50. For loop\\50. For loop.csproj|solutionrelative:50. for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68404FCE-9FC6-4486-A566-6FF66374DA7B}|43. Switch expressions\\43. Switch expressions.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\43. switch expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68404FCE-9FC6-4486-A566-6FF66374DA7B}|43. Switch expressions\\43. Switch expressions.csproj|solutionrelative:43. switch expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D392D1-47E7-4B12-BCC5-934A1AF19013}|42. Switch statement\\42. Switch statement.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\42. switch statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D392D1-47E7-4B12-BCC5-934A1AF19013}|42. Switch statement\\42. Switch statement.csproj|solutionrelative:42. switch statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200DE2D8-3B67-4EB2-8901-A8B49A474AD5}|41. String interpolation\\41. String interpolation.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\41. string interpolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200DE2D8-3B67-4EB2-8901-A8B49A474AD5}|41. String interpolation\\41. String interpolation.csproj|solutionrelative:41. string interpolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FB450B-37F8-4634-BE1D-7843A9BABC70}|36. Adding a new project to a solution\\36. Adding a new project to a solution.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\36. adding a new project to a solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FB450B-37F8-4634-BE1D-7843A9BABC70}|36. Adding a new project to a solution\\36. Adding a new project to a solution.csproj|solutionrelative:36. adding a new project to a solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73821BBC-B0DB-4AE5-A924-101AFE5577D2}|34. Parsing a string to an int (int.Parse method)\\34. Parsing a string to an int (int.Parse method).csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\34. parsing a string to an int (int.parse method)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73821BBC-B0DB-4AE5-A924-101AFE5577D2}|34. Parsing a string to an int (int.Parse method)\\34. Parsing a string to an int (int.Parse method).csproj|solutionrelative:34. parsing a string to an int (int.parse method)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FB7AC1-DD89-4CCE-869C-016A5D413FC6}|35. The first exception\\35. The first exception.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\35. the first exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FB7AC1-DD89-4CCE-869C-016A5D413FC6}|35. The first exception\\35. The first exception.csproj|solutionrelative:35. the first exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1F9805-4D70-461C-841F-DC00F50E20A4}|30. The scope of local variables\\30. The scope of local variables.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\30. the scope of local variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1F9805-4D70-461C-841F-DC00F50E20A4}|30. The scope of local variables\\30. The scope of local variables.csproj|solutionrelative:30. the scope of local variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680DD846-AE13-48F8-BC36-C210AF3BFA45}|29. if else conditional statement\\29. if else conditional statement.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\29. if else conditional statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680DD846-AE13-48F8-BC36-C210AF3BFA45}|29. if else conditional statement\\29. if else conditional statement.csproj|solutionrelative:29. if else conditional statement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143F4B74-0516-4DC4-8B9B-10F5C4A34F60}|24. Debugging with breakpoints\\24. Debugging with breakpoints.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\24. debugging with breakpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143F4B74-0516-4DC4-8B9B-10F5C4A34F60}|24. Debugging with breakpoints\\24. Debugging with breakpoints.csproj|solutionrelative:24. debugging with breakpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7EB921-8414-41A7-9E55-DD31A00F9D78}|27. Boolean type. Logical negation, equality, comparison, and modulo operators\\27. Boolean type. Logical negation, equality, comparison, and modulo operators.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\27. boolean type. logical negation, equality, comparison, and modulo operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7EB921-8414-41A7-9E55-DD31A00F9D78}|27. Boolean type. Logical negation, equality, comparison, and modulo operators\\27. Boolean type. Logical negation, equality, comparison, and modulo operators.csproj|solutionrelative:27. boolean type. logical negation, equality, comparison, and modulo operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574CEAD5-3D47-4482-8BF4-6825553D50A0}|28. AND and OR logical operators\\28. AND and OR logical operators.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\28. and and or logical operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574CEAD5-3D47-4482-8BF4-6825553D50A0}|28. AND and OR logical operators\\28. AND and OR logical operators.csproj|solutionrelative:28. and and or logical operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669D6BBD-0F02-4990-81B6-A598D90C04A1}|23. User input\\23. User input.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\23. user input\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669D6BBD-0F02-4990-81B6-A598D90C04A1}|23. User input\\23. User input.csproj|solutionrelative:23. user input\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C35EADD-66B3-4399-90E3-5B8E2CDE15BE}|21. Operators\\21. Operators.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\21. operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C35EADD-66B3-4399-90E3-5B8E2CDE15BE}|21. Operators\\21. Operators.csproj|solutionrelative:21. operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41723E59-6D5D-4237-8B67-874D5AC291E6}|22. Implicitly typed variables\\22. Implicitly typed variables.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\22. implicitly typed variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41723E59-6D5D-4237-8B67-874D5AC291E6}|22. Implicitly typed variables\\22. Implicitly typed variables.csproj|solutionrelative:22. implicitly typed variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08AEE9F-9DBD-428C-B875-6B2343E73C43}|20. Naming variables \u0026 introduction to clean code\\20. Naming variables \u0026 introduction to clean code.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\20. naming variables \u0026 introduction to clean code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08AEE9F-9DBD-428C-B875-6B2343E73C43}|20. Naming variables \u0026 introduction to clean code\\20. Naming variables \u0026 introduction to clean code.csproj|solutionrelative:20. naming variables \u0026 introduction to clean code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0228AD-9023-4D4E-9E36-7DE458A062EC}|19. Variables\\19. Variables.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\19. variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0228AD-9023-4D4E-9E36-7DE458A062EC}|19. Variables\\19. Variables.csproj|solutionrelative:19. variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75994F71-1DA7-4EE9-8564-01ED988AD26F}|17. Programmer\u0027s most important skill\\17. Programmer\u0027s most important skill.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\17. programmer\u0027s most important skill\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75994F71-1DA7-4EE9-8564-01ED988AD26F}|17. Programmer\u0027s most important skill\\17. Programmer\u0027s most important skill.csproj|solutionrelative:17. programmer\u0027s most important skill\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C44F34-76A8-41D2-B1EF-EB17DD12A288}|16. From a text file to an executable program\\16. From a text file to an executable program.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\16. from a text file to an executable program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C44F34-76A8-41D2-B1EF-EB17DD12A288}|16. From a text file to an executable program\\16. From a text file to an executable program.csproj|solutionrelative:16. from a text file to an executable program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566E93F3-6D65-452E-BA13-1CE05916BF76}|15. Our first C# program (using Visual Studio Code)\\15. Our first C# program (using Visual Studio Code).csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\15. our first c# program (using visual studio code)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566E93F3-6D65-452E-BA13-1CE05916BF76}|15. Our first C# program (using Visual Studio Code)\\15. Our first C# program (using Visual Studio Code).csproj|solutionrelative:15. our first c# program (using visual studio code)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6A62ED-7DFA-40FD-A8C8-CA4F197AD8F9}|14. First CSharp Program\\14. First CSharp Program.csproj|c:\\users\\chinm\\source\\repos\\2. c sharp fundamentals\\14. first csharp program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6A62ED-7DFA-40FD-A8C8-CA4F197AD8F9}|14. First CSharp Program\\14. First CSharp Program.csproj|solutionrelative:14. first csharp program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\51_1. Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "51_1. Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\51_1. Assignment\\Program.cs",
+              "RelativeToolTip": "51_1. Assignment\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:38:33.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\60. TryParse method\\Program.cs",
+              "RelativeDocumentMoniker": "60. TryParse method\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\60. TryParse method\\Program.cs",
+              "RelativeToolTip": "60. TryParse method\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T20:27:32.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\59. out keyword\\Program.cs",
+              "RelativeDocumentMoniker": "59. out keyword\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\59. out keyword\\Program.cs",
+              "RelativeToolTip": "59. out keyword\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwFQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T20:12:53.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\58. Lists\\Program.cs",
+              "RelativeDocumentMoniker": "58. Lists\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\58. Lists\\Program.cs",
+              "RelativeToolTip": "58. Lists\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:46:03.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\57. Foreach loop\\Program.cs",
+              "RelativeDocumentMoniker": "57. Foreach loop\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\57. Foreach loop\\Program.cs",
+              "RelativeToolTip": "57. Foreach loop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:41:35.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\56. Multi-dimensional arrays\\Program.cs",
+              "RelativeDocumentMoniker": "56. Multi-dimensional arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\56. Multi-dimensional arrays\\Program.cs",
+              "RelativeToolTip": "56. Multi-dimensional arrays\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:27:11.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\55. Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "55. Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\55. Arrays\\Program.cs",
+              "RelativeToolTip": "55. Arrays\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:06:00.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\51. Break\\Program.cs",
+              "RelativeDocumentMoniker": "51. Break\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\51. Break\\Program.cs",
+              "RelativeToolTip": "51. Break\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:52:47.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\50. For loop\\Program.cs",
+              "RelativeDocumentMoniker": "50. For loop\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\50. For loop\\Program.cs",
+              "RelativeToolTip": "50. For loop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:59:34.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\49. Do while loop\\Program.cs",
+              "RelativeDocumentMoniker": "49. Do while loop\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\49. Do while loop\\Program.cs",
+              "RelativeToolTip": "49. Do while loop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:56:19.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\46. While loop - part 1\\Program.cs",
+              "RelativeDocumentMoniker": "46. While loop - part 1\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\46. While loop - part 1\\Program.cs",
+              "RelativeToolTip": "46. While loop - part 1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:46:57.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\45. A need for loops\\Program.cs",
+              "RelativeDocumentMoniker": "45. A need for loops\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\45. A need for loops\\Program.cs",
+              "RelativeToolTip": "45. A need for loops\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:44:54.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\44. Char\\Program.cs",
+              "RelativeDocumentMoniker": "44. Char\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\44. Char\\Program.cs",
+              "RelativeToolTip": "44. Char\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:42:03.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\43. Switch expressions\\Program.cs",
+              "RelativeDocumentMoniker": "43. Switch expressions\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\43. Switch expressions\\Program.cs",
+              "RelativeToolTip": "43. Switch expressions\\Program.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAGIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:31:45.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\42. Switch statement\\Program.cs",
+              "RelativeDocumentMoniker": "42. Switch statement\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\42. Switch statement\\Program.cs",
+              "RelativeToolTip": "42. Switch statement\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAE8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:19:06.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\41. String interpolation\\Program.cs",
+              "RelativeDocumentMoniker": "41. String interpolation\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\41. String interpolation\\Program.cs",
+              "RelativeToolTip": "41. String interpolation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:14:47.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\36. Adding a new project to a solution\\Program.cs",
+              "RelativeDocumentMoniker": "36. Adding a new project to a solution\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\36. Adding a new project to a solution\\Program.cs",
+              "RelativeToolTip": "36. Adding a new project to a solution\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T16:59:26.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\35. The first exception\\Program.cs",
+              "RelativeDocumentMoniker": "35. The first exception\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\35. The first exception\\Program.cs",
+              "RelativeToolTip": "35. The first exception\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T16:57:25.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\34. Parsing a string to an int (int.Parse method)\\Program.cs",
+              "RelativeDocumentMoniker": "34. Parsing a string to an int (int.Parse method)\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\34. Parsing a string to an int (int.Parse method)\\Program.cs",
+              "RelativeToolTip": "34. Parsing a string to an int (int.Parse method)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T16:54:27.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\31. Methods - part 1 - void methods\\Program.cs",
+              "RelativeDocumentMoniker": "31. Methods - part 1 - void methods\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\31. Methods - part 1 - void methods\\Program.cs",
+              "RelativeToolTip": "31. Methods - part 1 - void methods\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:30:18.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\30. The scope of local variables\\Program.cs",
+              "RelativeDocumentMoniker": "30. The scope of local variables\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\30. The scope of local variables\\Program.cs",
+              "RelativeToolTip": "30. The scope of local variables\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:23:47.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\29. if else conditional statement\\Program.cs",
+              "RelativeDocumentMoniker": "29. if else conditional statement\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\29. if else conditional statement\\Program.cs",
+              "RelativeToolTip": "29. if else conditional statement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:15:53.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\28. AND and OR logical operators\\Program.cs",
+              "RelativeDocumentMoniker": "28. AND and OR logical operators\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\28. AND and OR logical operators\\Program.cs",
+              "RelativeToolTip": "28. AND and OR logical operators\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:01:58.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\27. Boolean type. Logical negation, equality, comparison, and modulo operators\\Program.cs",
+              "RelativeDocumentMoniker": "27. Boolean type. Logical negation, equality, comparison, and modulo operators\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\27. Boolean type. Logical negation, equality, comparison, and modulo operators\\Program.cs",
+              "RelativeToolTip": "27. Boolean type. Logical negation, equality, comparison, and modulo operators\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:53:49.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\24. Debugging with breakpoints\\Program.cs",
+              "RelativeDocumentMoniker": "24. Debugging with breakpoints\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\24. Debugging with breakpoints\\Program.cs",
+              "RelativeToolTip": "24. Debugging with breakpoints\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:53:20.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\23. User input\\Program.cs",
+              "RelativeDocumentMoniker": "23. User input\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\23. User input\\Program.cs",
+              "RelativeToolTip": "23. User input\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:46:35.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\22. Implicitly typed variables\\Program.cs",
+              "RelativeDocumentMoniker": "22. Implicitly typed variables\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\22. Implicitly typed variables\\Program.cs",
+              "RelativeToolTip": "22. Implicitly typed variables\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:44:20.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\21. Operators\\Program.cs",
+              "RelativeDocumentMoniker": "21. Operators\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\21. Operators\\Program.cs",
+              "RelativeToolTip": "21. Operators\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:38:02.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\20. Naming variables \u0026 introduction to clean code\\Program.cs",
+              "RelativeDocumentMoniker": "20. Naming variables \u0026 introduction to clean code\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\20. Naming variables \u0026 introduction to clean code\\Program.cs",
+              "RelativeToolTip": "20. Naming variables \u0026 introduction to clean code\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:27:53.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\19. Variables\\Program.cs",
+              "RelativeDocumentMoniker": "19. Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\19. Variables\\Program.cs",
+              "RelativeToolTip": "19. Variables\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:05:53.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\17. Programmer\u0027s most important skill\\Program.cs",
+              "RelativeDocumentMoniker": "17. Programmer\u0027s most important skill\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\17. Programmer\u0027s most important skill\\Program.cs",
+              "RelativeToolTip": "17. Programmer\u0027s most important skill\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:58:49.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\16. From a text file to an executable program\\Program.cs",
+              "RelativeDocumentMoniker": "16. From a text file to an executable program\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\16. From a text file to an executable program\\Program.cs",
+              "RelativeToolTip": "16. From a text file to an executable program\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:31:20.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\15. Our first C# program (using Visual Studio Code)\\Program.cs",
+              "RelativeDocumentMoniker": "15. Our first C# program (using Visual Studio Code)\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\15. Our first C# program (using Visual Studio Code)\\Program.cs",
+              "RelativeToolTip": "15. Our first C# program (using Visual Studio Code)\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:21:50.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\14. First CSharp Program\\Program.cs",
+              "RelativeDocumentMoniker": "14. First CSharp Program\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\2. C Sharp Fundamentals\\14. First CSharp Program\\Program.cs",
+              "RelativeToolTip": "14. First CSharp Program\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:44:07.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
