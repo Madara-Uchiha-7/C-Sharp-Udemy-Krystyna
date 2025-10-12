@@ -1,53 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\",
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C0BF662-97BC-40EB-A646-5C418F652709}|83. Computed properties\\83. Computed properties.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\83. computed properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F09A0DB-C108-4703-BDF4-FF708466D935}|97. Quiz\\97. Quiz.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\97. quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F09A0DB-C108-4703-BDF4-FF708466D935}|97. Quiz\\97. Quiz.csproj|solutionrelative:97. quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72B92BD-F413-4ADF-8FBD-B983AB4E06DC}|74. Constructors overloading. Calling one constructor from another\\74. Constructors overloading. Calling one constructor from another.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\74. constructors overloading. calling one constructor from another\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C72B92BD-F413-4ADF-8FBD-B983AB4E06DC}|74. Constructors overloading. Calling one constructor from another\\74. Constructors overloading. Calling one constructor from another.csproj|solutionrelative:74. constructors overloading. calling one constructor from another\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA2752-8F8B-4401-9899-03E97B245D5D}|96_2. Teachers way\\96_2. Teachers way.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\96_2. teachers way\\game\\guessinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA2752-8F8B-4401-9899-03E97B245D5D}|96_2. Teachers way\\96_2. Teachers way.csproj|solutionrelative:96_2. teachers way\\game\\guessinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA2752-8F8B-4401-9899-03E97B245D5D}|96_2. Teachers way\\96_2. Teachers way.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\96_2. teachers way\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA2752-8F8B-4401-9899-03E97B245D5D}|96_2. Teachers way\\96_2. Teachers way.csproj|solutionrelative:96_2. teachers way\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA2752-8F8B-4401-9899-03E97B245D5D}|96_2. Teachers way\\96_2. Teachers way.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\96_2. teachers way\\usercommunication\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA2752-8F8B-4401-9899-03E97B245D5D}|96_2. Teachers way\\96_2. Teachers way.csproj|solutionrelative:96_2. teachers way\\usercommunication\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D11BCC0-F226-4B39-B245-50663D091678}|96_1. Assignment - My Way\\96_1. Assignment - My Way.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\96_1. assignment - my way\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D11BCC0-F226-4B39-B245-50663D091678}|96_1. Assignment - My Way\\96_1. Assignment - My Way.csproj|solutionrelative:96_1. assignment - my way\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766B59F8-3E4C-48BE-A18D-B0ADA4CAF88B}|96. Assignment - Dice Roll Game - Requirements\\96. Assignment - Dice Roll Game - Requirements.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\96. assignment - dice roll game - requirements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766B59F8-3E4C-48BE-A18D-B0ADA4CAF88B}|96. Assignment - Dice Roll Game - Requirements\\96. Assignment - Dice Roll Game - Requirements.csproj|solutionrelative:96. assignment - dice roll game - requirements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0BF662-97BC-40EB-A646-5C418F652709}|83. Computed properties\\83. Computed properties.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\83. computed properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C0BF662-97BC-40EB-A646-5C418F652709}|83. Computed properties\\83. Computed properties.csproj|solutionrelative:83. computed properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44DA52D5-9A70-4976-96D8-C64444F45F56}|90. Files, namespaces and the using directive\\90. Files, namespaces and the using directive.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\90. files, namespaces and the using directive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44DA52D5-9A70-4976-96D8-C64444F45F56}|90. Files, namespaces and the using directive\\90. Files, namespaces and the using directive.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\90. files, namespaces and the using directive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44DA52D5-9A70-4976-96D8-C64444F45F56}|90. Files, namespaces and the using directive\\90. Files, namespaces and the using directive.csproj|solutionrelative:90. files, namespaces and the using directive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09222460-510A-43D3-A0D5-9BB1CF940544}|91. Global using directives\\91. Global using directives.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\91. global using directives\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09222460-510A-43D3-A0D5-9BB1CF940544}|91. Global using directives\\91. Global using directives.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\91. global using directives\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09222460-510A-43D3-A0D5-9BB1CF940544}|91. Global using directives\\91. Global using directives.csproj|solutionrelative:91. global using directives\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE3B085C-7167-45D2-B5FD-165D28C50924}|86. Single Responsibility Principle - Introduction\\86. Single Responsibility Principle - Introduction.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\86. single responsibility principle - introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE3B085C-7167-45D2-B5FD-165D28C50924}|86. Single Responsibility Principle - Introduction\\86. Single Responsibility Principle - Introduction.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\86. single responsibility principle - introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE3B085C-7167-45D2-B5FD-165D28C50924}|86. Single Responsibility Principle - Introduction\\86. Single Responsibility Principle - Introduction.csproj|solutionrelative:86. single responsibility principle - introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28EB8412-9048-43F2-8B90-DFB385841867}|89. Single Responsibility Principle - Refactoring (part 3)\\89. Single Responsibility Principle - Refactoring (part 3).csproj|c:\\users\\chinm\\source\\repos\\oops basics\\89. single responsibility principle - refactoring (part 3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28EB8412-9048-43F2-8B90-DFB385841867}|89. Single Responsibility Principle - Refactoring (part 3)\\89. Single Responsibility Principle - Refactoring (part 3).csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\89. single responsibility principle - refactoring (part 3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28EB8412-9048-43F2-8B90-DFB385841867}|89. Single Responsibility Principle - Refactoring (part 3)\\89. Single Responsibility Principle - Refactoring (part 3).csproj|solutionrelative:89. single responsibility principle - refactoring (part 3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2E12428-582A-4217-BD38-B38266A0322B}|88. Single Responsibility Principle - Refactoring (part 2)\\88. Single Responsibility Principle - Refactoring (part 2).csproj|c:\\users\\chinm\\source\\repos\\oops basics\\88. single responsibility principle - refactoring (part 2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2E12428-582A-4217-BD38-B38266A0322B}|88. Single Responsibility Principle - Refactoring (part 2)\\88. Single Responsibility Principle - Refactoring (part 2).csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\88. single responsibility principle - refactoring (part 2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2E12428-582A-4217-BD38-B38266A0322B}|88. Single Responsibility Principle - Refactoring (part 2)\\88. Single Responsibility Principle - Refactoring (part 2).csproj|solutionrelative:88. single responsibility principle - refactoring (part 2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BBBF264-AF98-4BAE-9FD4-3C9D9FBC552D}|87. Single Responsibility Principle - Refactoring (part 1)\\87. Single Responsibility Principle - Refactoring (part 1).csproj|c:\\users\\chinm\\source\\repos\\oops basics\\87. single responsibility principle - refactoring (part 1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BBBF264-AF98-4BAE-9FD4-3C9D9FBC552D}|87. Single Responsibility Principle - Refactoring (part 1)\\87. Single Responsibility Principle - Refactoring (part 1).csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\87. single responsibility principle - refactoring (part 1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BBBF264-AF98-4BAE-9FD4-3C9D9FBC552D}|87. Single Responsibility Principle - Refactoring (part 1)\\87. Single Responsibility Principle - Refactoring (part 1).csproj|solutionrelative:87. single responsibility principle - refactoring (part 1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{447A7429-7CA6-4FA2-B581-722A2C668177}|Exercise Join and Split\\Exercise Join and Split.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\exercise join and split\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{447A7429-7CA6-4FA2-B581-722A2C668177}|Exercise Join and Split\\Exercise Join and Split.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\exercise join and split\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{447A7429-7CA6-4FA2-B581-722A2C668177}|Exercise Join and Split\\Exercise Join and Split.csproj|solutionrelative:exercise join and split\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA20790E-E274-4A47-9087-969D8C0420CC}|85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\85. static fields, properties and constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA20790E-E274-4A47-9087-969D8C0420CC}|85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\85. static fields, properties and constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA20790E-E274-4A47-9087-969D8C0420CC}|85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj|solutionrelative:85. static fields, properties and constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38FD705-CA6D-4EC7-BC0F-0FA3C510AA09}|82. Object initializers\\82. Object initializers.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\82. object initializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D38FD705-CA6D-4EC7-BC0F-0FA3C510AA09}|82. Object initializers\\82. Object initializers.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\82. object initializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D38FD705-CA6D-4EC7-BC0F-0FA3C510AA09}|82. Object initializers\\82. Object initializers.csproj|solutionrelative:82. object initializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536DB31A-B668-4399-A7A8-D93089AA2D9B}|83. Computed properties Exercise\\83. Computed properties Exercise.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\83. computed properties exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{536DB31A-B668-4399-A7A8-D93089AA2D9B}|83. Computed properties Exercise\\83. Computed properties Exercise.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\83. computed properties exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536DB31A-B668-4399-A7A8-D93089AA2D9B}|83. Computed properties Exercise\\83. Computed properties Exercise.csproj|solutionrelative:83. computed properties exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01E0E498-16FA-4F53-BF25-9ED353AA9605}|84. Static methods and classes\\84. Static methods and classes.csproj|c:\\users\\chinm\\source\\repos\\oops basics\\84. static methods and classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01E0E498-16FA-4F53-BF25-9ED353AA9605}|84. Static methods and classes\\84. Static methods and classes.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\84. static methods and classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01E0E498-16FA-4F53-BF25-9ED353AA9605}|84. Static methods and classes\\84. Static methods and classes.csproj|solutionrelative:84. static methods and classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,40 +86,131 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\91. Global using directives\\Program.cs",
-              "RelativeDocumentMoniker": "91. Global using directives\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\91. Global using directives\\Program.cs",
-              "RelativeToolTip": "91. Global using directives\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABwAAAAOAAAA",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\97. Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "97. Quiz\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\97. Quiz\\Program.cs",
+              "RelativeToolTip": "97. Quiz\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T09:22:45.918Z"
+              "WhenOpened": "2025-10-12T10:53:54.736Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\90. Files, namespaces and the using directive\\Program.cs",
-              "RelativeDocumentMoniker": "90. Files, namespaces and the using directive\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\90. Files, namespaces and the using directive\\Program.cs",
-              "RelativeToolTip": "90. Files, namespaces and the using directive\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T17:42:56.445Z",
+              "Title": "Notes.txt",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\Notes.txt",
+              "RelativeDocumentMoniker": "74. Constructors overloading. Calling one constructor from another\\Notes.txt",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\Notes.txt",
+              "RelativeToolTip": "74. Constructors overloading. Calling one constructor from another\\Notes.txt",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-12T10:47:04.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ConsoleReader.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_2. Teachers way\\UserCommunication\\ConsoleReader.cs",
+              "RelativeDocumentMoniker": "96_2. Teachers way\\UserCommunication\\ConsoleReader.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_2. Teachers way\\UserCommunication\\ConsoleReader.cs",
+              "RelativeToolTip": "96_2. Teachers way\\UserCommunication\\ConsoleReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T10:39:47.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuessingGame.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_2. Teachers way\\Game\\GuessingGame.cs",
+              "RelativeDocumentMoniker": "96_2. Teachers way\\Game\\GuessingGame.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_2. Teachers way\\Game\\GuessingGame.cs",
+              "RelativeToolTip": "96_2. Teachers way\\Game\\GuessingGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T10:38:10.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_2. Teachers way\\Program.cs",
+              "RelativeDocumentMoniker": "96_2. Teachers way\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_2. Teachers way\\Program.cs",
+              "RelativeToolTip": "96_2. Teachers way\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T09:58:27.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_1. Assignment - My Way\\Program.cs",
+              "RelativeDocumentMoniker": "96_1. Assignment - My Way\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_1. Assignment - My Way\\Program.cs",
+              "RelativeToolTip": "96_1. Assignment - My Way\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:05:30.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96. Assignment - Dice Roll Game - Requirements\\Program.cs",
+              "RelativeDocumentMoniker": "96. Assignment - Dice Roll Game - Requirements\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96. Assignment - Dice Roll Game - Requirements\\Program.cs",
+              "RelativeToolTip": "96. Assignment - Dice Roll Game - Requirements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:03:54.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\91. Global using directives\\Program.cs",
+              "RelativeDocumentMoniker": "91. Global using directives\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\91. Global using directives\\Program.cs",
+              "RelativeToolTip": "91. Global using directives\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:22:45.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\90. Files, namespaces and the using directive\\Program.cs",
+              "RelativeDocumentMoniker": "90. Files, namespaces and the using directive\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\90. Files, namespaces and the using directive\\Program.cs",
+              "RelativeToolTip": "90. Files, namespaces and the using directive\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:42:56.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
               "RelativeDocumentMoniker": "89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
               "RelativeToolTip": "89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,11 +218,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
               "RelativeDocumentMoniker": "88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
               "RelativeToolTip": "88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
               "ViewState": "AQIAAEEAAAAAAAAAAAAuwFAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,11 +230,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
               "RelativeDocumentMoniker": "87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
               "RelativeToolTip": "87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAgwCYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,11 +242,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\86. Single Responsibility Principle - Introduction\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\86. Single Responsibility Principle - Introduction\\Program.cs",
               "RelativeDocumentMoniker": "86. Single Responsibility Principle - Introduction\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\86. Single Responsibility Principle - Introduction\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\86. Single Responsibility Principle - Introduction\\Program.cs",
               "RelativeToolTip": "86. Single Responsibility Principle - Introduction\\Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,11 +254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\Exercise Join and Split\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\Exercise Join and Split\\Program.cs",
               "RelativeDocumentMoniker": "Exercise Join and Split\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\Exercise Join and Split\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\Exercise Join and Split\\Program.cs",
               "RelativeToolTip": "Exercise Join and Split\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAIBJwBUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,11 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\82. Object initializers\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\82. Object initializers\\Program.cs",
               "RelativeDocumentMoniker": "82. Object initializers\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\82. Object initializers\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\82. Object initializers\\Program.cs",
               "RelativeToolTip": "82. Object initializers\\Program.cs",
               "ViewState": "AQIAABsAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\83. Computed properties Exercise\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\83. Computed properties Exercise\\Program.cs",
               "RelativeDocumentMoniker": "83. Computed properties Exercise\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\83. Computed properties Exercise\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\83. Computed properties Exercise\\Program.cs",
               "RelativeToolTip": "83. Computed properties Exercise\\Program.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAwA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,24 +290,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\83. Computed properties\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\83. Computed properties\\Program.cs",
               "RelativeDocumentMoniker": "83. Computed properties\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\83. Computed properties\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\83. Computed properties\\Program.cs",
               "RelativeToolTip": "83. Computed properties\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T05:21:16.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T05:21:16.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\84. Static methods and classes\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\84. Static methods and classes\\Program.cs",
               "RelativeDocumentMoniker": "84. Static methods and classes\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\84. Static methods and classes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\84. Static methods and classes\\Program.cs",
               "RelativeToolTip": "84. Static methods and classes\\Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAzwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,11 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\85. Static fields, properties and constructors\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\85. Static fields, properties and constructors\\Program.cs",
               "RelativeDocumentMoniker": "85. Static fields, properties and constructors\\Program.cs",
-              "ToolTip": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\85. Static fields, properties and constructors\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\85. Static fields, properties and constructors\\Program.cs",
               "RelativeToolTip": "85. Static fields, properties and constructors\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

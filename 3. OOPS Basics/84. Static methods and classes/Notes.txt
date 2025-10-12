@@ -1,0 +1,38 @@
+1. If we have a method Which does the common work
+   For example we have add method in Addition class
+   Then we want this add method can be used by anyone irrespective of any instance of the object. 
+   In such case we make those methods static. 
+
+2. Static methods are called using the class name, not the object name. 
+   Because what is in the instance of the class does not matter to this method. 
+
+Syntax:
+className.methodName(arguments if any);
+
+3. A class with only read-only properties is immutable and stateless.
+   If the properties can only be set during object creation (e.g., in the constructor) and have no public set accessor, the object becomes immutable. 
+   Once created, its state can't be changed. 
+   This makes the object functionally stateless.
+   In C#, a stateless class is a class that does not store any state within its instances. This means that its methods do not rely on or 
+   modify any instance fields or properties. Each method call is independent and self-contained, with all necessary data being passed in through its parameters.
+
+4. const fields/varibales are implicitly static varibales.
+   So, we can call them using the className.FieldName
+
+
+5. If we make the class static that is : static class ClassName
+   then we can not instantiate the static class.
+   It only works as the container of the method. 
+
+6. Static classes can only contain static methods.
+
+7. If you hover over the method then press control + click on that class name
+   then VS will directly go to the definition of the method.
+
+8. We can not call non static method from static method
+   becuase non static method may have some fields which will be depentent on
+   perticular instance. 
+
+9. It is a good practice to make private method static if does not use any fields.
+
+10. Static methods work slightly faster.

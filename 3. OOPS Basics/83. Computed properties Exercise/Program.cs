@@ -42,5 +42,4 @@ public class DailyAccountState
                 $"end of day state: {EndOfDayState}";
         }
     }
-
 }

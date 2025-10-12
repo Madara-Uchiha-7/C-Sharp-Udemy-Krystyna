@@ -1,0 +1,15 @@
+Const:
+ 
+1. This can be assigned to the variable/ fields
+2. It can be done at declaration and they must be given a compile time constant value
+3. They can not be modified afterwords.
+4. With const you can not use var keyword 
+5. Names of const fields or variables should always start from the capital letter
+
+readonly
+1. can be assigned at the declaration
+2. Making field readonly makes it immutable
+3. It is fine to if value is evaluated at runtime for readonly
+4. Since it is not compulsory to assign them a values while declaration
+we can give them the value in construtor, i.e. while creating the object.
+Once that is done, we can assign them a new value.

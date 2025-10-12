@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\74. Constructors overloading. Calling one constructor from another.csproj": {}
+    "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\74. Constructors overloading. Calling one constructor from another.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\74. Constructors overloading. Calling one constructor from another.csproj": {
+    "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\74. Constructors overloading. Calling one constructor from another.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\74. Constructors overloading. Calling one constructor from another.csproj",
+        "projectUniqueName": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\74. Constructors overloading. Calling one constructor from another.csproj",
         "projectName": "74. Constructors overloading. Calling one constructor from another",
-        "projectPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\74. Constructors overloading. Calling one constructor from another.csproj",
+        "projectPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\74. Constructors overloading. Calling one constructor from another.csproj",
         "packagesPath": "C:\\Users\\chinm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\obj\\",
+        "outputPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

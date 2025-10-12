@@ -1,0 +1,11 @@
+1. There are 5 principles called as SOLID
+
+2. 1st is Single Responsibility Principle (SRP)
+
+   Class should be responsible for only one thing.
+   For e.g. even though List class provides many diff methods and fields,
+   the main purpose of class List is to store the values in given order.
+
+3. Repositories are classes or components that are encapsulated the logic required to access the data sources.
+
+4. DRY is dont repeat any code principle.

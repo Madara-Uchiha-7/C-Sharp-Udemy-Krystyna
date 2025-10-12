@@ -15,10 +15,10 @@
  * (Note: Obviously you need to define the constructor in the class for this)
  * If we set the same value in constructor and in Object Initializer then 
  * Object Initializer's one will get used.
- * This is because the constructor is called first.
+ * This is because the constructor is called first so Object Initializer will override it.
  * If you remove setter i.e. set; or make the Setter private then 
  * Object Initializer will not work.
- * Making setter is not a good thing because user can still set the value
+ * Making setter public is not a good thing because user can still set the value
  * from outside (e.g. obj.setterGetterName = value), so most of the time the setter 
  * will be private. To tackle this new accessor is introduced in C# called as the 
  * init.

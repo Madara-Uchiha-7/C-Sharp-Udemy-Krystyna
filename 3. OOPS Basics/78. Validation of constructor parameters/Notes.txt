@@ -1,0 +1,23 @@
+1. nameof is the operator not the method.
+
+2. It returns the name of a variable, type or member as a string literal, without hardcoding it.
+
+string myVariable = "Hello";
+Console.WriteLine(nameof(myVariable));  
+Output: "myVariable"
+
+
+This makes refactoring safer — if you rename the variable in code, the nameof result updates automatically.
+
+3. Works with classes, properties, methods, namespaces, fields
+
+4. If you pass something invalid, you get a compile-time error, making it safer than using string literals.
+
+
+Commonly used in:
+
+Exception parameter names
+
+PropertyChanged events (MVVM, data binding)
+
+Logging/debugging

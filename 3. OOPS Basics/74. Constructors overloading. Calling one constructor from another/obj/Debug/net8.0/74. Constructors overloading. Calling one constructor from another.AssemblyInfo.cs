@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("74. Constructors overloading. Calling one constructor from another")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b178fd5d300c379867497dc3dd46247ad9ff6a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("74. Constructors overloading. Calling one constructor from another")]
 [assembly: System.Reflection.AssemblyTitleAttribute("74. Constructors overloading. Calling one constructor from another")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

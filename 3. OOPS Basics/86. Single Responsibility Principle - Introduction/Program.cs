@@ -15,7 +15,7 @@
  * It also checks how name should be validated.
  * Also it is reading from text file and writing in the text file.
  * Also building the path for the file.
- * Alos it is formating the list of names
+ * Also it is formating the list of names
  * one of the most imp principle in programming language i.e.SRP*/
 
 Names names = new Names();

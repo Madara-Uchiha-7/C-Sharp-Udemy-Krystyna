@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\Exercise Join and Split\\Exercise Join and Split.csproj": {}
+    "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\Exercise Join and Split\\Exercise Join and Split.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\Exercise Join and Split\\Exercise Join and Split.csproj": {
+    "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\Exercise Join and Split\\Exercise Join and Split.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\Exercise Join and Split\\Exercise Join and Split.csproj",
+        "projectUniqueName": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\Exercise Join and Split\\Exercise Join and Split.csproj",
         "projectName": "Exercise Join and Split",
-        "projectPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\Exercise Join and Split\\Exercise Join and Split.csproj",
+        "projectPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\Exercise Join and Split\\Exercise Join and Split.csproj",
         "packagesPath": "C:\\Users\\chinm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\Exercise Join and Split\\obj\\",
+        "outputPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\Exercise Join and Split\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

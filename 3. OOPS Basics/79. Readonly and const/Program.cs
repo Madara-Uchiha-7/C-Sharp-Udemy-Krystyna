@@ -14,11 +14,11 @@ Console.ReadKey(); // To stop teminal closing automatically
 
 
 /* const keyword:
- * This can be assigned to the variable, fields
+ * This can be assigned to the variable/ fields
  * It can be done at declaration and they must be given a compile time constant value
  * They can not be modified afterwords.
  * With const you can not use var keyword 
- * Names of const fields and variables should always start from the capital letter
+ * Names of const fields or variables should always start from the capital letter
  */
 public class Rectangle
 {
@@ -30,7 +30,7 @@ public class Rectangle
     // Making field readonly makes it immutable i.e. 
     // Once obj is created then it will never be modified
     // It is fine to if value is evaluated at runtime for readonly
-    public readonly int Width; // Only declaration like this is not allowed in const, we must give value for const
+    public readonly int Width; //  Declaration like this is not allowed in const, we must give value for const
     public readonly int Height;
     // Now we can't change these values once obj. is created
     // So a situation where you want this to be availbale outside the class

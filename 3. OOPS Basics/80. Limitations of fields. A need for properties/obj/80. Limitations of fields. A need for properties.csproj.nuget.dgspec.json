@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\80. Limitations of fields. A need for properties\\80. Limitations of fields. A need for properties.csproj": {}
+    "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\80. Limitations of fields. A need for properties\\80. Limitations of fields. A need for properties.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\80. Limitations of fields. A need for properties\\80. Limitations of fields. A need for properties.csproj": {
+    "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\80. Limitations of fields. A need for properties\\80. Limitations of fields. A need for properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\80. Limitations of fields. A need for properties\\80. Limitations of fields. A need for properties.csproj",
+        "projectUniqueName": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\80. Limitations of fields. A need for properties\\80. Limitations of fields. A need for properties.csproj",
         "projectName": "80. Limitations of fields. A need for properties",
-        "projectPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\80. Limitations of fields. A need for properties\\80. Limitations of fields. A need for properties.csproj",
+        "projectPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\80. Limitations of fields. A need for properties\\80. Limitations of fields. A need for properties.csproj",
         "packagesPath": "C:\\Users\\chinm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\80. Limitations of fields. A need for properties\\obj\\",
+        "outputPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\80. Limitations of fields. A need for properties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

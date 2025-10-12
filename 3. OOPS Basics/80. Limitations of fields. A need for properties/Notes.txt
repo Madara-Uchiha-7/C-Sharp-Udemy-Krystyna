@@ -1,0 +1,5 @@
+1. Methods which sets the values to its class variables/fields are called as setter methods.
+
+2. Methods which gives back the values of the class fields to the caller of the method are called getter methods.
+
+3. Since we use the method to set the values and get the values, the fields which we declare are made private.

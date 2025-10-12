@@ -1,0 +1,78 @@
+Fields:
+
+1. A field is a variable that belongs directly to a class or struct.
+2. It holds data
+3. Can have any access modifier (public, private, protected, etc).
+4. Generally used as private, not public (to protect data).
+5. If declared private then they will start with _
+
+e.g.
+private string _name;
+
+Properties:
+
+1. It defines get and/or set accessors to read/write the data — but allows adding logic, validation, etc.
+
+class Person
+{
+    private string _name;  // backing field
+
+    public string Name    // property
+    {
+        get { return name; }           // read the value
+        set { name = value; }          // write the value
+    }
+}
+or we can use => operator.
+class Shapes
+{
+    private int _width;
+    public int Width
+    {
+        get => return _width;
+        set => _width = value; 
+    }
+}
+2. Looks like a field when accessed (person.Name), but actually calls get/set methods behind the scenes.
+
+3. Can contain validation or logic.
+
+4. Value is special variable which will automatically get the value which we will assign to this name field outside the class. 
+
+5. This _name is the backing field since it is backed by the property.
+
+6. We will access the backing fields outside class using the property name, not by the backing field name.
+
+
+Auto-Implemented Properties:
+
+1. C# also allows auto-implemented properties, where the compiler creates a hidden backing field for you.
+
+class Person
+{
+    public string Name { get; set; }  // auto property
+}
+
+In Above example we can add private or other access modifiers to gate and set accessor. 
+
+2. We can also set the value to properties like:
+
+public int Width{ get; } = 15;
+
+This will set the value 15 to the property.
+
+3. We can also set it using => operator:
+
+public string Decription => $"A rectangle with Width {Width} and height {Height}";
+
+This way we do not need to define the get and set.
+Each time we will call the Decription i.e. getter behind the scenes,
+
+"A rectangle with Width {Width} and height {Height}"
+
+this line will be printed on the console.
+
+4. public List<string> All { get; } = new List<string>(); 
+If we assign the list to the property, then since we do not have thge setter here,
+we can not assign the new list to All but we can update the List All.
+If you do not want list to get updated then use readonly access modifier.

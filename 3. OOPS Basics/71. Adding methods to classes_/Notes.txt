@@ -1,0 +1,7 @@
+1. Default access modifiers for methods are private.
+
+2. So we need to define them public if you want to use them outside the class.
+
+3. private methods are allowed to be accessed inside the class only.
+
+4. Naming convention : Name of the method should always start from the verb.

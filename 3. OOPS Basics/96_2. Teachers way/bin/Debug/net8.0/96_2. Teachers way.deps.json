@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "96_2. Teachers way/1.0.0": {
+        "runtime": {
+          "96_2. Teachers way.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "96_2. Teachers way/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

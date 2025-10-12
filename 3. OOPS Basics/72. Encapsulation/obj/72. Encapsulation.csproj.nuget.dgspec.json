@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\72. Encapsulation\\72. Encapsulation.csproj": {}
+    "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\72. Encapsulation\\72. Encapsulation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\72. Encapsulation\\72. Encapsulation.csproj": {
+    "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\72. Encapsulation\\72. Encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\72. Encapsulation\\72. Encapsulation.csproj",
+        "projectUniqueName": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\72. Encapsulation\\72. Encapsulation.csproj",
         "projectName": "72. Encapsulation",
-        "projectPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\72. Encapsulation\\72. Encapsulation.csproj",
+        "projectPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\72. Encapsulation\\72. Encapsulation.csproj",
         "packagesPath": "C:\\Users\\chinm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\72. Encapsulation\\obj\\",
+        "outputPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\72. Encapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,48 @@
+1. 
+There will be always a possibility that you will create multiple class files in the same project. 
+Those class files can be present in the multiple or different folders in the same project. 
+And their will be one main class which will use all these folders or all these other classes.
+
+To access those different multiple classes from different folders you have to use something called :
+"using" directives in the main class.
+
+Synatx:
+
+using namespace;
+
+
+2. 
+In above point we mention namespace in the Synatx.
+These namespaces will be mentioned on the top of those multiple classes Which will be present in different folders.
+
+Synatx of these namespace or convension of these namespaces.
+
+First: 
+namespace folderName.className
+{
+    class className
+    {
+
+    }
+}
+
+Second:
+namespace folderName.className;
+className
+{
+
+}
+
+3. For each class there will be one file.
+   More than one file can be present in one folder.
+   The same class name will used as the file name and namespace name.
+
+4. We can have nested namespaces.
+
+5. Having each class in seperate file is generally a good practice.
+
+6. We should always have one file for one class in production code.
+
+7. We can also have the nested namespaces.
+
+8. We can rename the namespace.

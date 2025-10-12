@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj": {}
+    "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj": {
+    "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj",
+        "projectUniqueName": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj",
         "projectName": "85. Static fields, properties and constructors",
-        "projectPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj",
+        "projectPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\85. Static fields, properties and constructors\\85. Static fields, properties and constructors.csproj",
         "packagesPath": "C:\\Users\\chinm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\85. Static fields, properties and constructors\\obj\\",
+        "outputPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\85. Static fields, properties and constructors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

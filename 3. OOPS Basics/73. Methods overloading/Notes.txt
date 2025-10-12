@@ -1,0 +1,23 @@
+1. Adding multiple methods with the same name in the same class is method overloading
+It will have same method name but it will have the different parameters.
+You must change either:
+The number of parameters
+The type of parameters
+The order of parameters
+
+2. Overloading is not allowed if the only difference is the return type.
+
+3. Modifiers like ref and out are treated as part of the signature
+So ref vs out parameters make methods different.
+void Show(ref int x) { }
+void Show(out int x) { x = 0; } // ✅ Valid
+
+4. Optional parameters and params affect overload resolution
+
+If you use optional parameters, the compiler may consider it ambiguous.
+void Display(int x, int y = 0) { }
+void Display(int x) { }  // ❌ Ambiguity: compiler may get confused
+
+. Private varibale/field names starts from _
+
+

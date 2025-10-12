@@ -1,0 +1,18 @@
+1. They must appear after all the required parameters
+
+2. It is possible to have the mutiple optional parameters
+
+3.  Dafault value of optional parameter must be compile time constant
+
+4. If you have 2 constructors 
+(string patientName = "Son", int daysFromNow = 7)
+and
+(string patientName)
+
+As you can see 1st one has 2 default parameters without any required parameters.
+
+If you do:
+new className("Sam");
+then 
+2nd one will be called.
+So preference is given to the required parameter constructor rather than optional parameterized constructor

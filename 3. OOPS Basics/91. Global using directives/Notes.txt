@@ -1,0 +1,40 @@
+1.
+Sometimes we have namespaces that we use over and over again in almost every file of the project.
+Instead of writing the using directive for this namespace in each file, we can import it globally for
+the entire project.
+
+Let's say there is one namespace we want to use which is called ABC. 
+This name especially want to use in ten files.
+
+Then in only on file you write:
+
+global using ABC.className;
+
+
+This way you can use this namespace in all other nine files. 
+You don't need to write 
+using ABC.className; 
+in each of those nine files.
+
+This global using directive is available from the C# 10. 
+
+------------------------
+2.
+
+When you create any new class file, there will be few namespaces which are included using the "using" directive. 
+These name species are graded out.
+This means that even if we remove those namespaces, we can still use them in our class. 
+But how come we can use them even if we're not using the "using" directive? 
+
+Go to 
+FileExplorer -> project -> bin -> Debug -> net8.0 ->
+Here you will find ProjectName.GlobalUsings.g.cs
+
+Why there is a word g in above file name:
+Convention : The files which are auto generated and not created by the programmers, has g in the name.
+
+In these files there will be a global namespaces which are added using the "using" directive. 
+Henceforth, even if those namespaces are not included in our class, we can still use them. 
+You can also add your own namespace which you want to be a global namespace in this file.
+
+This file gets compiled with the rest of the project.

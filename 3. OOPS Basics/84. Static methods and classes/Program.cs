@@ -2,7 +2,8 @@
 // Because we want to use it by anyone.
 // So creating the object of the class to call the methods is pointless.
 // So we will use the static keyword.
-// This Calculator class is called as the stateless class i.e. it has no fields.
+// This Calculator class is called as the stateless class i.e. it has no fields
+// or property which can get modified at the runtime.
 // Others classes with fields are called stateful classes.
 // Static methods belongs to a class as whole not to the perticular instance.
 // Static methods can not use the instance data (using of fields or returned by properties)
@@ -25,7 +26,7 @@ public static class Calculator
 // If we make the class static that is : static class ClassName
 // then we can not instantiate the static class.
 // It only works as the container of the method. 
-// Static classes can only contain static methods/
+// Static classes can only contain static methods.
 // Thought non static class can contain static method and to call them you use class name.
 // If you hover over the method then press control + click on that class name
 // then VS will directly go to the definition of the method.

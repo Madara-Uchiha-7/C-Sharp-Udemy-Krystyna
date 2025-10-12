@@ -20,16 +20,20 @@ class Rectangle
     public int Height;
     public Rectangle(int width, int height)
     {
+        // For below methods:
         // Second argument i.e. for parameter name
         // Passing static value can be risky
         // For eg GetLengthOrDefualt(width, "Width") and GetLengthOrDefualt(height, "Height")
-        // Because if they change on line 18, 19 we may forgret to change at other places
+        // Because if they change on line 19, 20 we may forgret to change at other places.
+        // That is, if we change the field name Width to wid then we may forget to change it in the
+        // below method argument.
         // So there is one method in c# 
         // nameof(expression/varibale name) : Converts given value to string
-        // Now even if we rename the Width using control + R + R
+        // Now even if we rename the Width field using control + R + R
         // everywhere including in here nameof(Width)
-        // It will automatically convert it into string
+        // It will automatically convert it into a string
         // This way we do not need to find the string version of varible to rename it
+        // I.e. nameof operator will give us the name of the variable as string instead of giving its value.
         Width = GetLengthOrDefualt(width, nameof(Width));
         Height = GetLengthOrDefualt(height, nameof(Height));
     }

@@ -1,0 +1,6 @@
+1. Encapsulation : Bundling data with methods that operate on it in the same class.
+i.e. fields or variables created in the class, are used by the same class methods only.
+So, if we pass this class object to another class method and if that method is updating the 
+this class fields/variables then it is not Encapsulation.
+
+2. Data Hiding : Making fields private or public

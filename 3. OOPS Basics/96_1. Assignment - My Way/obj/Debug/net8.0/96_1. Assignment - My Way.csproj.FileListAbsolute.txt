@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\bin\Debug\net8.0\96_1. Assignment - My Way.exe
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\bin\Debug\net8.0\96_1. Assignment - My Way.deps.json
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\bin\Debug\net8.0\96_1. Assignment - My Way.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\bin\Debug\net8.0\96_1. Assignment - My Way.dll
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\bin\Debug\net8.0\96_1. Assignment - My Way.pdb
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\obj\Debug\net8.0\96_1. Assignment - My Way.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\obj\Debug\net8.0\96_1. Assignment - My Way.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\obj\Debug\net8.0\96_1. Assignment - My Way.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\obj\Debug\net8.0\96_1. Assignment - My Way.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\obj\Debug\net8.0\96_1. Assignment - My Way.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\obj\Debug\net8.0\96_1. Assignment - My Way.dll
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\obj\Debug\net8.0\refint\96_1. Assignment - My Way.dll
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\obj\Debug\net8.0\96_1. Assignment - My Way.pdb
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\obj\Debug\net8.0\96_1. Assignment - My Way.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_1. Assignment - My Way\obj\Debug\net8.0\ref\96_1. Assignment - My Way.dll

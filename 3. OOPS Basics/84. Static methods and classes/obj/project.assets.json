@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\84. Static methods and classes\\84. Static methods and classes.csproj",
+      "projectUniqueName": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\84. Static methods and classes\\84. Static methods and classes.csproj",
       "projectName": "84. Static methods and classes",
-      "projectPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\84. Static methods and classes\\84. Static methods and classes.csproj",
+      "projectPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\84. Static methods and classes\\84. Static methods and classes.csproj",
       "packagesPath": "C:\\Users\\chinm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\84. Static methods and classes\\obj\\",
+      "outputPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\84. Static methods and classes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

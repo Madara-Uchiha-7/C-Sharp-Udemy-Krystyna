@@ -1,0 +1,37 @@
+1. We can overload the constructor also.
+
+2. You must change:
+
+Number of parameters
+
+Type of parameters
+
+Order of parameters
+
+3. Constructors do not have a return type (not even void).
+
+So return type cannot be used to differentiate them (unlike methods).
+
+4. You can call one constructor from another using this(...).
+this(...) does not automatically call the constructor that happens to be written below it.
+It calls whichever overloaded constructor matches the parameter list you pass.
+It doesn’t matter where that constructor is defined in the file (above or below).
+
+This avoids code duplication.
+
+public constructorName ( parameters(optional) ): this (parameters)
+{
+
+}
+
+this(...) will call the this(...) constructor first then the flow of code will go to
+the constructor which is using the this(...) 
+
+
+5. A class can have only one static constructor, and it cannot take parameters.
+
+6. The default parameterless constructor is only generated if we don't define any other constructor.
+
+7. Constructor can not have the return type.
+
+8. Constructor does not have to be public only.

@@ -1,0 +1,8 @@
+1. If the field name and parameter name is same
+then we can do 
+this.fieldName so that compiler will know that we are pointing to 
+current class field and not the parameter.
+
+2. Also if you want to pass the current class object to the method as the parameter
+from the current class 
+then you can simply pass "this" keyword. It will pass the current instence of the class. 

@@ -14,3 +14,8 @@
    That lecture is not that important to add the code.
 
 3. N.A. for now. 
+
+
+Section 2 
+Some lectures comments you need to fix, they do not explain everything.
+IF possible write section 2 assignment also.

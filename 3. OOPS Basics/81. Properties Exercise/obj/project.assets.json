@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\81. Properties Exercise\\81. Properties Exercise.csproj",
+      "projectUniqueName": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\81. Properties Exercise\\81. Properties Exercise.csproj",
       "projectName": "81. Properties Exercise",
-      "projectPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\81. Properties Exercise\\81. Properties Exercise.csproj",
+      "projectPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\81. Properties Exercise\\81. Properties Exercise.csproj",
       "packagesPath": "C:\\Users\\chinm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\81. Properties Exercise\\obj\\",
+      "outputPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\81. Properties Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\91. Global using directives\\91. Global using directives.csproj",
+      "projectUniqueName": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\91. Global using directives\\91. Global using directives.csproj",
       "projectName": "91. Global using directives",
-      "projectPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\91. Global using directives\\91. Global using directives.csproj",
+      "projectPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\91. Global using directives\\91. Global using directives.csproj",
       "packagesPath": "C:\\Users\\chinm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chinm\\source\\repos\\OOPS Basics\\91. Global using directives\\obj\\",
+      "outputPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\91. Global using directives\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\bin\Debug\net8.0\96_2. Teachers way.exe
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\bin\Debug\net8.0\96_2. Teachers way.deps.json
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\bin\Debug\net8.0\96_2. Teachers way.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\bin\Debug\net8.0\96_2. Teachers way.dll
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\bin\Debug\net8.0\96_2. Teachers way.pdb
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\obj\Debug\net8.0\96_2. Teachers way.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\obj\Debug\net8.0\96_2. Teachers way.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\obj\Debug\net8.0\96_2. Teachers way.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\obj\Debug\net8.0\96_2. Teachers way.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\obj\Debug\net8.0\96_2. Teachers way.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\obj\Debug\net8.0\96_2. Teachers way.dll
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\obj\Debug\net8.0\refint\96_2. Teachers way.dll
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\obj\Debug\net8.0\96_2. Teachers way.pdb
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\obj\Debug\net8.0\96_2. Teachers way.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\3. OOPS Basics\96_2. Teachers way\obj\Debug\net8.0\ref\96_2. Teachers way.dll

@@ -1,0 +1,4 @@
+Syntax:
+
+accessModifier returnType methodName (parameters if any) => one statement or one expression;
+
