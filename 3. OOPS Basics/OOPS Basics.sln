@@ -51,13 +51,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "90. Files, namespaces and t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "91. Global using directives", "91. Global using directives\91. Global using directives.csproj", "{09222460-510A-43D3-A0D5-9BB1CF940544}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "96. Assignment - Dice Roll Game - Requirements", "96. Assignment - Dice Roll Game - Requirements\96. Assignment - Dice Roll Game - Requirements.csproj", "{766B59F8-3E4C-48BE-A18D-B0ADA4CAF88B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "96. Assignment - Dice Roll Game - Requirements", "96. Assignment - Dice Roll Game - Requirements\96. Assignment - Dice Roll Game - Requirements.csproj", "{766B59F8-3E4C-48BE-A18D-B0ADA4CAF88B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "96_1. Assignment - My Way", "96_1. Assignment - My Way\96_1. Assignment - My Way.csproj", "{7D11BCC0-F226-4B39-B245-50663D091678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "96_1. Assignment - My Way", "96_1. Assignment - My Way\96_1. Assignment - My Way.csproj", "{7D11BCC0-F226-4B39-B245-50663D091678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "96_2. Teachers way", "96_2. Teachers way\96_2. Teachers way.csproj", "{08CA2752-8F8B-4401-9899-03E97B245D5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "96_2. Teachers way", "96_2. Teachers way\96_2. Teachers way.csproj", "{08CA2752-8F8B-4401-9899-03E97B245D5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "97. Quiz", "97. Quiz\97. Quiz.csproj", "{1F09A0DB-C108-4703-BDF4-FF708466D935}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "97. Quiz", "97. Quiz\97. Quiz.csproj", "{1F09A0DB-C108-4703-BDF4-FF708466D935}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "67. A need for Object-Oriented Programming", "67. A need for Object-Oriented Programming\67. A need for Object-Oriented Programming.csproj", "{4C1EC96B-DF8C-40CB-AE8B-0876C8A3C9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "68. Introduction to object-oriented programming", "68. Introduction to object-oriented programming\68. Introduction to object-oriented programming.csproj", "{A789C2FC-DE40-4B82-8825-AFE70BA48EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69. Understanding OOP with the DateTime type", "69. Understanding OOP with the DateTime type\69. Understanding OOP with the DateTime type.csproj", "{509A41D5-2542-437E-A08F-DDB6D65D6DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70. Abstraction", "70. Abstraction\70. Abstraction.csproj", "{1ED34A9D-E8B9-47D2-802F-622821B69512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_1. Our first class", "70. Our first class\70_1. Our first class.csproj", "{15BDE74F-2859-4DC3-8255-6446DA86A091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_2. Data hiding", "70_2. Data hiding\70_2. Data hiding.csproj", "{DA2D1BD7-6E3F-45EC-9934-5C92C40C2C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_3. Custom constructor", "70_3. Custom constructor\70_3. Custom constructor.csproj", "{E00B4C62-350E-4886-A5F7-84DE8D1AA417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_4. C# restrictions on code outside classes. Top-level statements", "70_4. C# restrictions on code outside classes. Top-level statements\70_4. C# restrictions on code outside classes. Top-level statements.csproj", "{81A564B1-D88C-461B-AAB5-77DF326AD68C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +193,38 @@ Global
 		{1F09A0DB-C108-4703-BDF4-FF708466D935}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F09A0DB-C108-4703-BDF4-FF708466D935}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F09A0DB-C108-4703-BDF4-FF708466D935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1EC96B-DF8C-40CB-AE8B-0876C8A3C9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1EC96B-DF8C-40CB-AE8B-0876C8A3C9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1EC96B-DF8C-40CB-AE8B-0876C8A3C9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1EC96B-DF8C-40CB-AE8B-0876C8A3C9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A789C2FC-DE40-4B82-8825-AFE70BA48EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A789C2FC-DE40-4B82-8825-AFE70BA48EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A789C2FC-DE40-4B82-8825-AFE70BA48EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A789C2FC-DE40-4B82-8825-AFE70BA48EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509A41D5-2542-437E-A08F-DDB6D65D6DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509A41D5-2542-437E-A08F-DDB6D65D6DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509A41D5-2542-437E-A08F-DDB6D65D6DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509A41D5-2542-437E-A08F-DDB6D65D6DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED34A9D-E8B9-47D2-802F-622821B69512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED34A9D-E8B9-47D2-802F-622821B69512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED34A9D-E8B9-47D2-802F-622821B69512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED34A9D-E8B9-47D2-802F-622821B69512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BDE74F-2859-4DC3-8255-6446DA86A091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BDE74F-2859-4DC3-8255-6446DA86A091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BDE74F-2859-4DC3-8255-6446DA86A091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BDE74F-2859-4DC3-8255-6446DA86A091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA2D1BD7-6E3F-45EC-9934-5C92C40C2C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2D1BD7-6E3F-45EC-9934-5C92C40C2C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2D1BD7-6E3F-45EC-9934-5C92C40C2C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2D1BD7-6E3F-45EC-9934-5C92C40C2C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00B4C62-350E-4886-A5F7-84DE8D1AA417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00B4C62-350E-4886-A5F7-84DE8D1AA417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00B4C62-350E-4886-A5F7-84DE8D1AA417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00B4C62-350E-4886-A5F7-84DE8D1AA417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A564B1-D88C-461B-AAB5-77DF326AD68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A564B1-D88C-461B-AAB5-77DF326AD68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A564B1-D88C-461B-AAB5-77DF326AD68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A564B1-D88C-461B-AAB5-77DF326AD68C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

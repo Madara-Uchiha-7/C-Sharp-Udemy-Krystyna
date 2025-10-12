@@ -1,0 +1,7 @@
+You tried to write the big code using only the methods, Then that code will become 
+Messier and messier. Also if new functionality comes then it will be very hard to update that code. 
+
+This way of writing, that is using of only methods is known as procedural programming language. 
+
+To avoid this issue we will use the classes. 
+That's why we will use the object oriented programming. 

@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81A564B1-D88C-461B-AAB5-77DF326AD68C}|70_4. C# restrictions on code outside classes. Top-level statements\\70_4. C# restrictions on code outside classes. Top-level statements.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\70_4. c# restrictions on code outside classes. top-level statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A564B1-D88C-461B-AAB5-77DF326AD68C}|70_4. C# restrictions on code outside classes. Top-level statements\\70_4. C# restrictions on code outside classes. Top-level statements.csproj|solutionrelative:70_4. c# restrictions on code outside classes. top-level statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00B4C62-350E-4886-A5F7-84DE8D1AA417}|70_3. Custom constructor\\70_3. Custom constructor.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\70_3. custom constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00B4C62-350E-4886-A5F7-84DE8D1AA417}|70_3. Custom constructor\\70_3. Custom constructor.csproj|solutionrelative:70_3. custom constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2D1BD7-6E3F-45EC-9934-5C92C40C2C3E}|70_2. Data hiding\\70_2. Data hiding.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\70_2. data hiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2D1BD7-6E3F-45EC-9934-5C92C40C2C3E}|70_2. Data hiding\\70_2. Data hiding.csproj|solutionrelative:70_2. data hiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BDE74F-2859-4DC3-8255-6446DA86A091}|70. Our first class\\70. Our first class.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\70. our first class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BDE74F-2859-4DC3-8255-6446DA86A091}|70. Our first class\\70. Our first class.csproj|solutionrelative:70. our first class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED34A9D-E8B9-47D2-802F-622821B69512}|70. Abstraction\\70. Abstraction.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\70. abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED34A9D-E8B9-47D2-802F-622821B69512}|70. Abstraction\\70. Abstraction.csproj|solutionrelative:70. abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509A41D5-2542-437E-A08F-DDB6D65D6DE6}|69. Understanding OOP with the DateTime type\\69. Understanding OOP with the DateTime type.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\69. understanding oop with the datetime type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509A41D5-2542-437E-A08F-DDB6D65D6DE6}|69. Understanding OOP with the DateTime type\\69. Understanding OOP with the DateTime type.csproj|solutionrelative:69. understanding oop with the datetime type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789C2FC-DE40-4B82-8825-AFE70BA48EB6}|68. Introduction to object-oriented programming\\68. Introduction to object-oriented programming.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\68. introduction to object-oriented programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789C2FC-DE40-4B82-8825-AFE70BA48EB6}|68. Introduction to object-oriented programming\\68. Introduction to object-oriented programming.csproj|solutionrelative:68. introduction to object-oriented programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1EC96B-DF8C-40CB-AE8B-0876C8A3C9DE}|67. A need for Object-Oriented Programming\\67. A need for Object-Oriented Programming.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\67. a need for object-oriented programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1EC96B-DF8C-40CB-AE8B-0876C8A3C9DE}|67. A need for Object-Oriented Programming\\67. A need for Object-Oriented Programming.csproj|solutionrelative:67. a need for object-oriented programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F09A0DB-C108-4703-BDF4-FF708466D935}|97. Quiz\\97. Quiz.csproj|d:\\code\\udemy\\c#\\c# krytina\\3. oops basics\\97. quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F09A0DB-C108-4703-BDF4-FF708466D935}|97. Quiz\\97. Quiz.csproj|solutionrelative:97. quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -92,31 +124,135 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\70_4. C# restrictions on code outside classes. Top-level statements\\Program.cs",
+              "RelativeDocumentMoniker": "70_4. C# restrictions on code outside classes. Top-level statements\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\70_4. C# restrictions on code outside classes. Top-level statements\\Program.cs",
+              "RelativeToolTip": "70_4. C# restrictions on code outside classes. Top-level statements\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwFUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:14:24.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\70_3. Custom constructor\\Program.cs",
+              "RelativeDocumentMoniker": "70_3. Custom constructor\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\70_3. Custom constructor\\Program.cs",
+              "RelativeToolTip": "70_3. Custom constructor\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:05:33.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\70_2. Data hiding\\Program.cs",
+              "RelativeDocumentMoniker": "70_2. Data hiding\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\70_2. Data hiding\\Program.cs",
+              "RelativeToolTip": "70_2. Data hiding\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:58:00.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\70. Our first class\\Program.cs",
+              "RelativeDocumentMoniker": "70. Our first class\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\70. Our first class\\Program.cs",
+              "RelativeToolTip": "70. Our first class\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:52:00.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\70. Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "70. Abstraction\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\70. Abstraction\\Program.cs",
+              "RelativeToolTip": "70. Abstraction\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:45:09.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\69. Understanding OOP with the DateTime type\\Program.cs",
+              "RelativeDocumentMoniker": "69. Understanding OOP with the DateTime type\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\69. Understanding OOP with the DateTime type\\Program.cs",
+              "RelativeToolTip": "69. Understanding OOP with the DateTime type\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:36:25.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\68. Introduction to object-oriented programming\\Program.cs",
+              "RelativeDocumentMoniker": "68. Introduction to object-oriented programming\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\68. Introduction to object-oriented programming\\Program.cs",
+              "RelativeToolTip": "68. Introduction to object-oriented programming\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:28:50.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\67. A need for Object-Oriented Programming\\Program.cs",
+              "RelativeDocumentMoniker": "67. A need for Object-Oriented Programming\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\67. A need for Object-Oriented Programming\\Program.cs",
+              "RelativeToolTip": "67. A need for Object-Oriented Programming\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:13:40.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\97. Quiz\\Program.cs",
               "RelativeDocumentMoniker": "97. Quiz\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\97. Quiz\\Program.cs",
               "RelativeToolTip": "97. Quiz\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBgAAAABAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T10:53:54.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Notes.txt",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\Notes.txt",
               "RelativeDocumentMoniker": "74. Constructors overloading. Calling one constructor from another\\Notes.txt",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\74. Constructors overloading. Calling one constructor from another\\Notes.txt",
               "RelativeToolTip": "74. Constructors overloading. Calling one constructor from another\\Notes.txt",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAhAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAABBwCQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-10-12T10:47:04.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ConsoleReader.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_2. Teachers way\\UserCommunication\\ConsoleReader.cs",
               "RelativeDocumentMoniker": "96_2. Teachers way\\UserCommunication\\ConsoleReader.cs",
@@ -129,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "GuessingGame.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_2. Teachers way\\Game\\GuessingGame.cs",
               "RelativeDocumentMoniker": "96_2. Teachers way\\Game\\GuessingGame.cs",
@@ -142,33 +278,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_2. Teachers way\\Program.cs",
               "RelativeDocumentMoniker": "96_2. Teachers way\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_2. Teachers way\\Program.cs",
               "RelativeToolTip": "96_2. Teachers way\\Program.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEYAAAAqAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAIBJwEYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T09:58:27.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_1. Assignment - My Way\\Program.cs",
               "RelativeDocumentMoniker": "96_1. Assignment - My Way\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96_1. Assignment - My Way\\Program.cs",
               "RelativeToolTip": "96_1. Assignment - My Way\\Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAAAhAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwC0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T08:05:30.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\96. Assignment - Dice Roll Game - Requirements\\Program.cs",
               "RelativeDocumentMoniker": "96. Assignment - Dice Roll Game - Requirements\\Program.cs",
@@ -181,32 +317,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\91. Global using directives\\Program.cs",
               "RelativeDocumentMoniker": "91. Global using directives\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\91. Global using directives\\Program.cs",
               "RelativeToolTip": "91. Global using directives\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABwAAAAOAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwBwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T09:22:45.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\90. Files, namespaces and the using directive\\Program.cs",
               "RelativeDocumentMoniker": "90. Files, namespaces and the using directive\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\90. Files, namespaces and the using directive\\Program.cs",
               "RelativeToolTip": "90. Files, namespaces and the using directive\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAvAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T17:42:56.445Z"
+              "WhenOpened": "2024-07-08T17:42:56.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
               "RelativeDocumentMoniker": "89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
@@ -214,11 +351,12 @@
               "RelativeToolTip": "89. Single Responsibility Principle - Refactoring (part 3)\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:35:03.613Z"
+              "WhenOpened": "2024-07-08T09:35:03.613Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
               "RelativeDocumentMoniker": "88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
@@ -226,11 +364,12 @@
               "RelativeToolTip": "88. Single Responsibility Principle - Refactoring (part 2)\\Program.cs",
               "ViewState": "AQIAAEEAAAAAAAAAAAAuwFAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:09:51.77Z"
+              "WhenOpened": "2024-07-08T09:09:51.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
               "RelativeDocumentMoniker": "87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
@@ -238,47 +377,51 @@
               "RelativeToolTip": "87. Single Responsibility Principle - Refactoring (part 1)\\Program.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAgwCYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T04:50:27.176Z"
+              "WhenOpened": "2024-07-08T04:50:27.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\86. Single Responsibility Principle - Introduction\\Program.cs",
               "RelativeDocumentMoniker": "86. Single Responsibility Principle - Introduction\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\86. Single Responsibility Principle - Introduction\\Program.cs",
               "RelativeToolTip": "86. Single Responsibility Principle - Introduction\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAIBJwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T10:15:17.035Z"
+              "WhenOpened": "2024-07-07T10:15:17.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\Exercise Join and Split\\Program.cs",
               "RelativeDocumentMoniker": "Exercise Join and Split\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\Exercise Join and Split\\Program.cs",
               "RelativeToolTip": "Exercise Join and Split\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBUAAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwBUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T08:42:09.077Z"
+              "WhenOpened": "2024-07-07T08:42:09.077Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\82. Object initializers\\Program.cs",
               "RelativeDocumentMoniker": "82. Object initializers\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\82. Object initializers\\Program.cs",
               "RelativeToolTip": "82. Object initializers\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAIBZwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T05:21:50.201Z"
+              "WhenOpened": "2024-07-06T05:21:50.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\83. Computed properties Exercise\\Program.cs",
               "RelativeDocumentMoniker": "83. Computed properties Exercise\\Program.cs",
@@ -286,11 +429,12 @@
               "RelativeToolTip": "83. Computed properties Exercise\\Program.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAwA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T05:21:23.187Z"
+              "WhenOpened": "2024-07-06T05:21:23.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\83. Computed properties\\Program.cs",
               "RelativeDocumentMoniker": "83. Computed properties\\Program.cs",
@@ -298,23 +442,25 @@
               "RelativeToolTip": "83. Computed properties\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T05:21:16.973Z"
+              "WhenOpened": "2024-07-06T05:21:16.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\84. Static methods and classes\\Program.cs",
               "RelativeDocumentMoniker": "84. Static methods and classes\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\84. Static methods and classes\\Program.cs",
               "RelativeToolTip": "84. Static methods and classes\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T05:21:04.602Z"
+              "WhenOpened": "2024-07-06T05:21:04.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\3. OOPS Basics\\85. Static fields, properties and constructors\\Program.cs",
               "RelativeDocumentMoniker": "85. Static fields, properties and constructors\\Program.cs",
@@ -322,7 +468,8 @@
               "RelativeToolTip": "85. Static fields, properties and constructors\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T09:57:35.19Z"
+              "WhenOpened": "2024-07-05T09:57:35.19Z",
+              "EditorCaption": ""
             }
           ]
         }

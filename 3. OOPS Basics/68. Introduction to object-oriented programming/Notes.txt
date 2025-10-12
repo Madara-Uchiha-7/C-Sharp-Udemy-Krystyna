@@ -1,0 +1,4 @@
+Use OOPS instead of wiriting only method.
+
+Object-oriented programming heavily relies on four fundamental concepts: encapsulation, polymorphism,
+abstraction, and inheritance.

@@ -19,3 +19,6 @@
 Section 2 
 Some lectures comments you need to fix, they do not explain everything.
 IF possible write section 2 assignment also.
+
+Section 3,
+starting 2-4 lectures does not have the notes file. Add it.
