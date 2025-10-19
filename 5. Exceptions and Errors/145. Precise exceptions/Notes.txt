@@ -1,0 +1,6 @@
+1. We can throw exception from the catch block also.
+
+   e.g. we can add below in catch block:
+   throw new ArgumentException("The collection is null", ex);
+   This will be assigned to the InnerException property of the new exception.
+   We say new exception wraps the old one.

@@ -1,0 +1,9 @@
+1. What would happen if the code/statement/expression in the catch block throws an exception?
+   A common misconception is that such an exception might be caught in the next catch block.
+   It will be handled by the global catch.
+   Generally it is a bad practice to put any code that can possibly throw an exception inside a catch block.
+   It may return some default value if this is how the method is designed, or print something to the console,
+   log an error in some file or show some pop up to the user.
+
+2. We can put try-catch in another catch.
+   

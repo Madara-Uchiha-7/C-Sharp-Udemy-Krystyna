@@ -1,0 +1,12 @@
+1. Exception filters are the conditions which we add in our catch block.
+   So, if the code in the catch is supposed to be executed then 
+   catch block type should match and the catch Exception filter should be true.
+
+   Syntax:
+   catch (type ex) when (condition on ex parameter)
+   e.g.
+   catch (HttpRequestException ex) when (ex.Message.StartsWith("4"))
+
+2. It is sometimes the case that the code inside the try block might throw exceptions that are all
+   of the same type and only differ by the values of properties.
+   In this case you can use Exception filters feature.

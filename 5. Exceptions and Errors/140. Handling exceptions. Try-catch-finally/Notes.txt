@@ -1,0 +1,38 @@
+1. int.TryParse(stringVariable) : This method does not thow the exception if the string in not convertable to int.
+
+2. Exceptions complicate the code and also have the -ve performece impact.
+
+3. In try bock we add the code which may cause the error.
+   Then we will catch that error in the catch block.
+
+4. We can catch specific type exceptions by giving its type name in the parameter.
+
+5. We can define general catch for those errors which may come in unpredicted way.
+   In this case parameter in the catch block will be of Exception type.
+   catch (Exception ex) : This is a vary general catch block.
+
+6. Code in the finally block is executed no matter what.
+   It is executed after the compiler runs the try and catch block.
+   It is ued to clean up some resources that were used in the try block.
+   For e.g. , if you have opened the db connection in the try blcok then
+   it is closed in the finally block.
+
+7. Finally block is optional.
+
+8. We can write the catch block without adding parameters and circular brackets.
+
+9. 1st catch after the try is the catch whihc will handle the error 1st.
+
+10. We can return a value from catch. Value should match the return type of the method. But
+    this is not a good practice.
+
+11. We can use catch to show a good error massage to the user. Or close the program neatly instead of
+    letting it crash.
+
+12. We can add more than one catch block to catch different types of exceptions. If one catch 
+    block catches the error i.e. if the error type matches with the catch block parameter type
+    then that catch block will catch that error and below catch blocks will not get executed.
+    So, general catch blcok is written at the end. 
+
+13. It is a good thing to catch specific exceptions as possible.
+    So, we can give custom error message.

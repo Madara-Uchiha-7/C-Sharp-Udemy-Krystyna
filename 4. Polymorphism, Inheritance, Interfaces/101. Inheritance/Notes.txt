@@ -1,0 +1,6 @@
+1. The class whose members are inherited is called base class.
+
+2. The class the inherits those members is called the derived class.
+
+3. Inheritance is is-a kind of relationship 
+   That is : The one class can have only one parent class.

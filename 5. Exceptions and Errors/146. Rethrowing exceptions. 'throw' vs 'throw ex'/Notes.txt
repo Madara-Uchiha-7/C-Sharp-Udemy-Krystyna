@@ -1,0 +1,25 @@
+1. When we throw the same exception which is catched then it is called 'Exception Rethrowing'.
+   e.g. catch (NullReferenceException ex) { throw ex; }
+   If done like above, i.e. not giving any additional information then it has no point .
+   Re throwing the exception makes sanse when you do addtional steps in it, like 
+   adding your own custom message.
+   e.g. we can write below in the catch.
+   Console.WriteLine("Sorry!!! unexpected error...");
+   throw ex;
+
+2. If we write only throw instead of ex. Then the stack trace will contain more data. 
+   This happens because the throw keyword preserves the stacktrace.
+   Means stack trace will point to the method which caused the scene.
+
+   Now why to allow the 'throw ex' in the first place.
+   Remember, that ex is the object and we are allowed to throw the object.
+   e.g. throw new ArgumentException("The collection is null", ex);
+   So on above line we are doing same that is creating the object of  
+   ArgumentException and throwing it which is similar to 'throw ex'
+
+   But when we do throw
+   new ArgumentException("The collection is null", ex)
+   in the catch, this will preserve the stacktrace unlike 'throw ex'.
+   But it will preserve it in the innerException->stacktrace in quick watch.
+   This happens because we are passing the ex i.e. original Exception in the parameter.
+   

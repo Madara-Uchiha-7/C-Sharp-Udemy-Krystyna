@@ -1,0 +1,17 @@
+1. Base type has data and methods which can be used by the derived classes.
+
+2. Derived class can have their seperate own methods and fields etc which will be availbale 
+   for only that perticualr derived class. 
+
+3. We can call base class public methods using the derived class object.
+
+4. Inheriting the base class by the derived type means each of its public fields is also 
+   declared in the derived types.
+
+5. The method which have the protected access modifier will
+   be available to the derived classes, but they can not be used outside.
+
+6. You can not use the private base class method in or using child classes.
+
+7. We can call base class method inside the derived class. We can do this using:
+   baseClassMethodName(parameters if any);

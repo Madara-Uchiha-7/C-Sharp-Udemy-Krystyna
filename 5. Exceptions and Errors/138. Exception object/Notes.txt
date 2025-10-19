@@ -1,0 +1,26 @@
+1. There are 3 main types of erros
+    1. Compilation error
+    2. Runtime error : E.g. divide by 0
+    3. Logical error : Program does not crash but also does not work.
+
+2. In C# the runtime errors are called as Exceptions.
+
+3. Exceptions are also objects.
+
+4. They can also be container for the data.
+
+5. All exceptions are derived from System.Exception base class.
+   This means there are differnet types of Exceptions and all of them are derived from System.Exception base class.
+
+6. We can also create our own exceptions by creating class which will derive the System.Exception.
+
+7. If you click on view details on given Exception by C#, it will open the
+   quick watch window.
+   Once the quick watch window opens, you will see many options there:
+   1. Message: This property has the most information.
+   2. InnerException: Sometimes stores another exception object which is nested in main exception.
+   3. stack strace: In the bottom we have the method that is called first.
+        Then another methods may come which are being called
+        So, basically it stores the stack like structure, which shows us from start to end that 
+        The on top comes the exception, it means the method before that is the place where that error came.
+        It is better to handle the exceptions otherwise if not then Program will crash.

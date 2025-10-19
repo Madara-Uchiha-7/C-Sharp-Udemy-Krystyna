@@ -22,3 +22,5 @@ IF possible write section 2 assignment also.
 
 Section 3,
 starting 2-4 lectures does not have the notes file. Add it.
+
+Section 4 assignment remaining.

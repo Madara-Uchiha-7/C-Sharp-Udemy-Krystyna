@@ -1,0 +1,14 @@
+1. Always think twice before creating a custom exception.
+   Perhaps there is already an exception that we can use.
+   Ask yourself that would it really carry any more information than the predefined exception.
+   If we created custom exceptions for wrong situations, our code would soon bloat to an enormous size.
+
+2. You'll have a developer team working with you. 
+   So if you define the custom exception then the other developers may not know about it. 
+   They will expect that you will throw the predefined exception. 
+   Some developers does not have the access to all the code.
+   Also if they do have the access, still they will have to go and check your custom exception which again takes more time. 
+
+3. When programming, we should follow the principle of least surprise.
+   It says that the code should behave in a way that most users will expect it to behave.
+ 

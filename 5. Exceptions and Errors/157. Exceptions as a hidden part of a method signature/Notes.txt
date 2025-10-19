@@ -1,0 +1,8 @@
+1. Make sure your method only does that part which it shows in its signature. 
+   If your method signature does not show everything, that is if your method does something else or 
+   something additional other than what your method signature is, 
+   then every time other developer will have to come and will have to check that method, what it does and what its working is. 
+
+2. By "exception as hidden part of method" means that our method signature does not show if our method has exceptions defined 
+   or not. Or if they are defined then we don't know which of them are defined. 
+   So every time other developers will have to come and check them. 

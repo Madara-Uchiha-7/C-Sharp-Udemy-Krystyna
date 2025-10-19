@@ -35,13 +35,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "155. Custom exceptions", "1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "156. When to define custom exceptions", "156. When to define custom exceptions\156. When to define custom exceptions.csproj", "{C8EA7E09-5700-4B9A-9517-1A30EBB2C23B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "157. Exceptions as a hidden part of a method signature", "157. Exceptions as a hidden part of a method signature\157. Exceptions as a hidden part of a method signature.csproj", "{5706131C-D565-4180-82B0-8C8CA24A7605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "157. Exceptions as a hidden part of a method signature", "157. Exceptions as a hidden part of a method signature\157. Exceptions as a hidden part of a method signature.csproj", "{5706131C-D565-4180-82B0-8C8CA24A7605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "158. Two extreme schools of using exceptions", "158. Two extreme schools of using exceptions\158. Two extreme schools of using exceptions.csproj", "{5127E69D-ABDC-41C8-92C0-78CDBD6EC86B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "158. Two extreme schools of using exceptions", "158. Two extreme schools of using exceptions\158. Two extreme schools of using exceptions.csproj", "{5127E69D-ABDC-41C8-92C0-78CDBD6EC86B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "159. Smart usage of exceptions - throw", "159. Smart usage of exceptions - throw\159. Smart usage of exceptions - throw.csproj", "{64C772AA-863F-4734-9E51-A1633A042E0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "159. Smart usage of exceptions - throw", "159. Smart usage of exceptions - throw\159. Smart usage of exceptions - throw.csproj", "{64C772AA-863F-4734-9E51-A1633A042E0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "160. Smart usage of exceptions - catch", "160. Smart usage of exceptions - catch\160. Smart usage of exceptions - catch.csproj", "{C1488761-9B6D-4BE5-A42F-F00215741898}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "160. Smart usage of exceptions - catch", "160. Smart usage of exceptions - catch\160. Smart usage of exceptions - catch.csproj", "{C1488761-9B6D-4BE5-A42F-F00215741898}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "161. Assignment - Game Data Parser - Teachers way", "161. Assignment - Game Data Parser - My way\161. Assignment - Game Data Parser - Teachers way.csproj", "{D9857A19-65BF-43E9-8E41-100433147DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "161_1. Assignment - Game Data Parser - Refactoring", "161. Assignment - Game Data Parser - Refactoring\161_1. Assignment - Game Data Parser - Refactoring.csproj", "{6F86F630-E3CA-411D-A6E0-874AD17F628C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{C1488761-9B6D-4BE5-A42F-F00215741898}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1488761-9B6D-4BE5-A42F-F00215741898}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1488761-9B6D-4BE5-A42F-F00215741898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9857A19-65BF-43E9-8E41-100433147DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9857A19-65BF-43E9-8E41-100433147DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9857A19-65BF-43E9-8E41-100433147DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9857A19-65BF-43E9-8E41-100433147DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F86F630-E3CA-411D-A6E0-874AD17F628C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F86F630-E3CA-411D-A6E0-874AD17F628C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F86F630-E3CA-411D-A6E0-874AD17F628C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F86F630-E3CA-411D-A6E0-874AD17F628C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

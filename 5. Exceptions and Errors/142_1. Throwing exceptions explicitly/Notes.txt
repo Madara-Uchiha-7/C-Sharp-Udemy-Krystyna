@@ -1,0 +1,14 @@
+1. Make sure to throw the exceptions only when it is imp.
+
+2. The exception should contain the details of error neatly which will help the dev what to check.
+   i.e. pass the good message while throwing the Exception from the code.
+   e.g. throw new Exception("Invalid year of birth.");
+
+3. We can also throw different types of Exceptions. 
+   e.g. throw new InvalidArgumentException("Invalid year of birth.");
+
+4. Syntax is mentioned in the point 2 example.
+
+5. We can save : new Exception("Message" + ex.Message);
+   this in the varibale and then throw the varibale.
+   This is possible because the Exception is the class and using the new keyword we are creating the object of it.

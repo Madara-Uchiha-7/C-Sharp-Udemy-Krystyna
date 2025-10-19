@@ -51,8 +51,6 @@ public class Ingredient
         "This method is public in the Ingredient class.";
     // protected access modfier. The method which have the protected access modifier will
     // be available to the derived classes, but they can not be used outside.
-    // By outside means, using the object of child classes we can not access it unlike
-    // we do to the public access modifiers.
 
     // pulbic modifier to the feilds works same as for methods.
     // Lets say Ingredient has public field name and Chedder class also uses this field.

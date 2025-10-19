@@ -1,0 +1,2 @@
+Not much in this lecture.
+Teacher has given some examples. You can read the program.cs for that.

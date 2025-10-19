@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F86F630-E3CA-411D-A6E0-874AD17F628C}|161. Assignment - Game Data Parser - Refactoring\\161. Assignment - Game Data Parser - Refactoring.csproj|d:\\code\\udemy\\c#\\c# krytina\\5. exceptions and errors\\161. assignment - game data parser - refactoring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F86F630-E3CA-411D-A6E0-874AD17F628C}|161. Assignment - Game Data Parser - Refactoring\\161. Assignment - Game Data Parser - Refactoring.csproj|solutionrelative:161. assignment - game data parser - refactoring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9857A19-65BF-43E9-8E41-100433147DDA}|161. Assignment - Game Data Parser - My way\\161. Assignment - Game Data Parser - Teachers way.csproj|d:\\code\\udemy\\c#\\c# krytina\\5. exceptions and errors\\161. assignment - game data parser - my way\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9857A19-65BF-43E9-8E41-100433147DDA}|161. Assignment - Game Data Parser - My way\\161. Assignment - Game Data Parser - Teachers way.csproj|solutionrelative:161. assignment - game data parser - my way\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9857A19-65BF-43E9-8E41-100433147DDA}|161. Assignment - Game Data Parser - My way\\161. Assignment - Game Data Parser - Teachers way.csproj|d:\\code\\udemy\\c#\\c# krytina\\5. exceptions and errors\\161. assignment - game data parser - my way\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9857A19-65BF-43E9-8E41-100433147DDA}|161. Assignment - Game Data Parser - My way\\161. Assignment - Game Data Parser - Teachers way.csproj|solutionrelative:161. assignment - game data parser - my way\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1488761-9B6D-4BE5-A42F-F00215741898}|160. Smart usage of exceptions - catch\\160. Smart usage of exceptions - catch.csproj|d:\\code\\udemy\\c#\\c# krytina\\5. exceptions and errors\\160. smart usage of exceptions - catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1488761-9B6D-4BE5-A42F-F00215741898}|160. Smart usage of exceptions - catch\\160. Smart usage of exceptions - catch.csproj|solutionrelative:160. smart usage of exceptions - catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -52,18 +64,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\161. Assignment - Game Data Parser - Refactoring\\Program.cs",
+              "RelativeDocumentMoniker": "161. Assignment - Game Data Parser - Refactoring\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\161. Assignment - Game Data Parser - Refactoring\\Program.cs",
+              "RelativeToolTip": "161. Assignment - Game Data Parser - Refactoring\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:15:43.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\161. Assignment - Game Data Parser - My way\\Logger.cs",
+              "RelativeDocumentMoniker": "161. Assignment - Game Data Parser - My way\\Logger.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\161. Assignment - Game Data Parser - My way\\Logger.cs",
+              "RelativeToolTip": "161. Assignment - Game Data Parser - My way\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T17:09:24.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\161. Assignment - Game Data Parser - My way\\Program.cs",
+              "RelativeDocumentMoniker": "161. Assignment - Game Data Parser - My way\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\161. Assignment - Game Data Parser - My way\\Program.cs",
+              "RelativeToolTip": "161. Assignment - Game Data Parser - My way\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T07:44:23.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\160. Smart usage of exceptions - catch\\Program.cs",
               "RelativeDocumentMoniker": "160. Smart usage of exceptions - catch\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\160. Smart usage of exceptions - catch\\Program.cs",
               "RelativeToolTip": "160. Smart usage of exceptions - catch\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAmwFMAAAAEAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwFMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T10:26:12.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\159. Smart usage of exceptions - throw\\Program.cs",
               "RelativeDocumentMoniker": "159. Smart usage of exceptions - throw\\Program.cs",
@@ -76,33 +127,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\158. Two extreme schools of using exceptions\\Program.cs",
               "RelativeDocumentMoniker": "158. Two extreme schools of using exceptions\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\158. Two extreme schools of using exceptions\\Program.cs",
               "RelativeToolTip": "158. Two extreme schools of using exceptions\\Program.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGAAAAAXAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAIBZwGAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T09:28:20.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\157. Exceptions as a hidden part of a method signature\\Program.cs",
               "RelativeDocumentMoniker": "157. Exceptions as a hidden part of a method signature\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\157. Exceptions as a hidden part of a method signature\\Program.cs",
               "RelativeToolTip": "157. Exceptions as a hidden part of a method signature\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T09:09:29.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\156. When to define custom exceptions\\Program.cs",
               "RelativeDocumentMoniker": "156. When to define custom exceptions\\Program.cs",
@@ -115,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\155. Custom exceptions\\Program.cs",
               "RelativeDocumentMoniker": "155. Custom exceptions\\Program.cs",
@@ -123,35 +174,38 @@
               "RelativeToolTip": "155. Custom exceptions\\Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAqwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T07:21:59.707Z"
+              "WhenOpened": "2025-09-12T07:21:59.707Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\154. Exception filters\\Program.cs",
               "RelativeDocumentMoniker": "154. Exception filters\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\154. Exception filters\\Program.cs",
               "RelativeToolTip": "154. Exception filters\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAATAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBZwBkAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T07:09:49.405Z"
+              "WhenOpened": "2025-09-12T07:09:49.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\153. Code inside the catch block\\Program.cs",
               "RelativeDocumentMoniker": "153. Code inside the catch block\\Program.cs",
               "ToolTip": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\153. Code inside the catch block\\Program.cs",
               "RelativeToolTip": "153. Code inside the catch block\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAADIAAAAqAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBZwDIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T06:57:26.639Z"
+              "WhenOpened": "2025-09-12T06:57:26.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Udemy\\C#\\C# Krytina\\5. Exceptions and Errors\\148. Global try-catch block\\Program.cs",
               "RelativeDocumentMoniker": "148. Global try-catch block\\Program.cs",
@@ -159,7 +213,8 @@
               "RelativeToolTip": "148. Global try-catch block\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T06:48:21.334Z"
+              "WhenOpened": "2025-09-12T06:48:21.334Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\bin\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.exe
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\bin\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.deps.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\bin\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\bin\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\bin\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\obj\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\obj\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\obj\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\obj\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\obj\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\obj\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\obj\Debug\net8.0\refint\161. Assignment - Game Data Parser - Teachers way.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\obj\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\obj\Debug\net8.0\161. Assignment - Game Data Parser - Teachers way.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - My way\obj\Debug\net8.0\ref\161. Assignment - Game Data Parser - Teachers way.dll

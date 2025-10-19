@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("153. Code inside the catch block")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b50b13b596d7b23822e09ea9570e8a3a8a3f2d42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7396c59efc05636f954cb30453edca2409aeea69")]
 [assembly: System.Reflection.AssemblyProductAttribute("153. Code inside the catch block")]
 [assembly: System.Reflection.AssemblyTitleAttribute("153. Code inside the catch block")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

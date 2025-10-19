@@ -41,7 +41,7 @@ Console.WriteLine("The number is negative.");
 /// they do the same thing.
 /// 
 /// Maybe they are even worse because with goto we at least clearly see where we will be taken to. With exceptions,
-/// we must figure out by ourselves what catch block will be executed.
+/// we must figure out by ourselves which catch block will be executed.
 /// In our examples it was pretty obvious what catch block will be triggered.
 /// But in huge apps where we often have dozens of methods calling one another, it might be complicated.
 /// 

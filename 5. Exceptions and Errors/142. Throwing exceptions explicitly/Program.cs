@@ -43,7 +43,7 @@ int GetFirstElement(IEnumerable<int> numbers)
 
 // We have used new int[0]
 // I think we create the object of array whose size is 0.
-// So means no element in the array.
+// So, it means no element in the array.
 // but holds no value.
 // int[] item = new int[1]{10}; 
 // Here new int[1] means array of size one

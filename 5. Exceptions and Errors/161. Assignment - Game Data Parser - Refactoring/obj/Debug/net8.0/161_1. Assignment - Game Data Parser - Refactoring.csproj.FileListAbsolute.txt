@@ -1,0 +1,15 @@
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\bin\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.exe
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\bin\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.deps.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\bin\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.runtimeconfig.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\bin\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\bin\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\obj\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\obj\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.AssemblyInfoInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\obj\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.AssemblyInfo.cs
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\obj\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\obj\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.sourcelink.json
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\obj\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\obj\Debug\net8.0\refint\161_1. Assignment - Game Data Parser - Refactoring.dll
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\obj\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.pdb
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\obj\Debug\net8.0\161_1. Assignment - Game Data Parser - Refactoring.genruntimeconfig.cache
+D:\Code\Udemy\C#\C# Krytina\5. Exceptions and Errors\161. Assignment - Game Data Parser - Refactoring\obj\Debug\net8.0\ref\161_1. Assignment - Game Data Parser - Refactoring.dll

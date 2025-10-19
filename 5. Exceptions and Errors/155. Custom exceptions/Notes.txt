@@ -1,0 +1,28 @@
+1. If none of the predefined exceptions meet our needs, we can create our own exception classes
+   by deriving from the Exception base class.
+
+2. By convention we should end the class name with the word "Exception".
+
+3. There are some guidelines we should follow regarding the constructors that our exception classes
+   should provide.
+   To be consistent with how the System.Exception is implemented
+   we will add the same constructors to our class.
+   Those are:
+    public OurExceptionClassName() { }
+
+    public OurExceptionClassName(string message) : base(message) { }
+
+    public OurExceptionClassName(string message, Exception innerException) : base(message, innerException) { }
+
+    These 3 should be in our exception class and then we can create our own constructors as per our need.
+
+4. If we want to, we can add some extra data to this class by simply adding a new property.
+
+5. You may sometimes see that custom exceptions have two extra pieces of code.
+   We are talking about : protected OurExceptionClassName(SerializationInfo info, ..)
+   Microsoft's guidelines on creating custom exceptions do not say that we must add those things.
+   Their recommendations end at 3 constructors and the name that ends with the Exception word.
+
+5. Point 3's mentioned 3 constructors:
+   base(same parameter name as in constructor)
+   This is the way we call the base class constructor and also pass the parameters to it.

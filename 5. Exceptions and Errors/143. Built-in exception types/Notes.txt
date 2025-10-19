@@ -1,0 +1,21 @@
+1. IndexOutOfRangeException for array.
+
+2. ArgumentOutOfRangeException for List.
+
+3. InvalidOperationException when collection is empty.
+   This comes if you try to access the empty collection.
+
+4. ArgumentException when argument is not null but is invalid.
+
+5. If argument is null then use ArgumentNullException
+
+6. If value fo argument is outside of the range of valid values, 
+   then use ArgumentOutOfRangeException.
+
+7. ArgumentOutOfRangeException is derived from ArgumentException which is derived
+   from Exception.
+
+8. NotImplementedException:
+   Use it in method. When your methods return type is other than void,
+   bur for now you do not want add the logic in your method and only want to 
+   keep the method signature.

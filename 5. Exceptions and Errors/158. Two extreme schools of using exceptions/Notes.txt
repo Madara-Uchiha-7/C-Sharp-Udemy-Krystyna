@@ -1,0 +1,33 @@
+1. Exceptions impact the performance of the application quite significantly.
+   Of course, only if they are thrown.
+
+2. Exceptions make the code harder to follow.
+
+3. When an exception is thrown, the normal execution of the code is disrupted and we suddenly jump to
+   a completely different place in the code. 
+
+4. When goto is executed, the program jumps to some predefined label.
+
+   Syntax:
+
+   goto labelName;
+   // Some code
+   labelName:
+   // Some other code
+
+5. Using goto is considered one of the fastest paths to creating spaghetti code.
+
+6. In functional programming, which is a programming paradigm that has gathered more and
+   more interest in recent years, instead of throwing an exception, we often opt for returning a composite
+   result from a method.    
+   for the method returning the age of an employee, we would not return an integer, but
+   a special type that either carries an integer or information about the error.
+   This way the error becomes the part of the method's result, not a side effect.
+   It is clearly shown in the method signature.
+
+   e.g. OurCustomType<int,Error> CalculateEmployeeAge(Employee employee) { }
+
+   But in all places where we use the calculated age, we'll have to check if it was calculated without error.
+
+7. So we see that when it comes to exceptions, being extreme in both using them too much and avoiding them
+   at all costs may cause issues in our code. So, use them in balance.

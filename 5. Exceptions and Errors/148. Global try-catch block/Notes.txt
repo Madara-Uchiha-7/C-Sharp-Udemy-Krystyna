@@ -1,0 +1,12 @@
+1. If the assumptions a method operates on are not met, it is fine to throw an exception
+   because it is a situation when a developer made a mistake that needs to be fixed.
+
+2. Method should only handle an exception using catch when it can do it in a reasonable way.
+   If it can't, the exception should not be caught at all or it should be rethrown.
+
+3. Add a global try-catch block that can catch an exception not caught elsewhere and then shut the application down gracefully.
+
+4. A global try-catch block is a special place where catching the System.Exception is fine.
+   It should surround the entry point of the application.
+   Entry point is the first method that is called which also calls other methods.
+   In the console application it is the main method in the program class.

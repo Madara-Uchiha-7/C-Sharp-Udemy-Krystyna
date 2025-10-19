@@ -1,0 +1,25 @@
+1. Lets see when to throw:
+   It's okay to throw an exception if the assumptions a method
+   operates on are not met.
+   Lets say a method that returns the first element of a collection, it cannot do it if the collection is null or empty.
+   If a developer uses this method with a null or empty collection, they simply make a coding mistake.
+   As the creators of the this method, we are not responsible for other people's mistakes.
+   We could and we should throw an exception as we do not have any other reasonable choice.
+
+2. Lets see when not to throw:
+   Let's compare it with dividing two numbers in some calculator app.
+   If we divide by zero and an exception is thrown, we can say that it could be avoided if the developer
+   added an if statement checking if the divisor is zero.
+
+   or
+
+   An error in reading a non-existent file could be avoided if we first checked if the file existed.
+
+3. If normal program flow regularly runs into exceptions, you're doing something wrong.
+   For example, consider an app with a login screen where the user enters the login and password.
+   And user enters then wrong password then we should not throw the exception from our code in such case.
+   Incorrect passwords are entered by users all the time and there is nothing exceptional about that.
+   
+   A method validating the password should rather return a boolean.
+   
+   Exception should be used for exceptional behavior, not for controlling the flow of the program.
